@@ -181,13 +181,17 @@ const HUBSPOT_FORM_ID   = "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9";
       const parseErrors = [];
 
       for (const [source, file] of Object.entries(uploadedFiles)) {
-        const text = await readFileText(file);
         let result;
-        if (source === "spotify")  result = Parsers.parseSpotify(text);
-        else if (source === "meta") result = Parsers.parseMeta(text);
-        else if (source === "shopify") result = Parsers.parseShopify(text);
-        else if (source === "youtube") result = Parsers.parseYouTube(text);
-        else continue;
+        if (source === "spotify" && isImageFile(file)) {
+          result = await runSpotifyOCR(file);
+        } else {
+          const text = await readFileText(file);
+          if (source === "spotify")       result = Parsers.parseSpotify(text);
+          else if (source === "meta")     result = Parsers.parseMeta(text);
+          else if (source === "shopify")  result = Parsers.parseShopify(text);
+          else if (source === "youtube")  result = Parsers.parseYouTube(text);
+          else continue;
+        }
 
         if (result.error) {
           parseErrors.push(`${source}: ${result.error}`);
@@ -283,6 +287,39 @@ const HUBSPOT_FORM_ID   = "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9";
 
     resultsRenderer = MapRenderer.createRenderer("results-map", views, { zoom: 2 });
     wireTabs("results-tabs", (view) => resultsRenderer.switchTo(view));
+  }
+
+  // ---- Spotify OCR ----
+
+  function isImageFile(file) {
+    return /\.(png|jpe?g)$/i.test(file.name) || (file.type && file.type.startsWith("image/"));
+  }
+
+  async function runSpotifyOCR(file) {
+    const ocrProgress = document.getElementById("ocr-progress");
+    const ocrBar      = document.getElementById("ocr-bar");
+    const ocrLabel    = document.getElementById("ocr-label");
+
+    ocrProgress.classList.remove("hidden");
+    ocrBar.style.width = "0%";
+    ocrLabel.textContent = "Reading screenshot...";
+
+    try {
+      const { data: { text } } = await Tesseract.recognize(file, "eng", {
+        logger: m => {
+          if (m.status === "recognizing text") {
+            const pct = Math.round(m.progress * 100);
+            ocrBar.style.width = `${pct}%`;
+            ocrLabel.textContent = `Reading screenshot... ${pct}%`;
+          }
+        },
+      });
+      ocrProgress.classList.add("hidden");
+      return Parsers.parseSpotifyOCR(text);
+    } catch (e) {
+      ocrProgress.classList.add("hidden");
+      return { records: [], error: `Could not read screenshot: ${e.message}` };
+    }
   }
 
   // ---- Reset ----

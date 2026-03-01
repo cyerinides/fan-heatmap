@@ -39,6 +39,7 @@ const MapRenderer = (function () {
       zoom: defaultZoom,
       zoomControl: true,
       scrollWheelZoom: true,
+      worldCopyJump: true,
     });
 
     L.tileLayer(TILE_URL, { attribution: TILE_ATTR, maxZoom: 18 }).addTo(map);
@@ -128,6 +129,7 @@ const MapRenderer = (function () {
       center: options.center || [30, -20],
       zoom: defaultZoom,
       scrollWheelZoom: true,
+      worldCopyJump: true,
     });
 
     L.tileLayer(TILE_URL, { attribution: TILE_ATTR, maxZoom: 18 }).addTo(map);

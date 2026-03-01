@@ -273,6 +273,90 @@ const Parsers = (function () {
     return parseCSV(lines.join("\n"));
   }
 
+  // ---- Spotify OCR (screenshot parsing) ----
+
+  const US_STATES = new Set([
+    "AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA",
+    "KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
+    "NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT",
+    "VA","WA","WV","WI","WY","DC",
+    "Alabama","Alaska","Arizona","Arkansas","California","Colorado","Connecticut",
+    "Delaware","Florida","Georgia","Hawaii","Idaho","Illinois","Indiana","Iowa",
+    "Kansas","Kentucky","Louisiana","Maine","Maryland","Massachusetts","Michigan",
+    "Minnesota","Mississippi","Missouri","Montana","Nebraska","Nevada",
+    "New Hampshire","New Jersey","New Mexico","New York","North Carolina",
+    "North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania","Rhode Island",
+    "South Carolina","South Dakota","Tennessee","Texas","Utah","Vermont",
+    "Virginia","Washington","West Virginia","Wisconsin","Wyoming",
+  ]);
+
+  function parseListenerCount(raw) {
+    if (!raw) return 0;
+    const s = String(raw).replace(/,/g, "").trim();
+    const kMatch = s.match(/^([\d.]+)[Kk]$/);
+    if (kMatch) return Math.round(parseFloat(kMatch[1]) * 1000);
+    const mMatch = s.match(/^([\d.]+)[Mm]$/);
+    if (mMatch) return Math.round(parseFloat(mMatch[1]) * 1000000);
+    const n = parseFloat(s);
+    return isNaN(n) ? 0 : Math.round(n);
+  }
+
+  // Parse OCR text extracted from a Spotify for Artists "Top cities" screenshot.
+  // Handles both single-line ("Nashville, TN  12,456") and tabular formats.
+  function parseSpotifyOCR(text) {
+    const lines = text.split(/\r?\n/);
+    const records = [];
+
+    // Lines to skip (headers / labels)
+    const SKIP_RE = /^(top\s*cities?|city|monthly\s*listeners?|listeners?|country|rank|#\s*$|\s*$)/i;
+    // Pattern: optional leading rank, then location text, then a number at the end
+    const LINE_RE = /^(?:\d+[.):\s]+)?(.+?)\s{2,}([\d,]+(?:\.\d+)?[KkMm]?)\s*$/;
+    // Fallback: any line ending with a number after whitespace
+    const FALLBACK_RE = /^(.+?)\s+([\d,]+(?:\.\d+)?[KkMm]?)\s*$/;
+
+    for (let line of lines) {
+      line = line.trim();
+      if (!line || SKIP_RE.test(line)) continue;
+
+      let locationRaw = null, countRaw = null;
+
+      const m = LINE_RE.exec(line) || FALLBACK_RE.exec(line);
+      if (!m) continue;
+
+      locationRaw = m[1].trim().replace(/^\d+[.):\s]+/, "").trim();
+      countRaw = m[2];
+
+      const count = parseListenerCount(countRaw);
+      if (count < 100) continue; // too small to be a listener count
+
+      // Parse location: "City, State" / "City, Country" / "City"
+      let city = "", country = "";
+      const parts = locationRaw.split(/,\s*/).filter(Boolean);
+      if (parts.length >= 2) {
+        city = parts[0].trim();
+        const qualifier = parts[parts.length - 1].trim();
+        if (US_STATES.has(qualifier) || US_STATES.has(qualifier.toUpperCase())) {
+          country = "United States";
+        } else {
+          country = qualifier;
+        }
+      } else {
+        city = parts[0] || locationRaw;
+      }
+
+      if (!city) continue;
+      records.push({ source: "spotify", city, region: "", country, value: count });
+    }
+
+    if (!records.length) {
+      return {
+        records: [],
+        error: "No city data found in screenshot. Try the CSV template instead.",
+      };
+    }
+    return { records, error: null };
+  }
+
   // ---- Detect source from filename ----
   function detectSource(filename) {
     const f = filename.toLowerCase();
@@ -288,5 +372,5 @@ const Parsers = (function () {
     return "city,country,listeners\nNashville,United States,4200\nLos Angeles,United States,3800\nNew York,United States,3100\n";
   }
 
-  return { parseSpotify, parseMeta, parseShopify, parseYouTube, detectSource, spotifyTemplate };
+  return { parseSpotify, parseSpotifyOCR, parseMeta, parseShopify, parseYouTube, detectSource, spotifyTemplate };
 })();

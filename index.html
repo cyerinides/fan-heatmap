@@ -4,13 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Fan Heat Map — Signal & Stride</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
   <header class="site-header">
-    <span class="wordmark">Signal &amp; Stride</span>
+    <a href="https://www.signalandstride.com">
+      <img src="https://244429096.fs1.hubspotusercontent-na2.net/hubfs/244429096/Logo%20White.png" alt="Signal & Stride" class="site-logo">
+    </a>
   </header>
 
   <main>
@@ -18,7 +23,7 @@
     <!-- HERO -->
     <section class="hero">
       <h1>Fan Heat Map</h1>
-      <p class="hero-sub">See where your fans are — and where to focus your ad spend, tour routing, and merch drops. Combines Spotify, Meta Ads, Shopify, and YouTube data into one interactive map.</p>
+      <p class="hero-sub">Looking for a way to get more out of your data? Visualize your Spotify, Meta Ads, Shopify, and YouTube data into one interactive map so that you can see where to focus your ad spend and stop on tour.</p>
     </section>
 
     <!-- DEMO MAP -->
@@ -40,7 +45,7 @@
 
         <div class="upload-intro">
           <h2>Map your own fans</h2>
-          <p>Upload exports from your platforms. Your data is processed entirely in your browser — it is never sent to any server.</p>
+          <p>Upload exports from your platforms. Your data is processed entirely in your browser and is never sent to any server.</p>
         </div>
 
         <!-- EMAIL GATE -->
@@ -65,18 +70,23 @@
                 <span class="source-badge">Optional</span>
               </div>
               <div class="source-instructions">
-                <p><strong>Spotify doesn't export CSVs directly.</strong> Download our template, fill in your top cities from the Audience tab, and upload it below.</p>
+                <p>Spotify doesn't export CSVs directly. Upload a screenshot, or download our template, fill in your top cities from the Audience tab, and upload it below.</p>
+                <strong>Screenshot instructions:</strong>
                 <ol>
-                  <li>Go to <em>Audience</em> → scroll to <em>Cities</em></li>
-                  <li>Note your top cities and monthly listener counts</li>
-                  <li>Enter them into the template and upload</li>
+                  <li>Go to <em>Audience</em> → scroll to <em>Top cities</em></li>
+                  <li>Take a screenshot of the full city list (Mac: Command + Shift + 4)</li>
+                  <li>Upload the screenshot below — no date filter needed, Spotify shows current data automatically</li>
                 </ol>
-                <a href="#" class="template-link" data-source="spotify">Download template →</a>
+                <a href="#" class="template-link" data-source="spotify">Or download CSV template →</a>
               </div>
               <div class="dropzone" data-source="spotify">
-                <input type="file" accept=".csv" class="file-input" id="file-spotify">
-                <span class="dropzone-label">Drop CSV or click to upload</span>
+                <input type="file" accept=".csv,.png,.jpg,.jpeg" class="file-input" id="file-spotify">
+                <span class="dropzone-label">Drop screenshot or CSV here, or click to upload</span>
                 <span class="file-name"></span>
+              </div>
+              <div id="ocr-progress" class="ocr-progress hidden">
+                <div class="progress-track"><div class="progress-fill" id="ocr-bar"></div></div>
+                <p class="progress-label" id="ocr-label">Reading screenshot...</p>
               </div>
             </div>
 
@@ -87,10 +97,12 @@
                 <span class="source-badge">Optional</span>
               </div>
               <div class="source-instructions">
-                <p>Export a geographic breakdown from any campaigns you want included.</p>
+                <p>Export a geographic breakdown from your campaigns.</p>
+                <strong>Recommended export settings:</strong>
                 <ol>
-                  <li>Select your campaigns in Ads Manager</li>
-                  <li>Breakdown → By Delivery → <strong>Region</strong> (US state-level) or Country</li>
+                  <li>Set date range to <strong>Last 90 days</strong></li>
+                  <li>Select the campaigns you want to include</li>
+                  <li>Breakdown → By Delivery → <strong>Region</strong> (for US state-level detail) or Country (for international)</li>
                   <li>Export → Export Table Data → .csv</li>
                 </ol>
               </div>
@@ -109,9 +121,10 @@
               </div>
               <div class="source-instructions">
                 <p>Use the Customers by Location report for the most accurate buyer data.</p>
+                <strong>Recommended export settings:</strong>
                 <ol>
                   <li>Analytics → Reports → <strong>Customers by location</strong></li>
-                  <li>Set date range to <strong>Last 365 days</strong></li>
+                  <li>Set date range to <strong>Last 365 days</strong> for the most complete picture of your buyer geography</li>
                   <li>Export → Export customers by location</li>
                 </ol>
               </div>
@@ -130,9 +143,10 @@
               </div>
               <div class="source-instructions">
                 <p>Export from the Geography tab in Analytics.</p>
+                <strong>Recommended export settings:</strong>
                 <ol>
                   <li>Analytics → <strong>Geography</strong> tab</li>
-                  <li>Date range: <strong>Last 90 days</strong></li>
+                  <li>Set date range to <strong>Last 90 days</strong> for a current snapshot of your audience</li>
                   <li>Export icon (↓, top right) → Download as CSV</li>
                 </ol>
               </div>
@@ -173,7 +187,7 @@
             </div>
           </div>
           <div id="results-map" class="map-container"></div>
-          <p class="privacy-note">Your data was processed entirely in your browser and was never sent to any server.</p>
+          <p class="privacy-note">Your data is processed entirely in your browser and is never sent to any server.</p>
           <button id="reset-btn" class="btn-secondary">Upload new data</button>
         </div>
 
@@ -188,6 +202,7 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+  <script src="https://unpkg.com/tesseract.js@5/dist/tesseract.min.js"></script>
   <script src="js/demo-data.js"></script>
   <script src="js/parsers.js"></script>
   <script src="js/processor.js"></script>
