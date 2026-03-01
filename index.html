@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fan Heat Map — Signal & Stride</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <span class="wordmark">Signal &amp; Stride</span>
+  </header>
+
+  <main>
+
+    <!-- HERO -->
+    <section class="hero">
+      <h1>Fan Heat Map</h1>
+      <p class="hero-sub">See where your fans are — and where to focus your ad spend, tour routing, and merch drops. Combines Spotify, Meta Ads, Shopify, and YouTube data into one interactive map.</p>
+    </section>
+
+    <!-- DEMO MAP -->
+    <section class="map-section">
+      <div class="map-header">
+        <div class="map-tabs" id="demo-tabs">
+          <button class="tab active" data-view="listeners">Listeners</button>
+          <button class="tab" data-view="customers">Customers</button>
+          <button class="tab" data-view="blended">Blended</button>
+        </div>
+        <span class="map-label">Sample data — fictional band</span>
+      </div>
+      <div id="demo-map" class="map-container"></div>
+    </section>
+
+    <!-- UPLOAD SECTION -->
+    <section class="upload-section">
+      <div class="upload-inner">
+
+        <div class="upload-intro">
+          <h2>Map your own fans</h2>
+          <p>Upload exports from your platforms. Your data is processed entirely in your browser — it is never sent to any server.</p>
+        </div>
+
+        <!-- EMAIL GATE -->
+        <div id="email-gate">
+          <div class="email-row">
+            <input type="email" id="email-input" placeholder="Your email address" autocomplete="email">
+            <button id="email-submit" class="btn-primary">Get started</button>
+          </div>
+          <p class="fine-print">We'll add you to Signal &amp; Stride updates. Unsubscribe anytime.</p>
+          <p id="email-error" class="field-error hidden">Please enter a valid email address.</p>
+        </div>
+
+        <!-- UPLOAD UI -->
+        <div id="upload-ui" class="hidden">
+
+          <div class="sources-grid">
+
+            <!-- SPOTIFY -->
+            <div class="source-card" data-source="spotify">
+              <div class="source-header">
+                <span class="source-name">Spotify for Artists</span>
+                <span class="source-badge">Optional</span>
+              </div>
+              <div class="source-instructions">
+                <p><strong>Spotify doesn't export CSVs directly.</strong> Download our template, fill in your top cities from the Audience tab, and upload it below.</p>
+                <ol>
+                  <li>Go to <em>Audience</em> → scroll to <em>Cities</em></li>
+                  <li>Note your top cities and monthly listener counts</li>
+                  <li>Enter them into the template and upload</li>
+                </ol>
+                <a href="#" class="template-link" data-source="spotify">Download template →</a>
+              </div>
+              <div class="dropzone" data-source="spotify">
+                <input type="file" accept=".csv" class="file-input" id="file-spotify">
+                <span class="dropzone-label">Drop CSV or click to upload</span>
+                <span class="file-name"></span>
+              </div>
+            </div>
+
+            <!-- META -->
+            <div class="source-card" data-source="meta">
+              <div class="source-header">
+                <span class="source-name">Meta Ads Manager</span>
+                <span class="source-badge">Optional</span>
+              </div>
+              <div class="source-instructions">
+                <p>Export a geographic breakdown from any campaigns you want included.</p>
+                <ol>
+                  <li>Select your campaigns in Ads Manager</li>
+                  <li>Breakdown → By Delivery → <strong>Region</strong> (US state-level) or Country</li>
+                  <li>Export → Export Table Data → .csv</li>
+                </ol>
+              </div>
+              <div class="dropzone" data-source="meta">
+                <input type="file" accept=".csv" class="file-input" id="file-meta">
+                <span class="dropzone-label">Drop CSV or click to upload</span>
+                <span class="file-name"></span>
+              </div>
+            </div>
+
+            <!-- SHOPIFY -->
+            <div class="source-card" data-source="shopify">
+              <div class="source-header">
+                <span class="source-name">Shopify</span>
+                <span class="source-badge">Optional</span>
+              </div>
+              <div class="source-instructions">
+                <p>Use the Customers by Location report for the most accurate buyer data.</p>
+                <ol>
+                  <li>Analytics → Reports → <strong>Customers by location</strong></li>
+                  <li>Set date range to <strong>Last 365 days</strong></li>
+                  <li>Export → Export customers by location</li>
+                </ol>
+              </div>
+              <div class="dropzone" data-source="shopify">
+                <input type="file" accept=".csv" class="file-input" id="file-shopify">
+                <span class="dropzone-label">Drop CSV or click to upload</span>
+                <span class="file-name"></span>
+              </div>
+            </div>
+
+            <!-- YOUTUBE -->
+            <div class="source-card" data-source="youtube">
+              <div class="source-header">
+                <span class="source-name">YouTube Studio</span>
+                <span class="source-badge">Optional</span>
+              </div>
+              <div class="source-instructions">
+                <p>Export from the Geography tab in Analytics.</p>
+                <ol>
+                  <li>Analytics → <strong>Geography</strong> tab</li>
+                  <li>Date range: <strong>Last 90 days</strong></li>
+                  <li>Export icon (↓, top right) → Download as CSV</li>
+                </ol>
+              </div>
+              <div class="dropzone" data-source="youtube">
+                <input type="file" accept=".csv" class="file-input" id="file-youtube">
+                <span class="dropzone-label">Drop CSV or click to upload</span>
+                <span class="file-name"></span>
+              </div>
+            </div>
+
+          </div><!-- .sources-grid -->
+
+          <div class="generate-row">
+            <button id="generate-btn" class="btn-primary" disabled>Generate my map</button>
+            <span class="generate-hint" id="generate-hint">Upload at least one file above</span>
+          </div>
+
+          <!-- PROGRESS -->
+          <div id="progress-section" class="hidden">
+            <div class="progress-track">
+              <div class="progress-fill" id="progress-bar"></div>
+            </div>
+            <p id="progress-label" class="progress-label">Processing...</p>
+          </div>
+
+          <!-- ERROR -->
+          <p id="process-error" class="field-error hidden"></p>
+
+        </div><!-- #upload-ui -->
+
+        <!-- RESULTS -->
+        <div id="results-section" class="hidden">
+          <div class="map-header">
+            <div class="map-tabs" id="results-tabs">
+              <button class="tab active" data-view="listeners">Listeners</button>
+              <button class="tab" data-view="customers">Customers</button>
+              <button class="tab" data-view="blended">Blended</button>
+            </div>
+          </div>
+          <div id="results-map" class="map-container"></div>
+          <p class="privacy-note">Your data was processed entirely in your browser and was never sent to any server.</p>
+          <button id="reset-btn" class="btn-secondary">Upload new data</button>
+        </div>
+
+      </div><!-- .upload-inner -->
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>© <a href="https://www.signalandstride.com">Signal &amp; Stride</a> &nbsp;·&nbsp; Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors © <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a></p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+  <script src="js/demo-data.js"></script>
+  <script src="js/parsers.js"></script>
+  <script src="js/processor.js"></script>
+  <script src="js/geocoder.js"></script>
+  <script src="js/map-renderer.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>

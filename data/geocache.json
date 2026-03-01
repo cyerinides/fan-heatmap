@@ -1,0 +1,6325 @@
+{
+  "nashville||united states": {
+    "lat": 36.1622767,
+    "long": -86.7742984
+  },
+  "los angeles||united states": {
+    "lat": 34.0536909,
+    "long": -118.242766
+  },
+  "chicago||united states": {
+    "lat": 41.8755616,
+    "long": -87.6244212
+  },
+  "new york||united states": {
+    "lat": 40.7127281,
+    "long": -74.0060152
+  },
+  "austin||united states": {
+    "lat": 30.2711286,
+    "long": -97.7436995
+  },
+  "seattle||united states": {
+    "lat": 47.6038321,
+    "long": -122.330062
+  },
+  "denver||united states": {
+    "lat": 39.7392364,
+    "long": -104.984862
+  },
+  "atlanta||united states": {
+    "lat": 33.7544657,
+    "long": -84.3898151
+  },
+  "boston||united states": {
+    "lat": 42.3588336,
+    "long": -71.0578303
+  },
+  "portland||united states": {
+    "lat": 45.5202471,
+    "long": -122.674194
+  },
+  "||united states": {
+    "lat": 39.7837304,
+    "long": -100.445882
+  },
+  "||canada": {
+    "lat": 61.0666922,
+    "long": -107.991707
+  },
+  "||united kingdom": {
+    "lat": 54.7023545,
+    "long": -3.2765753
+  },
+  "||australia": {
+    "lat": -24.7761086,
+    "long": 134.755
+  },
+  "||germany": {
+    "lat": 51.1638175,
+    "long": 10.4478313
+  },
+  "||s\u00e3o paulo (state)": {
+    "lat": 19.5873645,
+    "long": -99.0121288
+  },
+  "||england": {
+    "lat": 52.5310214,
+    "long": -1.2649062
+  },
+  "||ontario": {
+    "lat": 50.000678,
+    "long": -86.000977
+  },
+  "||california": {
+    "lat": 36.7014631,
+    "long": -118.755997
+  },
+  "||rio de janeiro (state)": {
+    "lat": 48.3905409,
+    "long": 9.996105
+  },
+  "||texas": {
+    "lat": 31.2638905,
+    "long": -98.5456116
+  },
+  "||santiago metropolitan region": {
+    "lat": -33.5739341,
+    "long": -70.6205518
+  },
+  "||buenos aires": {
+    "lat": -34.6095579,
+    "long": -58.3887904
+  },
+  "||minas gerais": {
+    "lat": -18.5264844,
+    "long": -44.1588654
+  },
+  "||rio grande do sul": {
+    "lat": -29.8425284,
+    "long": -53.7680577
+  },
+  "||british columbia": {
+    "lat": 55.001251,
+    "long": -125.002441
+  },
+  "||paran\u00e1": {
+    "lat": -24.4842187,
+    "long": -51.8148872
+  },
+  "||kyiv": {
+    "lat": 50.4500336,
+    "long": 30.5241361
+  },
+  "||new york": {
+    "lat": 40.7127281,
+    "long": -74.0060152
+  },
+  "||florida": {
+    "lat": 27.7567667,
+    "long": -81.4639835
+  },
+  "||pennsylvania": {
+    "lat": 40.9699889,
+    "long": -77.7278831
+  },
+  "||lima region": {
+    "lat": -23.8807425,
+    "long": -56.4824428
+  },
+  "||washington": {
+    "lat": 38.8950368,
+    "long": -77.0365427
+  },
+  "||alberta": {
+    "lat": 55.001251,
+    "long": -115.002136
+  },
+  "||santa catarina": {
+    "lat": -27.0628367,
+    "long": -51.114965
+  },
+  "||bayern": {
+    "lat": 48.9467562,
+    "long": 11.4038717
+  },
+  "||quebec": {
+    "lat": 52.4760892,
+    "long": -71.8258668
+  },
+  "||masovian voivodeship": {
+    "lat": 52.5461934,
+    "long": 21.2073404
+  },
+  "||ohio": {
+    "lat": 40.2253569,
+    "long": -82.6881395
+  },
+  "||distrito federal": {
+    "lat": -15.7754462,
+    "long": -47.7970891
+  },
+  "||nordrhein-westfalen": {
+    "lat": 51.4789205,
+    "long": 7.5543751
+  },
+  "||connecticut": {
+    "lat": 41.6500201,
+    "long": -72.7342163
+  },
+  "||distrito especial": {
+    "lat": 4.2834715,
+    "long": -74.1753606
+  },
+  "||illinois": {
+    "lat": 40.0796606,
+    "long": -89.4337288
+  },
+  "||pichincha province": {
+    "lat": -34.5798848,
+    "long": -62.3500329
+  },
+  "||new south wales": {
+    "lat": -31.8759835,
+    "long": 147.2869493
+  },
+  "||virginia": {
+    "lat": 37.1232245,
+    "long": -78.4927721
+  },
+  "||wisconsin": {
+    "lat": 44.4308975,
+    "long": -89.6884637
+  },
+  "||victoria": {
+    "lat": -36.5986096,
+    "long": 144.6780052
+  },
+  "||capital district": {
+    "lat": 10.4658389,
+    "long": -66.9949964
+  },
+  "||tennessee": {
+    "lat": 35.7730076,
+    "long": -86.2820081
+  },
+  "||queensland": {
+    "lat": -22.1646782,
+    "long": 144.5844903
+  },
+  "||budapest": {
+    "lat": 47.4813896,
+    "long": 19.1460941
+  },
+  "||attica (region)": {
+    "lat": 37.87213,
+    "long": 23.7975272
+  },
+  "||north carolina": {
+    "lat": 35.6729639,
+    "long": -79.0392919
+  },
+  "||istanbul province": {
+    "lat": 33.3446955,
+    "long": 44.2733799
+  },
+  "||comunidad de madrid": {
+    "lat": 40.5248319,
+    "long": -3.7715628
+  },
+  "||new jersey": {
+    "lat": 40.0757384,
+    "long": -74.4041622
+  },
+  "||andalusia": {
+    "lat": 37.3399964,
+    "long": -4.5811614
+  },
+  "||ciudad aut\u00f3noma de buenos aires": {
+    "lat": -34.6161231,
+    "long": -58.4356212
+  },
+  "||catalu\u00f1a": {
+    "lat": 41.8523094,
+    "long": 1.5745043
+  },
+  "||silesian voivodeship": {
+    "lat": 50.5687422,
+    "long": 19.2343995
+  },
+  "||michigan": {
+    "lat": 43.6211955,
+    "long": -84.6824346
+  },
+  "||stockholm county": {
+    "lat": 59.3948653,
+    "long": 18.6660073
+  },
+  "||georgia": {
+    "lat": 32.3293809,
+    "long": -83.1137366
+  },
+  "||lombardia": {
+    "lat": 45.5703694,
+    "long": 9.7732524
+  },
+  "||dnipropetrovsk oblast": {
+    "lat": 48.662589,
+    "long": 34.9501715
+  },
+  "||arizona": {
+    "lat": 34.395342,
+    "long": -111.763275
+  },
+  "||indiana": {
+    "lat": 40.3270127,
+    "long": -86.1746933
+  },
+  "||missouri": {
+    "lat": 38.7604815,
+    "long": -92.5617875
+  },
+  "||baden-w\u00fcrttemberg": {
+    "lat": 48.53775,
+    "long": 9.041169
+  },
+  "||state of mexico": {
+    "lat": 19.4839446,
+    "long": -99.6899716
+  },
+  "||antioquia": {
+    "lat": 7.0000085,
+    "long": -75.5000086
+  },
+  "||v\u00e4stra g\u00f6taland county": {
+    "lat": 58.2245513,
+    "long": 12.6522185
+  },
+  "||lesser poland voivodeship": {
+    "lat": 49.790952,
+    "long": 20.3793521
+  },
+  "||lisbon district": {
+    "lat": 38.9952469,
+    "long": -9.1435928
+  },
+  "||niedersachsen": {
+    "lat": 52.8398531,
+    "long": 9.075962
+  },
+  "||carabobo": {
+    "lat": 10.2137258,
+    "long": -68.0396345
+  },
+  "||lower silesian voivodeship": {
+    "lat": 50.9206028,
+    "long": 16.4946351
+  },
+  "||flemish region": {
+    "lat": 50.8552412,
+    "long": 4.3490068
+  },
+  "||cear\u00e1": {
+    "lat": -5.3264703,
+    "long": -39.7156073
+  },
+  "||bahia": {
+    "lat": -12.285251,
+    "long": -41.9294776
+  },
+  "||colorado": {
+    "lat": 38.7251776,
+    "long": -105.607716
+  },
+  "||zulia": {
+    "lat": 9.8910697,
+    "long": -72.087479
+  },
+  "||massachusetts": {
+    "lat": 42.3788774,
+    "long": -72.032366
+  },
+  "||greater poland voivodeship": {
+    "lat": 52.1458506,
+    "long": 17.397672
+  },
+  "||scotland": {
+    "lat": 56.7861112,
+    "long": -4.1140518
+  },
+  "||\u00eele-de-france": {
+    "lat": 48.6443057,
+    "long": 2.7537863
+  },
+  "||minnesota": {
+    "lat": 45.9896587,
+    "long": -94.6113288
+  },
+  "||goi\u00e1s": {
+    "lat": -15.9323662,
+    "long": -50.1392928
+  },
+  "||comunidad valenciana": {
+    "lat": 39.6819591,
+    "long": -0.7654406
+  },
+  "||jalisco": {
+    "lat": 20.3333331,
+    "long": -103.6666671
+  },
+  "||pomeranian voivodeship": {
+    "lat": 54.24556,
+    "long": 18.1099
+  },
+  "||guayas province": {
+    "lat": -2.2185683,
+    "long": -80.9612223
+  },
+  "||sk\u00e5ne county": {
+    "lat": 55.8472301,
+    "long": 13.6339292
+  },
+  "||idaho": {
+    "lat": 43.6447642,
+    "long": -114.015407
+  },
+  "||western australia": {
+    "lat": -25.2303005,
+    "long": 121.0187246
+  },
+  "||pernambuco": {
+    "lat": -8.4116316,
+    "long": -37.5919699
+  },
+  "||san jos\u00e9 province": {
+    "lat": 9.6313549,
+    "long": -84.0670548
+  },
+  "||saskatchewan": {
+    "lat": 55.5321257,
+    "long": -106.141224
+  },
+  "||south carolina": {
+    "lat": 33.6874388,
+    "long": -80.4363743
+  },
+  "||panam\u00e1 province": {
+    "lat": 8.1941998,
+    "long": -79.1924832
+  },
+  "||nevada": {
+    "lat": 39.5158825,
+    "long": -116.853722
+  },
+  "||oregon": {
+    "lat": 43.9792797,
+    "long": -120.737257
+  },
+  "||federal district": {
+    "lat": -15.7754462,
+    "long": -47.7970891
+  },
+  "||emilia-romagna": {
+    "lat": 44.525696,
+    "long": 11.039437
+  },
+  "||maryland": {
+    "lat": 39.5162401,
+    "long": -76.9382069
+  },
+  "||lazio": {
+    "lat": 41.9801648,
+    "long": 12.7667971
+  },
+  "||valpara\u00edso region": {
+    "lat": -32.5976089,
+    "long": -70.8529753
+  },
+  "||hessen": {
+    "lat": 50.6080651,
+    "long": 9.0284647
+  },
+  "||veracruz": {
+    "lat": 19.333333,
+    "long": -96.666667
+  },
+  "||kiev oblast": {
+    "lat": 50.178595,
+    "long": 30.4924884
+  },
+  "||zuid-holland": {
+    "lat": 51.9966792,
+    "long": 4.5597397
+  },
+  "||bucharest": {
+    "lat": 44.4361414,
+    "long": 26.102684
+  },
+  "||odessa oblast": {
+    "lat": 46.1147226,
+    "long": 29.9567193
+  },
+  "||aragua": {
+    "lat": 9.9897564,
+    "long": -67.0839257
+  },
+  "||kharkiv oblast": {
+    "lat": 49.8299582,
+    "long": 36.3788957
+  },
+  "||nuevo le\u00f3n": {
+    "lat": 26.2384363,
+    "long": -99.8873
+  },
+  "||rh\u00f4ne-alpes": {
+    "lat": 45.3175313,
+    "long": 5.7212944
+  },
+  "||noord-holland": {
+    "lat": 52.7212825,
+    "long": 4.820665
+  },
+  "||\u0142\u00f3d\u017a voivodeship": {
+    "lat": 51.4721678,
+    "long": 19.3460637
+  },
+  "||montevideo department": {
+    "lat": -6.6182405,
+    "long": -77.8024123
+  },
+  "||veneto": {
+    "lat": 45.6476663,
+    "long": 11.8665254
+  },
+  "||manitoba": {
+    "lat": 55.001251,
+    "long": -97.001038
+  },
+  "||puebla": {
+    "lat": 18.833333,
+    "long": -98.0
+  },
+  "||par\u00e1": {
+    "lat": -4.7493933,
+    "long": -52.8973006
+  },
+  "||asunci\u00f3n": {
+    "lat": -25.2800459,
+    "long": -57.6343814
+  },
+  "||iowa": {
+    "lat": 41.9216734,
+    "long": -93.3122705
+  },
+  "||prague": {
+    "lat": 50.0874654,
+    "long": 14.4212535
+  },
+  "||lviv oblast": {
+    "lat": 49.6512234,
+    "long": 23.8266948
+  },
+  "||esp\u00edrito santo": {
+    "lat": -19.5687682,
+    "long": -40.1721991
+  },
+  "||kentucky": {
+    "lat": 37.5726028,
+    "long": -85.1551411
+  },
+  "||c\u00f3rdoba": {
+    "lat": 37.8845813,
+    "long": -4.7760138
+  },
+  "||pa\u00eds vasco": {
+    "lat": 42.9911816,
+    "long": -2.5543023
+  },
+  "||piedmont": {
+    "lat": 45.060735,
+    "long": 7.923549
+  },
+  "||santa fe": {
+    "lat": -30.3154739,
+    "long": -61.1645076
+  },
+  "||central department": {
+    "lat": -25.5,
+    "long": -57.5
+  },
+  "||sachsen": {
+    "lat": 50.9295798,
+    "long": 13.4585052
+  },
+  "||porto district": {
+    "lat": 41.2366885,
+    "long": -8.3020183
+  },
+  "||b\u00edo b\u00edo region": {
+    "lat": -33.4766072,
+    "long": -70.6421784
+  },
+  "||new brunswick": {
+    "lat": 46.500283,
+    "long": -66.750183
+  },
+  "||guanajuato": {
+    "lat": 20.9876996,
+    "long": -101.0
+  },
+  "||south australia": {
+    "lat": -30.5343665,
+    "long": 135.6301212
+  },
+  "||provence-alpes-c\u00f4te d'azur": {
+    "lat": 44.0580563,
+    "long": 6.0638506
+  },
+  "||wallonia": {
+    "lat": 50.3154983,
+    "long": 5.0097962
+  },
+  "||miranda (state)": {
+    "lat": 10.2343499,
+    "long": -66.3807249
+  },
+  "||valle del cauca": {
+    "lat": 3.6984053,
+    "long": -76.5501996
+  },
+  "||lublin voivodeship": {
+    "lat": 50.9358672,
+    "long": 22.8307732
+  },
+  "||louisiana": {
+    "lat": 30.8703881,
+    "long": -92.007126
+  },
+  "||lara": {
+    "lat": 10.0714491,
+    "long": -70.0270358
+  },
+  "||wales": {
+    "lat": 52.2928116,
+    "long": -3.73893
+  },
+  "||baja california": {
+    "lat": 30.0338923,
+    "long": -115.1425107
+  },
+  "||zaporizhia oblast": {
+    "lat": 47.4165079,
+    "long": 35.922969
+  },
+  "||distrito nacional": {
+    "lat": 18.48536,
+    "long": -69.9299587
+  },
+  "||oklahoma": {
+    "lat": 34.9550817,
+    "long": -97.2684063
+  },
+  "||pest county": {
+    "lat": 39.9498195,
+    "long": -82.008934
+  },
+  "||utah": {
+    "lat": 39.4225192,
+    "long": -111.714358
+  },
+  "||maranh\u00e3o": {
+    "lat": -5.2085503,
+    "long": -45.3930262
+  },
+  "||podkarpackie voivodeship": {
+    "lat": 50.1172707,
+    "long": 22.0207943
+  },
+  "||kuyavian-pomeranian voivodeship": {
+    "lat": 53.3139833,
+    "long": 18.3797516
+  },
+  "||michoac\u00e1n de ocampo": {
+    "lat": 19.207098,
+    "long": -101.878113
+  },
+  "||san juan": {
+    "lat": 18.465299,
+    "long": -66.116666
+  },
+  "||gelderland": {
+    "lat": 52.1014041,
+    "long": 5.9515701
+  },
+  "||west pomeranian voivodeship": {
+    "lat": 53.5450793,
+    "long": 15.5661586
+  },
+  "||nova scotia": {
+    "lat": 45.1960403,
+    "long": -63.1653789
+  },
+  "||tuscany": {
+    "lat": 43.4586541,
+    "long": 11.1389204
+  },
+  "||west virginia": {
+    "lat": 38.4758406,
+    "long": -80.8408415
+  },
+  "||auckland region": {
+    "lat": -37.0114789,
+    "long": 174.8505779
+  },
+  "||anzo\u00e1tegui": {
+    "lat": 9.0197925,
+    "long": -64.2168001
+  },
+  "||alabama": {
+    "lat": 33.2588817,
+    "long": -86.8295337
+  },
+  "||poltava oblast": {
+    "lat": 49.8607809,
+    "long": 33.7498787
+  },
+  "||rheinland-pfalz": {
+    "lat": 49.9531599,
+    "long": 7.310646
+  },
+  "||delaware": {
+    "lat": 38.6920451,
+    "long": -75.4013315
+  },
+  "||para\u00edba": {
+    "lat": -7.1219366,
+    "long": -36.7246845
+  },
+  "||central macedonia": {
+    "lat": 40.8899865,
+    "long": 22.7693631
+  },
+  "||aquitaine": {
+    "lat": 44.2462064,
+    "long": -0.1839979
+  },
+  "||arkansas": {
+    "lat": 35.2048883,
+    "long": -92.4479108
+  },
+  "||galicia": {
+    "lat": 42.61946,
+    "long": -7.863112
+  },
+  "||nebraska": {
+    "lat": 41.7370229,
+    "long": -99.5873816
+  },
+  "||schleswig-holstein": {
+    "lat": 54.1853998,
+    "long": 9.8220089
+  },
+  "||central district": {
+    "lat": -21.4790187,
+    "long": 26.2154174
+  },
+  "||sardinia": {
+    "lat": 40.0912813,
+    "long": 9.0305773
+  },
+  "||mendoza": {
+    "lat": -34.5970325,
+    "long": -68.7304797
+  },
+  "||capital region of denmark": {
+    "lat": 55.8616018,
+    "long": 12.3137969
+  },
+  "||new hampshire": {
+    "lat": 43.4849133,
+    "long": -71.6553992
+  },
+  "||berlin": {
+    "lat": 52.5173885,
+    "long": 13.3951309
+  },
+  "||puglia": {
+    "lat": 40.9842539,
+    "long": 16.6210027
+  },
+  "||islas canarias": {
+    "lat": 28.2935785,
+    "long": -16.6214471
+  },
+  "||chihuahua": {
+    "lat": 28.5000001,
+    "long": -106.0000001
+  },
+  "||azuay province": {
+    "lat": -34.6355271,
+    "long": -58.8879844
+  },
+  "||guerrero": {
+    "lat": 17.666667,
+    "long": -100.0
+  },
+  "||chernihiv oblast": {
+    "lat": 51.272593,
+    "long": 31.7417235
+  },
+  "||t\u00e1chira": {
+    "lat": 7.8954983,
+    "long": -72.0214319
+  },
+  "||set\u00fabal district": {
+    "lat": 38.2975546,
+    "long": -8.4616115
+  },
+  "||mato grosso do sul": {
+    "lat": -19.5852564,
+    "long": -54.4794731
+  },
+  "||i\u0307zmir province": {
+    "lat": 35.5698581,
+    "long": -5.3713733
+  },
+  "||north brabant": {
+    "lat": 51.6017723,
+    "long": 5.4441391
+  },
+  "||sicilia": {
+    "lat": 37.587794,
+    "long": 14.155048
+  },
+  "||mato grosso": {
+    "lat": -12.2115009,
+    "long": -55.5716547
+  },
+  "||sonora": {
+    "lat": 29.3333331,
+    "long": -110.6666671
+  },
+  "||bretagne": {
+    "lat": 48.2640845,
+    "long": -2.9202408
+  },
+  "||borsod-aba\u00faj-zempl\u00e9n county": {
+    "lat": 48.1039805,
+    "long": 20.7968698
+  },
+  "||moravian-silesian region": {
+    "lat": 49.860275,
+    "long": 18.0386541
+  },
+  "||vinnytsia oblast": {
+    "lat": 48.8990315,
+    "long": 28.516068
+  },
+  "||pays de la loire": {
+    "lat": 47.6594864,
+    "long": -0.8186143
+  },
+  "||south moravian region": {
+    "lat": 49.1249179,
+    "long": 16.6827716
+  },
+  "||hamburg": {
+    "lat": 53.550341,
+    "long": 10.000654
+  },
+  "||northern ireland": {
+    "lat": 54.5859836,
+    "long": -6.9591554
+  },
+  "||nord-pas-de-calais": {
+    "lat": 50.5289634,
+    "long": 2.4545158
+  },
+  "||castilla y leon": {
+    "lat": 41.55005,
+    "long": -5.1387401
+  },
+  "||overijssel": {
+    "lat": 52.4254143,
+    "long": 6.4610611
+  },
+  "||dublin": {
+    "lat": 53.3493795,
+    "long": -6.2605593
+  },
+  "||amazonas": {
+    "lat": -0.6207328,
+    "long": -51.5756469
+  },
+  "||tel aviv": {
+    "lat": 32.0852997,
+    "long": 34.7818064
+  },
+  "||o'higgins region": {
+    "lat": -34.534538,
+    "long": -71.0354822
+  },
+  "||ankara province": {
+    "lat": -24.7475328,
+    "long": 47.0633912
+  },
+  "||warmian-masurian voivodeship": {
+    "lat": 53.9311892,
+    "long": 21.1260808
+  },
+  "||los lagos region": {
+    "lat": -42.300844,
+    "long": -73.105387
+  },
+  "||quer\u00e9taro arteaga": {
+    "lat": 20.5868036,
+    "long": -100.4007466
+  },
+  "||rio grande do norte": {
+    "lat": -5.6781175,
+    "long": -36.4781776
+  },
+  "||canterbury": {
+    "lat": 51.2800275,
+    "long": 1.0802533
+  },
+  "||region of murcia": {
+    "lat": 37.9166355,
+    "long": -1.4779797
+  },
+  "||balearic islands": {
+    "lat": 39.613432,
+    "long": 2.8829185
+  },
+  "||sinaloa": {
+    "lat": 25.0000001,
+    "long": -107.5000001
+  },
+  "||hajd\u00fa-bihar county": {
+    "lat": null,
+    "long": null
+  },
+  "||arequipa region": {
+    "lat": -16.3993573,
+    "long": -71.5326763
+  },
+  "||\u015bwi\u0119tokrzyskie voivodeship": {
+    "lat": 51.1337225,
+    "long": 21.0012352
+  },
+  "||uusimaa": {
+    "lat": 60.2246684,
+    "long": 25.1272631
+  },
+  "||central bohemian region": {
+    "lat": 50.0601579,
+    "long": 13.8307479
+  },
+  "||alajuela province": {
+    "lat": 10.4523317,
+    "long": -84.4663284
+  },
+  "||cundinamarca": {
+    "lat": 4.7831994,
+    "long": -73.6731282
+  },
+  "||brandenburg": {
+    "lat": 52.8455492,
+    "long": 13.2461296
+  },
+  "||\u00f6sterg\u00f6tland county": {
+    "lat": 58.3678117,
+    "long": 16.0463853
+  },
+  "||new mexico": {
+    "lat": 34.5802074,
+    "long": -105.996047
+  },
+  "||kansas": {
+    "lat": 38.27312,
+    "long": -98.5821872
+  },
+  "||cherkasy oblast": {
+    "lat": 49.1460165,
+    "long": 31.2271744
+  },
+  "||languedoc-roussillon": {
+    "lat": 43.6542031,
+    "long": 3.6746699
+  },
+  "||zhytomyr oblast": {
+    "lat": 50.9080532,
+    "long": 28.3867504
+  },
+  "||bol\u00edvar (state)": {
+    "lat": 6.2003493,
+    "long": -63.2775558
+  },
+  "||cartago province": {
+    "lat": 9.8157323,
+    "long": -83.6943809
+  },
+  "||th\u00fcringen": {
+    "lat": 50.9014721,
+    "long": 11.0377839
+  },
+  "||narino": {
+    "lat": 1.5842268,
+    "long": -77.8585766
+  },
+  "||coahuila de zaragoza": {
+    "lat": 27.3333331,
+    "long": -102.0000001
+  },
+  "||heredia province": {
+    "lat": 10.3767813,
+    "long": -84.0139721
+  },
+  "||piau\u00ed": {
+    "lat": -7.6992782,
+    "long": -42.5043787
+  },
+  "||santander": {
+    "lat": 43.4618932,
+    "long": -3.8100255
+  },
+  "||campania": {
+    "lat": 40.860672,
+    "long": 14.843984
+  },
+  "||castilla-la mancha": {
+    "lat": 39.4177902,
+    "long": -2.6232332
+  },
+  "||araucan\u00eda region": {
+    "lat": -38.6678955,
+    "long": -72.2610066
+  },
+  "||falc\u00f3n": {
+    "lat": 11.273946,
+    "long": -69.5834205
+  },
+  "||maule region": {
+    "lat": -35.5972284,
+    "long": -71.48868
+  },
+  "||tamaulipas": {
+    "lat": 23.9891553,
+    "long": -98.7026825
+  },
+  "||sumy oblast": {
+    "lat": 50.7696518,
+    "long": 34.3289305
+  },
+  "||chiapas": {
+    "lat": 16.5000001,
+    "long": -92.5000001
+  },
+  "||zakarpattia oblast": {
+    "lat": 48.2953664,
+    "long": 23.4466092
+  },
+  "||carolina": {
+    "lat": 18.3640599,
+    "long": -65.9526682
+  },
+  "||m\u00e9rida": {
+    "lat": 38.9174665,
+    "long": -6.3443977
+  },
+  "||utrecht": {
+    "lat": 52.0907006,
+    "long": 5.1215634
+  },
+  "||antofagasta region": {
+    "lat": -23.6041314,
+    "long": -69.0842783
+  },
+  "||oaxaca": {
+    "lat": 17.0,
+    "long": -96.5
+  },
+  "||opole voivodeship": {
+    "lat": 50.8918612,
+    "long": 17.9321175
+  },
+  "||alagoas": {
+    "lat": -9.6611661,
+    "long": -36.6502426
+  },
+  "||bayam\u00f3n": {
+    "lat": 18.3449582,
+    "long": -66.168374
+  },
+  "||khmelnytskyi oblast": {
+    "lat": 49.268624,
+    "long": 27.0635998
+  },
+  "||ivano-frankivsk oblast": {
+    "lat": 48.7481718,
+    "long": 24.5207477
+  },
+  "||sucre": {
+    "lat": -19.0477251,
+    "long": -65.2594306
+  },
+  "||mississippi": {
+    "lat": 32.9715285,
+    "long": -89.7348497
+  },
+  "||wellington region": {
+    "lat": -41.2235474,
+    "long": 175.4157576
+  },
+  "||coquimbo region": {
+    "lat": -30.7546652,
+    "long": -70.9005536
+  },
+  "||podlaskie voivodeship": {
+    "lat": 53.2668455,
+    "long": 22.8525787
+  },
+  "||poitou-charentes": {
+    "lat": 46.1324479,
+    "long": -0.1545535
+  },
+  "||midi-pyr\u00e9n\u00e9es": {
+    "lat": 43.8099068,
+    "long": 1.4344926
+  },
+  "||region of southern denmark": {
+    "lat": 55.3784263,
+    "long": 9.1318064
+  },
+  "||faro district": {
+    "lat": 37.2448086,
+    "long": -8.1507562
+  },
+  "||manab\u00ed province": {
+    "lat": -2.2265873,
+    "long": -80.8561783
+  },
+  "||vermont": {
+    "lat": 44.5990718,
+    "long": -72.5002608
+  },
+  "||quintana roo": {
+    "lat": 19.6666671,
+    "long": -88.5000001
+  },
+  "||rivne oblast": {
+    "lat": 51.2074112,
+    "long": 26.5208033
+  },
+  "||maine": {
+    "lat": 45.709097,
+    "long": -68.8590201
+  },
+  "||mykolaiv oblast": {
+    "lat": 47.3886032,
+    "long": 31.9442334
+  },
+  "||g\u00e4vleborg county": {
+    "lat": 61.2682236,
+    "long": 16.688925
+  },
+  "||j\u00f6nk\u00f6ping county": {
+    "lat": 57.5355905,
+    "long": 14.6414713
+  },
+  "||morelos": {
+    "lat": 18.75,
+    "long": -99.0
+  },
+  "||alaska": {
+    "lat": 64.4459613,
+    "long": -149.680909
+  },
+  "||friuli-venezia giulia": {
+    "lat": 46.151042,
+    "long": 13.055904
+  },
+  "||kirovohrad oblast": {
+    "lat": 48.1916774,
+    "long": 31.6902953
+  },
+  "||\u00f6rebro county": {
+    "lat": 59.3784871,
+    "long": 14.988292
+  },
+  "||gy\u0151r-moson-sopron county": {
+    "lat": null,
+    "long": null
+  },
+  "||saxony-anhalt": {
+    "lat": 51.9280976,
+    "long": 11.6812243
+  },
+  "||central denmark region": {
+    "lat": 56.2356484,
+    "long": 9.234625
+  },
+  "||tucuman": {
+    "lat": -27.0448424,
+    "long": -65.3657954
+  },
+  "||volyn oblast": {
+    "lat": 51.5451167,
+    "long": 24.6627893
+  },
+  "||lubusz voivodeship": {
+    "lat": 52.4560973,
+    "long": 15.3061396
+  },
+  "||monagas": {
+    "lat": 9.3437846,
+    "long": -63.1589318
+  },
+  "||neuqu\u00e9n": {
+    "lat": -38.8502546,
+    "long": -69.832275
+  },
+  "||v\u00e4rmland county": {
+    "lat": 59.8907917,
+    "long": 13.2949215
+  },
+  "||hidalgo": {
+    "lat": 20.5,
+    "long": -99.0
+  },
+  "||tocantins": {
+    "lat": -10.8855129,
+    "long": -48.3716912
+  },
+  "||tungurahua province": {
+    "lat": -2.4682776,
+    "long": -80.564089
+  },
+  "||tabasco": {
+    "lat": 17.9999288,
+    "long": -92.6681659
+  },
+  "||arag\u00f3n": {
+    "lat": 41.3787291,
+    "long": -0.7639373
+  },
+  "||principality of asturias": {
+    "lat": 43.3133868,
+    "long": -5.94192
+  },
+  "||uppsala county": {
+    "lat": 60.1451819,
+    "long": 17.6237665
+  },
+  "||risaralda": {
+    "lat": 5.2102948,
+    "long": -75.9842236
+  },
+  "||liguria": {
+    "lat": 44.4777617,
+    "long": 8.7026296
+  },
+  "||newfoundland and labrador": {
+    "lat": 53.8217327,
+    "long": -61.2295532
+  },
+  "||san luis potosi": {
+    "lat": 22.5000001,
+    "long": -100.4949145
+  },
+  "||yucat\u00e1n": {
+    "lat": 20.6845957,
+    "long": -88.8755669
+  },
+  "||akershus": {
+    "lat": 60.0312215,
+    "long": 11.3174619
+  },
+  "||lorraine": {
+    "lat": 38.5688999,
+    "long": -98.3171492
+  },
+  "||tasmania": {
+    "lat": -42.035067,
+    "long": 146.6366887
+  },
+  "||entre rios": {
+    "lat": -32.1290686,
+    "long": -59.5077664
+  },
+  "||leiria district": {
+    "lat": 39.6505969,
+    "long": -8.8741295
+  },
+  "||atlantico": {
+    "lat": 10.6773422,
+    "long": -74.9718666
+  },
+  "||r\u00edo negro": {
+    "lat": -40.4811973,
+    "long": -67.6145911
+  },
+  "||heves county": {
+    "lat": null,
+    "long": null
+  },
+  "||otago": {
+    "lat": -45.3975053,
+    "long": 170.1778918
+  },
+  "||oslo": {
+    "lat": 59.9133301,
+    "long": 10.7389701
+  },
+  "||friesland": {
+    "lat": 53.0923689,
+    "long": 5.777043
+  },
+  "||mecklenburg-vorpommern": {
+    "lat": 53.7735064,
+    "long": 12.5755471
+  },
+  "||olomouc region": {
+    "lat": 49.8591058,
+    "long": 16.9561267
+  },
+  "||v\u00e4sterbotten county": {
+    "lat": 64.7282044,
+    "long": 18.5534514
+  },
+  "||chubut": {
+    "lat": -43.7128356,
+    "long": -68.7461817
+  },
+  "||alsace": {
+    "lat": 33.98279,
+    "long": -118.4123635
+  },
+  "||ponce": {
+    "lat": 18.0668224,
+    "long": -66.6140412
+  },
+  "||thessaly": {
+    "lat": 39.5060878,
+    "long": 22.3191881
+  },
+  "||waikato": {
+    "lat": -37.7792272,
+    "long": 175.2010324
+  },
+  "||limburg": {
+    "lat": 51.2015196,
+    "long": 5.9046302
+  },
+  "||bay of plenty region": {
+    "lat": null,
+    "long": null
+  },
+  "||imbabura province": {
+    "lat": null,
+    "long": null
+  },
+  "||braga district": {
+    "lat": 41.5698319,
+    "long": -8.3059409
+  },
+  "||b\u00e1cs-kiskun county": {
+    "lat": null,
+    "long": null
+  },
+  "||yaracuy": {
+    "lat": 10.3040312,
+    "long": -68.7014018
+  },
+  "||\u00fast\u00ed nad labem region": {
+    "lat": 50.5663266,
+    "long": 13.8206705
+  },
+  "||timi\u0219 county": {
+    "lat": 45.7475255,
+    "long": 22.1379232
+  },
+  "||j\u00e1sz-nagykun-szolnok county": {
+    "lat": null,
+    "long": null
+  },
+  "||south bohemian region": {
+    "lat": 49.0864548,
+    "long": 14.6001727
+  },
+  "||portuguesa": {
+    "lat": 8.9674808,
+    "long": -69.3915205
+  },
+  "||abruzzo": {
+    "lat": 42.227681,
+    "long": 13.854983
+  },
+  "||aguascalientes": {
+    "lat": 21.880487,
+    "long": -102.2967195
+  },
+  "||veszpr\u00e9m county": {
+    "lat": null,
+    "long": null
+  },
+  "||baranya county": {
+    "lat": 45.541111,
+    "long": 18.4384615
+  },
+  "||centre": {
+    "lat": 47.5490251,
+    "long": 1.7324062
+  },
+  "||el oro province": {
+    "lat": -14.1642812,
+    "long": -73.0431589
+  },
+  "||antalya province": {
+    "lat": 36.8593281,
+    "long": 30.9791143
+  },
+  "||montana": {
+    "lat": 47.3752671,
+    "long": -109.638757
+  },
+  "||cluj county": {
+    "lat": 46.7708527,
+    "long": 23.5980505
+  },
+  "||upper austria": {
+    "lat": 48.25,
+    "long": 14.0
+  },
+  "||haute-normandie": {
+    "lat": 49.3693017,
+    "long": 1.0295505
+  },
+  "||nueva esparta": {
+    "lat": 10.9645415,
+    "long": -64.0975447
+  },
+  "||hordaland": {
+    "lat": 51.9357219,
+    "long": 4.5978501
+  },
+  "||v\u00e4sternorrland county": {
+    "lat": 63.0478258,
+    "long": 18.1014438
+  },
+  "||alto paran\u00e1 department": {
+    "lat": -25.3920791,
+    "long": -57.4781563
+  },
+  "||rogaland": {
+    "lat": 58.9363138,
+    "long": 5.8058786
+  },
+  "||rond\u00f4nia": {
+    "lat": -10.943145,
+    "long": -62.8277863
+  },
+  "||ternopil oblast": {
+    "lat": 49.6630002,
+    "long": 25.6167516
+  },
+  "||la libertad region": {
+    "lat": 10.0259479,
+    "long": 123.2347866
+  },
+  "||fej\u00e9r county": {
+    "lat": null,
+    "long": null
+  },
+  "||boyaca": {
+    "lat": 5.6278979,
+    "long": -72.8268617
+  },
+  "||zealand region": {
+    "lat": 55.4864453,
+    "long": 11.6913493
+  },
+  "||santiago province": {
+    "lat": 9.8694792,
+    "long": -83.7980749
+  },
+  "||z\u00fcrich": {
+    "lat": 47.3744489,
+    "long": 8.5410422
+  },
+  "||csongr\u00e1d county": {
+    "lat": 46.2566079,
+    "long": 20.144932
+  },
+  "||loja province": {
+    "lat": -6.4947245,
+    "long": -77.5236429
+  },
+  "||salta": {
+    "lat": -25.2269908,
+    "long": -64.5911956
+  },
+  "||zl\u00edn region": {
+    "lat": 49.19692,
+    "long": 17.6460916
+  },
+  "||capital region": {
+    "lat": 60.1526073,
+    "long": 24.9086041
+  },
+  "||chernivtsi oblast": {
+    "lat": 48.3810791,
+    "long": 26.1081673
+  },
+  "||bourgogne": {
+    "lat": 47.2780873,
+    "long": 4.2224863
+  },
+  "||caguas": {
+    "lat": 18.2129421,
+    "long": -66.0558844
+  },
+  "||caldas": {
+    "lat": -21.923611,
+    "long": -46.386111
+  },
+  "||kom\u00e1rom-esztergom county": {
+    "lat": 47.7910811,
+    "long": 18.738819
+  },
+  "||gu\u00e1rico": {
+    "lat": 8.8378585,
+    "long": -66.3821
+  },
+  "||basse-normandie": {
+    "lat": 48.9536845,
+    "long": -0.5733654
+  },
+  "||durango": {
+    "lat": 24.833333,
+    "long": -104.833333
+  },
+  "||guanacaste province": {
+    "lat": 10.9408848,
+    "long": -84.8160137
+  },
+  "||quindio": {
+    "lat": 4.4028313,
+    "long": -75.7025795
+  },
+  "||bern": {
+    "lat": 46.9484742,
+    "long": 7.4521749
+  },
+  "||trentino-alto adige": {
+    "lat": 46.441472,
+    "long": 11.282121
+  },
+  "||plze\u0148 region": {
+    "lat": 49.5228102,
+    "long": 13.2063118
+  },
+  "||zala county": {
+    "lat": 31.7637149,
+    "long": 93.61769
+  },
+  "||franche-comt\u00e9": {
+    "lat": 47.1425848,
+    "long": 6.1320222
+  },
+  "||tlaxcala": {
+    "lat": 19.416667,
+    "long": -98.166667
+  },
+  "||corrientes": {
+    "lat": -29.0177384,
+    "long": -57.8869739
+  },
+  "||hawaii": {
+    "lat": 19.5938015,
+    "long": -155.4283701
+  },
+  "||szabolcs-szatm\u00e1r-bereg county": {
+    "lat": null,
+    "long": null
+  },
+  "||ia\u0219i county": {
+    "lat": 47.1835225,
+    "long": 27.5686066
+  },
+  "||champagne-ardenne": {
+    "lat": 48.873066,
+    "long": 4.20791
+  },
+  "||auvergne": {
+    "lat": 45.7100132,
+    "long": 3.1531803
+  },
+  "||saarland": {
+    "lat": 49.3841872,
+    "long": 6.9537369
+  },
+  "||tarapac\u00e1 region": {
+    "lat": -20.1636672,
+    "long": -69.5463448
+  },
+  "||sergipe": {
+    "lat": -10.6743911,
+    "long": -37.3773519
+  },
+  "||b\u00e9k\u00e9s county": {
+    "lat": 54.6859017,
+    "long": 25.298364
+  },
+  "||hradec kr\u00e1lov\u00e9 region": {
+    "lat": 50.4093927,
+    "long": 15.6850054
+  },
+  "||south dakota": {
+    "lat": 44.6471761,
+    "long": -100.348761
+  },
+  "||tolima": {
+    "lat": 4.0355786,
+    "long": -75.2086642
+  },
+  "||heifa": {
+    "lat": 37.1561291,
+    "long": 42.2911664
+  },
+  "||baja california sur": {
+    "lat": 25.5818014,
+    "long": -111.5706164
+  },
+  "||karlovy vary region": {
+    "lat": 50.1753532,
+    "long": 12.8060863
+  },
+  "||cantabria": {
+    "lat": 43.1595664,
+    "long": -4.0878382
+  },
+  "||drenthe": {
+    "lat": 52.9067922,
+    "long": 6.6368423
+  },
+  "||chaco": {
+    "lat": -26.3829647,
+    "long": -60.8816092
+  },
+  "||mayag\u00fcez": {
+    "lat": 18.2116354,
+    "long": -67.0953572
+  },
+  "||santar\u00e9m district": {
+    "lat": 39.2850041,
+    "long": -8.5564477
+  },
+  "||los r\u00edos region": {
+    "lat": -39.9742747,
+    "long": -72.6677006
+  },
+  "||rhode island": {
+    "lat": 41.7962409,
+    "long": -71.5992372
+  },
+  "||crete": {
+    "lat": 35.3084952,
+    "long": 24.4633423
+  },
+  "||umbria": {
+    "lat": 42.965916,
+    "long": 12.490236
+  },
+  "||norrbotten county": {
+    "lat": 66.9812104,
+    "long": 19.9991639
+  },
+  "||australian capital territory": {
+    "lat": -35.4883502,
+    "long": 149.0026942
+  },
+  "||kronoberg county": {
+    "lat": 56.8007878,
+    "long": 14.410897
+  },
+  "||cusco region": {
+    "lat": -4.5824103,
+    "long": -79.7802894
+  },
+  "||barinas": {
+    "lat": 8.1739775,
+    "long": -69.9755552
+  },
+  "||tolna county": {
+    "lat": 47.82722,
+    "long": -98.440102
+  },
+  "||ilfov county": {
+    "lat": null,
+    "long": null
+  },
+  "||san luis": {
+    "lat": 38.6254063,
+    "long": -90.190009
+  },
+  "||vargas": {
+    "lat": 10.5802547,
+    "long": -66.8603468
+  },
+  "||puntarenas province": {
+    "lat": 9.095328,
+    "long": -84.2003038
+  },
+  "||jun\u00edn region": {
+    "lat": 4.7398512,
+    "long": -73.7093401
+  },
+  "||navarra": {
+    "lat": 42.7027944,
+    "long": -1.7086231
+  },
+  "||guaynabo": {
+    "lat": 18.3591596,
+    "long": -66.1156802
+  },
+  "||trujillo": {
+    "lat": -8.1116778,
+    "long": -79.0287742
+  },
+  "||cajamarca region": {
+    "lat": -7.1505045,
+    "long": -78.5153436
+  },
+  "||j\u00e4mtland county": {
+    "lat": 63.3465856,
+    "long": 14.1237511
+  },
+  "||bursa province": {
+    "lat": 36.2715277,
+    "long": 36.2349341
+  },
+  "||vas county": {
+    "lat": 57.735498,
+    "long": 16.4838004
+  },
+  "||manawatu-wanganui": {
+    "lat": -39.6407734,
+    "long": 175.5713557
+  },
+  "||misiones": {
+    "lat": -26.737224,
+    "long": -54.4315257
+  },
+  "||amap\u00e1": {
+    "lat": 1.3545442,
+    "long": -51.9161977
+  },
+  "||blekinge county": {
+    "lat": 56.1240605,
+    "long": 15.4023088
+  },
+  "||northern district": {
+    "lat": 16.9471759,
+    "long": 96.1133099
+  },
+  "||santa cruz": {
+    "lat": 28.467178,
+    "long": -16.2507843
+  },
+  "||atacama region": {
+    "lat": -27.5571783,
+    "long": -70.0156882
+  },
+  "||eastern macedonia and thrace": {
+    "lat": 41.1206665,
+    "long": 24.4781056
+  },
+  "||huila": {
+    "lat": 2.4738993,
+    "long": -75.5900113
+  },
+  "|washington|district of columbia": {
+    "lat": 38.8950368,
+    "long": -77.0365427
+  },
+  "||zacatecas": {
+    "lat": 23.0916177,
+    "long": -102.9333954
+  },
+  "||itap\u00faa department": {
+    "lat": -25.3187714,
+    "long": -57.5371545
+  },
+  "||picardie": {
+    "lat": 49.601756,
+    "long": 2.8716339
+  },
+  "||north dakota": {
+    "lat": 47.6201461,
+    "long": -100.540737
+  },
+  "||azores": {
+    "lat": 37.8085565,
+    "long": -25.4731374
+  },
+  "||central greece (region)": {
+    "lat": 37.6332587,
+    "long": 22.7282472
+  },
+  "||ica region": {
+    "lat": 56.0375921,
+    "long": 12.7827357
+  },
+  "||vaud": {
+    "lat": 46.6356963,
+    "long": 6.5320717
+  },
+  "||magallanes y la ant\u00e1rtica chilena region": {
+    "lat": -53.1330388,
+    "long": -70.925068
+  },
+  "||bra\u0219ov county": {
+    "lat": 45.6422973,
+    "long": 25.5889395
+  },
+  "||aguadilla": {
+    "lat": 18.4496551,
+    "long": -67.1184764
+  },
+  "||chimborazo province": {
+    "lat": -12.0284737,
+    "long": -77.0682227
+  },
+  "||nayarit": {
+    "lat": 22.0000001,
+    "long": -105.0000001
+  },
+  "||pardubice region": {
+    "lat": 49.889819,
+    "long": 16.1283254
+  },
+  "||viana do castelo district": {
+    "lat": 41.8803257,
+    "long": -8.5228271
+  },
+  "||santiago del estero": {
+    "lat": -27.6431016,
+    "long": -63.5408542
+  },
+  "||southern aegean": {
+    "lat": 22.2634209,
+    "long": 114.1284609
+  },
+  "||pirkanmaa": {
+    "lat": 61.7174331,
+    "long": 23.7157115
+  },
+  "||extremadura": {
+    "lat": 39.1748426,
+    "long": -6.1529891
+  },
+  "||bolivar": {
+    "lat": 33.7702263,
+    "long": -90.8519798
+  },
+  "||brussels": {
+    "lat": 50.8467372,
+    "long": 4.352493
+  },
+  "||epirus (region)": {
+    "lat": 39.44747,
+    "long": 20.275221
+  },
+  "||hawke's bay": {
+    "lat": -39.5256512,
+    "long": 176.7611457
+  },
+  "||northern aegean": {
+    "lat": 37.6610479,
+    "long": 26.4674349
+  },
+  "||constan\u021ba county": {
+    "lat": 30.3923456,
+    "long": -97.6485374
+  },
+  "||la rioja": {
+    "lat": 42.3285528,
+    "long": -2.4674917
+  },
+  "||duarte province": {
+    "lat": -34.6366589,
+    "long": -58.6368901
+  },
+  "||kherson oblast": {
+    "lat": 46.5421715,
+    "long": 33.4079326
+  },
+  "||tacna region": {
+    "lat": -32.6750324,
+    "long": -71.4392311
+  },
+  "||jujuy": {
+    "lat": -23.1546219,
+    "long": -66.1110913
+  },
+  "||peloponnese (region)": {
+    "lat": 37.3522056,
+    "long": 22.3300468
+  },
+  "||wyoming": {
+    "lat": 43.1700264,
+    "long": -107.568534
+  },
+  "||canelones department": {
+    "lat": -19.5877889,
+    "long": -65.7569089
+  },
+  "||mu\u011fla province": {
+    "lat": null,
+    "long": null
+  },
+  "||\u00f8stfold": {
+    "lat": 59.2669302,
+    "long": 11.2085719
+  },
+  "||nordland": {
+    "lat": 67.275634,
+    "long": 13.8623544
+  },
+  "||norte de santander": {
+    "lat": 8.4417924,
+    "long": -73.0492505
+  },
+  "||meta": {
+    "lat": 49.1196964,
+    "long": 6.1763552
+  },
+  "||vyso\u010dina region": {
+    "lat": 49.3994098,
+    "long": 15.5704683
+  },
+  "||sermersooq": {
+    "lat": 66.0,
+    "long": -40.0
+  },
+  "||adana province": {
+    "lat": 38.8178002,
+    "long": 0.02338
+  },
+  "||somogy county": {
+    "lat": 45.2184103,
+    "long": 13.6006184
+  },
+  "||cabo rojo": {
+    "lat": 18.0495973,
+    "long": -67.1552085
+  },
+  "||colima": {
+    "lat": 19.166667,
+    "long": -104.0
+  },
+  "||mure\u0219 county": {
+    "lat": 47.5146379,
+    "long": -67.4003604
+  },
+  "||arica y parinacota region": {
+    "lat": -18.5713496,
+    "long": -69.7884774
+  },
+  "||maldonado department": {
+    "lat": -11.9339666,
+    "long": -77.0830026
+  },
+  "||zeeland": {
+    "lat": 51.4162975,
+    "long": 3.7028061
+  },
+  "||corse": {
+    "lat": 42.188098,
+    "long": 9.0683139
+  },
+  "||canton of st. gallen": {
+    "lat": 47.4300025,
+    "long": 9.3722184
+  },
+  "||lim\u00f3n province": {
+    "lat": 10.0999089,
+    "long": -83.3431873
+  },
+  "||cauca": {
+    "lat": 2.715645,
+    "long": -76.662665
+  },
+  "||lower austria": {
+    "lat": 48.2817813,
+    "long": 15.7632457
+  },
+  "||ostrobothnia (region)": {
+    "lat": 63.6458326,
+    "long": 22.5643871
+  },
+  "||campeche": {
+    "lat": 19.0,
+    "long": -90.5
+  },
+  "||santa elena province": {
+    "lat": -2.1954593,
+    "long": -80.5669167
+  },
+  "||piura region": {
+    "lat": -5.1971376,
+    "long": -80.6267237
+  },
+  "||unknown": {
+    "lat": 26.492533,
+    "long": 92.3308789
+  },
+  "||lambayeque region": {
+    "lat": -6.7713632,
+    "long": -79.8354338
+  },
+  "||la altagracia province": {
+    "lat": null,
+    "long": null
+  },
+  "||roraima": {
+    "lat": 2.135138,
+    "long": -61.3631922
+  },
+  "||puerto plata province": {
+    "lat": -38.0552039,
+    "long": -57.541441
+  },
+  "||dolj county": {
+    "lat": null,
+    "long": null
+  },
+  "||arad county": {
+    "lat": 27.7293279,
+    "long": 53.6246366
+  },
+  "||san sebasti\u00e1n": {
+    "lat": 43.3224219,
+    "long": -1.9838889
+  },
+  "||colonia department": {
+    "lat": -12.6335725,
+    "long": -75.8902882
+  },
+  "||sibiu county": {
+    "lat": null,
+    "long": null
+  },
+  "||la vega province": {
+    "lat": 43.0986945,
+    "long": -4.6472082
+  },
+  "||cojedes": {
+    "lat": 9.3094457,
+    "long": -68.3590546
+  },
+  "||calabria": {
+    "lat": 39.0565974,
+    "long": 16.5249864
+  },
+  "||n\u00f3gr\u00e1d county": {
+    "lat": null,
+    "long": null
+  },
+  "||ca\u00f1ar province": {
+    "lat": 39.8666471,
+    "long": -0.4112524
+  },
+  "||aargau": {
+    "lat": 47.412396,
+    "long": 8.1948321
+  },
+  "||caaguaz\u00fa department": {
+    "lat": -25.4085433,
+    "long": -57.5276919
+  },
+  "||castelo branco district": {
+    "lat": 39.9767583,
+    "long": -7.4460599
+  },
+  "||styria": {
+    "lat": 47.2500001,
+    "long": 15.1666665
+  },
+  "||la pampa": {
+    "lat": -37.1789623,
+    "long": -65.704912
+  },
+  "||acre (state)": {
+    "lat": 40.7262824,
+    "long": -73.9546913
+  },
+  "||basilicata": {
+    "lat": 40.500571,
+    "long": 16.081953
+  },
+  "||galway": {
+    "lat": 53.2744122,
+    "long": -9.0490601
+  },
+  "||magdalena": {
+    "lat": 10.5808075,
+    "long": -74.0685669
+  },
+  "||formosa": {
+    "lat": -24.5955306,
+    "long": -60.4289718
+  },
+  "||southland": {
+    "lat": -45.9254266,
+    "long": 167.6068483
+  },
+  "||suceava county": {
+    "lat": null,
+    "long": null
+  },
+  "||eski\u015fehir province": {
+    "lat": 40.6314652,
+    "long": 30.3341665
+  },
+  "||prahova county": {
+    "lat": 44.9377408,
+    "long": 26.0260705
+  },
+  "||bioko norte province": {
+    "lat": 3.6484594,
+    "long": 8.7851155
+  },
+  "||limousin": {
+    "lat": 45.6879095,
+    "long": 1.6347606
+  },
+  "||cordillera department": {
+    "lat": -25.25,
+    "long": -57.0
+  },
+  "||cordoba": {
+    "lat": 37.8845813,
+    "long": -4.7760138
+  },
+  "||puno region": {
+    "lat": 1.933333,
+    "long": 32.9
+  },
+  "||litoral province": {
+    "lat": 1.6026374,
+    "long": 9.841569
+  },
+  "||catamarca": {
+    "lat": -27.7758659,
+    "long": -67.171292
+  },
+  "||bihor county": {
+    "lat": null,
+    "long": null
+  },
+  "||moca": {
+    "lat": 18.3838649,
+    "long": -67.0823237
+  },
+  "||ancash region": {
+    "lat": -9.5310823,
+    "long": -77.5282511
+  },
+  "||marche": {
+    "lat": 43.3458388,
+    "long": 13.1415872
+  },
+  "||hatillo": {
+    "lat": 18.4071589,
+    "long": -66.7959287
+  },
+  "||turks and caicos islands": {
+    "lat": 21.721746,
+    "long": -71.5527809
+  },
+  "||humacao": {
+    "lat": 18.1380738,
+    "long": -65.8196369
+  },
+  "||maramure\u0219 county": {
+    "lat": null,
+    "long": null
+  },
+  "||gala\u021bi county": {
+    "lat": 43.6450773,
+    "long": -116.4417988
+  },
+  "||ayd\u0131n province": {
+    "lat": 36.2782471,
+    "long": 32.3306002
+  },
+  "||hamilton parish": {
+    "lat": 32.3379906,
+    "long": -64.7357556
+  },
+  "||rinc\u00f3n": {
+    "lat": 18.3362074,
+    "long": -67.2321202
+  },
+  "||vila real district": {
+    "lat": 41.5229299,
+    "long": -7.5466312
+  },
+  "||prince edward island": {
+    "lat": 46.3355508,
+    "long": -63.1466676
+  },
+  "||yukon": {
+    "lat": 63.000147,
+    "long": -136.002502
+  },
+  "||isabela": {
+    "lat": 17.0,
+    "long": 122.0
+  },
+  "||\u00e7anakkale province": {
+    "lat": 36.8532801,
+    "long": 30.7582337
+  },
+  "||tierra del fuego": {
+    "lat": -54.3815213,
+    "long": -67.5678997
+  },
+  "||aveiro district": {
+    "lat": 40.6791504,
+    "long": -8.5217166
+  },
+  "||moquegua region": {
+    "lat": -5.2024721,
+    "long": -80.623832
+  },
+  "||concepci\u00f3n department (paraguay)": {
+    "lat": -25.3502026,
+    "long": -57.562639
+  },
+  "||san crist\u00f3bal province": {
+    "lat": -6.0777959,
+    "long": -77.9467902
+  },
+  "||southern district": {
+    "lat": 22.219269,
+    "long": 114.2252234
+  },
+  "||coimbra district": {
+    "lat": 40.2215372,
+    "long": -8.3381059
+  },
+  "||harghita county": {
+    "lat": 46.3484701,
+    "long": 25.8079835
+  },
+  "||bistri\u021ba-n\u0103s\u0103ud county": {
+    "lat": null,
+    "long": null
+  },
+  "||guair\u00e1 department": {
+    "lat": -25.3871278,
+    "long": -57.4747355
+  },
+  "||s\u00e1nchez ram\u00edrez province": {
+    "lat": -6.6161473,
+    "long": -76.6908215
+  },
+  "||vega baja": {
+    "lat": 18.4177658,
+    "long": -66.3994474
+  },
+  "||alba county": {
+    "lat": 32.7929428,
+    "long": -95.6344105
+  },
+  "||hu\u00e1nuco region": {
+    "lat": -9.9260765,
+    "long": -76.2391753
+  },
+  "||burgenland": {
+    "lat": 47.5000001,
+    "long": 16.4166666
+  },
+  "||us virgin islands": {
+    "lat": 17.789187,
+    "long": -64.7080574
+  },
+  "||bal\u0131kesir province": {
+    "lat": 38.7022481,
+    "long": 27.5246888
+  },
+  "||cara\u0219-severin county": {
+    "lat": 45.2896657,
+    "long": 21.8869988
+  },
+  "||pohjois-savo": {
+    "lat": 63.0159354,
+    "long": 27.6267896
+  },
+  "||sucumb\u00edos province": {
+    "lat": null,
+    "long": null
+  },
+  "||northern territory": {
+    "lat": -19.8516101,
+    "long": 133.2303375
+  },
+  "||pe\u00f1uelas": {
+    "lat": 18.0555218,
+    "long": -66.7206375
+  },
+  "||central finland": {
+    "lat": 62.6093658,
+    "long": 25.579461
+  },
+  "||toa baja": {
+    "lat": 18.4426255,
+    "long": -66.2545652
+  },
+  "||edirne province": {
+    "lat": null,
+    "long": null
+  },
+  "||vienna": {
+    "lat": 48.2083537,
+    "long": 16.3725042
+  },
+  "||liberec region": {
+    "lat": 50.747604,
+    "long": 14.9903103
+  },
+  "||luquillo": {
+    "lat": 18.3388,
+    "long": -65.7172171
+  },
+  "||gaziantep province": {
+    "lat": 36.4854342,
+    "long": 36.3637832
+  },
+  "||kocaeli province": {
+    "lat": 40.7653892,
+    "long": 29.9407361
+  },
+  "||denizli province": {
+    "lat": 40.8911111,
+    "long": 29.5333333
+  },
+  "||la romana province": {
+    "lat": 38.3672767,
+    "long": -0.8968792
+  },
+  "||\u00e9vora district": {
+    "lat": 38.5906963,
+    "long": -7.9571934
+  },
+  "||san mart\u00edn region": {
+    "lat": 14.4984874,
+    "long": 121.0432063
+  },
+  "||limerick": {
+    "lat": 52.661252,
+    "long": -8.6301239
+  },
+  "||adjuntas": {
+    "lat": 18.1813093,
+    "long": -66.7524515
+  },
+  "||bol\u00edvar province": {
+    "lat": 10.1324582,
+    "long": -84.3023456
+  },
+  "||arecibo": {
+    "lat": 18.4047499,
+    "long": -66.6810353
+  },
+  "||jerusalem": {
+    "lat": 31.7788472,
+    "long": 35.2257856
+  },
+  "||samsun province": {
+    "lat": 40.8446616,
+    "long": 32.670557
+  },
+  "||misiones department": {
+    "lat": -25.3066361,
+    "long": -57.5366051
+  },
+  "||wele-nzas province": {
+    "lat": 1.4648719,
+    "long": 11.131676
+  },
+  "||viseu district": {
+    "lat": 40.7686621,
+    "long": -7.9297048
+  },
+  "||etel\u00e4-savo": {
+    "lat": 61.8424126,
+    "long": 28.0286389
+  },
+  "||mersin province": {
+    "lat": 36.9330713,
+    "long": 30.8096687
+  },
+  "||cesar": {
+    "lat": 9.3333415,
+    "long": -73.5000086
+  },
+  "||valais": {
+    "lat": 46.2303063,
+    "long": 7.6605757
+  },
+  "||kujalleq": {
+    "lat": 61.0,
+    "long": -45.0
+  },
+  "||apur\u00edmac region": {
+    "lat": -5.1979208,
+    "long": -80.6286589
+  },
+  "||county cork": {
+    "lat": 51.9175359,
+    "long": -8.5859773
+  },
+  "||qeqqata": {
+    "lat": 66.5,
+    "long": -48.0
+  },
+  "||brazil": {
+    "lat": -10.3333333,
+    "long": -53.2
+  },
+  "||poland": {
+    "lat": 52.215933,
+    "long": 19.134422
+  },
+  "||mexico": {
+    "lat": 23.6585116,
+    "long": -102.0077097
+  },
+  "||france": {
+    "lat": 46.603354,
+    "long": 1.8883335
+  },
+  "||argentina": {
+    "lat": -34.9964963,
+    "long": -64.9672817
+  },
+  "||spain": {
+    "lat": 39.3260685,
+    "long": -4.8379791
+  },
+  "||chile": {
+    "lat": -31.7613365,
+    "long": -71.3187697
+  },
+  "||italy": {
+    "lat": 42.6384261,
+    "long": 12.674297
+  },
+  "||czech republic": {
+    "lat": 49.7439047,
+    "long": 15.3381061
+  },
+  "||netherlands": {
+    "lat": 52.2434979,
+    "long": 5.6343227
+  },
+  "||turkey": {
+    "lat": 39.294076,
+    "long": 35.2316631
+  },
+  "||sweden": {
+    "lat": 59.6749712,
+    "long": 14.5208584
+  },
+  "||colombia": {
+    "lat": 4.099917,
+    "long": -72.9088133
+  },
+  "philadelphia||united states": {
+    "lat": 39.9527237,
+    "long": -75.1635262
+  },
+  "seattle-tacoma||united states": {
+    "lat": 47.4475673,
+    "long": -122.3080159
+  },
+  "phoenix (prescott)||united states": {
+    "lat": 37.8097638,
+    "long": -122.3032298
+  },
+  "boston (manchester)||united states": {
+    "lat": 42.9306656,
+    "long": -71.4388087
+  },
+  "hartford & new haven||united states": {
+    "lat": 41.3725187,
+    "long": -72.8883158
+  },
+  "washington, dc (hagrstwn)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "houston||united states": {
+    "lat": 29.7589382,
+    "long": -95.3676974
+  },
+  "minneapolis-st. paul||united states": {
+    "lat": 44.9227049,
+    "long": -93.0554922
+  },
+  "dallas-ft. worth||united states": {
+    "lat": 32.7652546,
+    "long": -96.8646732
+  },
+  "las vegas||united states": {
+    "lat": 36.1674263,
+    "long": -115.1484131
+  },
+  "indianapolis||united states": {
+    "lat": 39.7683331,
+    "long": -86.1583502
+  },
+  "cleveland-akron (canton)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "tampa-st. pete (sarasota)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "sacramnto-stkton-modesto||united states": {
+    "lat": null,
+    "long": null
+  },
+  "detroit||united states": {
+    "lat": 42.3315509,
+    "long": -83.0466403
+  },
+  "kansas city||united states": {
+    "lat": 39.100105,
+    "long": -94.5781416
+  },
+  "orlando-daytona bch-melbrn||united states": {
+    "lat": null,
+    "long": null
+  },
+  "norfolk-portsmth-newpt nws||united states": {
+    "lat": null,
+    "long": null
+  },
+  "milwaukee||united states": {
+    "lat": 43.0386475,
+    "long": -87.9090751
+  },
+  "pittsburgh||united states": {
+    "lat": 40.4406968,
+    "long": -80.0025666
+  },
+  "portland, or||united states": {
+    "lat": 45.5202471,
+    "long": -122.674194
+  },
+  "charlotte||united states": {
+    "lat": 35.2272086,
+    "long": -80.8430827
+  },
+  "salt lake city||united states": {
+    "lat": 40.7596198,
+    "long": -111.886797
+  },
+  "greenvll-spart-ashevll-and||united states": {
+    "lat": null,
+    "long": null
+  },
+  "san francisco-oak-san jose||united states": {
+    "lat": null,
+    "long": null
+  },
+  "spokane||united states": {
+    "lat": 47.6571934,
+    "long": -117.42351
+  },
+  "grand rapids-kalmzoo-b.crk||united states": {
+    "lat": null,
+    "long": null
+  },
+  "toledo||united states": {
+    "lat": 41.6529143,
+    "long": -83.5378173
+  },
+  "idaho fals-pocatllo(jcksn)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "miami-ft. lauderdale||united states": {
+    "lat": 26.0984151,
+    "long": -80.1344078
+  },
+  "buffalo||united states": {
+    "lat": 42.8864163,
+    "long": -78.8781493
+  },
+  "harrisburg-lncstr-leb-york||united states": {
+    "lat": null,
+    "long": null
+  },
+  "st. louis||united states": {
+    "lat": 38.6254063,
+    "long": -90.190009
+  },
+  "columbus, oh||united states": {
+    "lat": 39.9622601,
+    "long": -83.0007065
+  },
+  "raleigh-durham (fayetvlle)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "colorado springs-pueblo||united states": {
+    "lat": null,
+    "long": null
+  },
+  "mobile-pensacola (ft walt)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "baltimore||united states": {
+    "lat": 39.2908816,
+    "long": -76.610759
+  },
+  "greensboro-h.point-w.salem||united states": {
+    "lat": null,
+    "long": null
+  },
+  "amarillo||united states": {
+    "lat": 35.20729,
+    "long": -101.8371192
+  },
+  "san antonio||united states": {
+    "lat": 29.4246002,
+    "long": -98.4951405
+  },
+  "shreveport||united states": {
+    "lat": 32.5135356,
+    "long": -93.7477839
+  },
+  "albuquerque-santa fe||united states": {
+    "lat": null,
+    "long": null
+  },
+  "madison||united states": {
+    "lat": 43.07469,
+    "long": -89.3841663
+  },
+  "springfield, mo||united states": {
+    "lat": 37.2081729,
+    "long": -93.2922715
+  },
+  "oklahoma city||united states": {
+    "lat": 35.4729886,
+    "long": -97.5170536
+  },
+  "cincinnati||united states": {
+    "lat": 39.1014537,
+    "long": -84.5124602
+  },
+  "omaha||united states": {
+    "lat": 41.2587459,
+    "long": -95.9383758
+  },
+  "san diego||united states": {
+    "lat": 32.7174202,
+    "long": -117.162772
+  },
+  "springfield-holyoke||united states": {
+    "lat": 42.1995359,
+    "long": -72.6837028
+  },
+  "west palm beach-ft. pierce||united states": {
+    "lat": null,
+    "long": null
+  },
+  "davenport-r.island-moline||united states": {
+    "lat": null,
+    "long": null
+  },
+  "wausau-rhinelander||united states": {
+    "lat": null,
+    "long": null
+  },
+  "louisville||united states": {
+    "lat": 38.2542376,
+    "long": -85.759407
+  },
+  "burlington-plattsburgh||united states": {
+    "lat": null,
+    "long": null
+  },
+  "green bay-appleton||united states": {
+    "lat": 44.2645347,
+    "long": -88.3876238
+  },
+  "boise||united states": {
+    "lat": 43.6166163,
+    "long": -116.200886
+  },
+  "knoxville||united states": {
+    "lat": 35.9603948,
+    "long": -83.9210261
+  },
+  "portland-auburn||united states": {
+    "lat": 38.8859505,
+    "long": -121.0708576
+  },
+  "la crosse-eau claire||united states": {
+    "lat": null,
+    "long": null
+  },
+  "yakima-pasco-rchlnd-knnwck||united states": {
+    "lat": null,
+    "long": null
+  },
+  "roanoke-lynchburg||united states": {
+    "lat": 37.3991838,
+    "long": -79.2231509
+  },
+  "lexington||united states": {
+    "lat": 38.0464066,
+    "long": -84.4970393
+  },
+  "champaign&sprngfld-decatur||united states": {
+    "lat": null,
+    "long": null
+  },
+  "wilkes barre-scranton-hztn||united states": {
+    "lat": null,
+    "long": null
+  },
+  "fresno-visalia||united states": {
+    "lat": 36.3313492,
+    "long": -119.3941992
+  },
+  "south bend-elkhart||united states": {
+    "lat": 41.6842416,
+    "long": -85.9707228
+  },
+  "richmond-petersburg||united states": {
+    "lat": 37.5515878,
+    "long": -77.4410963
+  },
+  "charleston, sc||united states": {
+    "lat": 32.7884363,
+    "long": -79.9399309
+  },
+  "birmingham (ann and tusc)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "monterey-salinas||united states": {
+    "lat": 36.6737593,
+    "long": -121.6575588
+  },
+  "flint-saginaw-bay city||united states": {
+    "lat": null,
+    "long": null
+  },
+  "fairbanks||united states": {
+    "lat": 64.837845,
+    "long": -147.716675
+  },
+  "salisbury||united states": {
+    "lat": 35.6709727,
+    "long": -80.4742261
+  },
+  "providence-new bedford||united states": {
+    "lat": null,
+    "long": null
+  },
+  "parkersburg||united states": {
+    "lat": 39.2667309,
+    "long": -81.5620755
+  },
+  "des moines-ames||united states": {
+    "lat": 42.0237887,
+    "long": -93.6097534
+  },
+  "tulsa||united states": {
+    "lat": 36.1563122,
+    "long": -95.9927516
+  },
+  "sioux city||united states": {
+    "lat": 42.4966815,
+    "long": -96.4058782
+  },
+  "el paso (las cruces)||united states": {
+    "lat": 31.9977948,
+    "long": -106.5859197
+  },
+  "memphis||united states": {
+    "lat": 35.1460249,
+    "long": -90.0517638
+  },
+  "ft. smith-fay-sprngdl-rgrs||united states": {
+    "lat": null,
+    "long": null
+  },
+  "monroe-el dorado||united states": {
+    "lat": 33.2152884,
+    "long": -92.6396217
+  },
+  "waco-temple-bryan||united states": {
+    "lat": null,
+    "long": null
+  },
+  "twin falls||united states": {
+    "lat": 42.5558542,
+    "long": -114.4700684
+  },
+  "honolulu||united states": {
+    "lat": 21.304547,
+    "long": -157.855676
+  },
+  "rochester, ny||united states": {
+    "lat": 43.157285,
+    "long": -77.615214
+  },
+  "jackson, ms||united states": {
+    "lat": 32.2998686,
+    "long": -90.1830408
+  },
+  "fargo-valley city||united states": {
+    "lat": 46.92441,
+    "long": -98.0036084
+  },
+  "new orleans||united states": {
+    "lat": 29.9561422,
+    "long": -90.0733934
+  },
+  "chattanooga||united states": {
+    "lat": 35.0457219,
+    "long": -85.3094883
+  },
+  "youngstown||united states": {
+    "lat": 41.1035786,
+    "long": -80.6520161
+  },
+  "charleston-huntington||united states": {
+    "lat": 38.4152723,
+    "long": -82.4377995
+  },
+  "cedar rapids-wtrlo-iwc&dub||united states": {
+    "lat": null,
+    "long": null
+  },
+  "albany-schenectady-troy||united states": {
+    "lat": 42.7557805,
+    "long": -73.7741253
+  },
+  "topeka||united states": {
+    "lat": 39.049011,
+    "long": -95.677556
+  },
+  "jacksonville||united states": {
+    "lat": 30.3262247,
+    "long": -81.6579179
+  },
+  "harrisonburg||united states": {
+    "lat": 38.4493315,
+    "long": -78.8688833
+  },
+  "huntsville-decatur (flor)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "lincoln & hastings-krny||united states": {
+    "lat": null,
+    "long": null
+  },
+  "abilene-sweetwater||united states": {
+    "lat": null,
+    "long": null
+  },
+  "reno||united states": {
+    "lat": 39.5261788,
+    "long": -119.812658
+  },
+  "sioux falls(mitchell)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "little rock-pine bluff||united states": {
+    "lat": null,
+    "long": null
+  },
+  "columbia, sc||united states": {
+    "lat": 34.000754,
+    "long": -81.0352313
+  },
+  "peoria-bloomington||united states": {
+    "lat": 40.4906451,
+    "long": -89.0617396
+  },
+  "eugene||united states": {
+    "lat": 44.0505054,
+    "long": -123.0950506
+  },
+  "tucson (sierra vista)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "medford-klamath falls||united states": {
+    "lat": null,
+    "long": null
+  },
+  "greenville-n.bern-washngtn||united states": {
+    "lat": null,
+    "long": null
+  },
+  "evansville||united states": {
+    "lat": 37.970495,
+    "long": -87.5715641
+  },
+  "ft. myers-naples||united states": {
+    "lat": null,
+    "long": null
+  },
+  "palm springs||united states": {
+    "lat": 33.8246269,
+    "long": -116.540303
+  },
+  "wichita-hutchinson plus||united states": {
+    "lat": null,
+    "long": null
+  },
+  "wheeling-steubenville||united states": {
+    "lat": null,
+    "long": null
+  },
+  "ft. wayne||united states": {
+    "lat": 41.0799898,
+    "long": -85.1386015
+  },
+  "syracuse||united states": {
+    "lat": 43.0481221,
+    "long": -76.1474244
+  },
+  "paducah-cape girard-harsbg||united states": {
+    "lat": null,
+    "long": null
+  },
+  "wilmington||united states": {
+    "lat": 39.7459468,
+    "long": -75.546589
+  },
+  "dayton||united states": {
+    "lat": 39.7589478,
+    "long": -84.1916069
+  },
+  "tri-cities, tn-va||united states": {
+    "lat": null,
+    "long": null
+  },
+  "wichita falls & lawton||united states": {
+    "lat": null,
+    "long": null
+  },
+  "rockford||united states": {
+    "lat": 42.2713945,
+    "long": -89.093966
+  },
+  "tallahassee-thomasville||united states": {
+    "lat": 30.4988656,
+    "long": -84.2494631
+  },
+  "johnstown-altoona-st colge||united states": {
+    "lat": null,
+    "long": null
+  },
+  "charlottesville||united states": {
+    "lat": 38.029306,
+    "long": -78.4766781
+  },
+  "corpus christi||united states": {
+    "lat": 27.7635302,
+    "long": -97.4033191
+  },
+  "santabarbra-sanmar-sanluob||united states": {
+    "lat": null,
+    "long": null
+  },
+  "odessa-midland||united states": {
+    "lat": 31.9996941,
+    "long": -102.1562256
+  },
+  "rochester-mason city-austin||united states": {
+    "lat": null,
+    "long": null
+  },
+  "minot-bsmrck-dcknsn(wlstn)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "dothan||united states": {
+    "lat": 31.2237285,
+    "long": -85.3934375
+  },
+  "laredo||united states": {
+    "lat": 27.5079211,
+    "long": -99.5069834
+  },
+  "bakersfield||united states": {
+    "lat": 35.3738712,
+    "long": -119.019463
+  },
+  "columbus, ga (opelika, al)||united states": {
+    "lat": 32.6435877,
+    "long": -85.3552087
+  },
+  "bend, or||united states": {
+    "lat": 44.0581728,
+    "long": -121.3153096
+  },
+  "beaumont-port arthur||united states": {
+    "lat": 29.9478898,
+    "long": -93.9793286
+  },
+  "tyler-longview(lfkn&ncgd)||united states": {
+    "lat": null,
+    "long": null
+  },
+  "watertown||united states": {
+    "lat": 42.3652576,
+    "long": -71.1843234
+  },
+  "lafayette, la||united states": {
+    "lat": 30.2262187,
+    "long": -92.0178202
+  },
+  "augusta-aiken||united states": {
+    "lat": 33.4943487,
+    "long": -81.9705909
+  },
+  "elmira (corning)||united states": {
+    "lat": 42.1608239,
+    "long": -76.8941293
+  },
+  "harlingen-wslco-brnsvl-mca||united states": {
+    "lat": null,
+    "long": null
+  },
+  "eureka||united states": {
+    "lat": 40.8018746,
+    "long": -124.1707558
+  },
+  "duluth-superior||united states": {
+    "lat": 46.8270362,
+    "long": -92.03356
+  },
+  "biloxi-gulfport||united states": {
+    "lat": 30.4071138,
+    "long": -89.071433
+  },
+  "lansing||united states": {
+    "lat": 42.7338254,
+    "long": -84.5546295
+  },
+  "chico-redding||united states": {
+    "lat": null,
+    "long": null
+  },
+  "joplin-pittsburg||united states": {
+    "lat": 38.5714026,
+    "long": -90.4628878
+  },
+  "bangor||united states": {
+    "lat": 44.8016255,
+    "long": -68.7713289
+  },
+  "alexandria, la||united states": {
+    "lat": 31.3119463,
+    "long": -92.4453558
+  },
+  "macon||united states": {
+    "lat": 32.8406946,
+    "long": -83.6324022
+  },
+  "baton rouge||united states": {
+    "lat": 30.4494155,
+    "long": -91.1869659
+  },
+  "yuma-el centro||united states": {
+    "lat": null,
+    "long": null
+  },
+  "anchorage||united states": {
+    "lat": 61.2163129,
+    "long": -149.894852
+  },
+  "bluefield-beckley-oak hill||united states": {
+    "lat": null,
+    "long": null
+  },
+  "savannah||united states": {
+    "lat": 32.0790074,
+    "long": -81.0921335
+  },
+  "jonesboro||united states": {
+    "lat": 35.8348088,
+    "long": -90.7045297
+  },
+  "billings||united states": {
+    "lat": 45.7874957,
+    "long": -108.49607
+  },
+  "terre haute||united states": {
+    "lat": 39.4667025,
+    "long": -87.4139119
+  },
+  "rapid city||united states": {
+    "lat": 44.0806041,
+    "long": -103.228023
+  },
+  "great falls||united states": {
+    "lat": 47.5048851,
+    "long": -111.29189
+  },
+  "clarksburg-weston||united states": {
+    "lat": 39.1047846,
+    "long": -80.4468136
+  },
+  "traverse city-cadillac||united states": {
+    "lat": 44.677889,
+    "long": -85.3031037
+  },
+  "missoula||united states": {
+    "lat": 46.8701049,
+    "long": -113.995267
+  },
+  "binghamton||united states": {
+    "lat": 42.098698,
+    "long": -75.9125187
+  },
+  "myrtle beach-florence||united states": {
+    "lat": 33.8795634,
+    "long": -79.7475484
+  },
+  "lake charles||united states": {
+    "lat": 30.2305095,
+    "long": -93.2169807
+  },
+  "columbus-tupelo-w pnt-hstn||united states": {
+    "lat": null,
+    "long": null
+  },
+  "gainesville||united states": {
+    "lat": 29.6519684,
+    "long": -82.3249846
+  },
+  "butte-bozeman||united states": {
+    "lat": null,
+    "long": null
+  },
+  "columbia-jefferson city||united states": {
+    "lat": 33.5436109,
+    "long": -86.8805242
+  },
+  "lafayette, in||united states": {
+    "lat": 40.4191229,
+    "long": -86.8919011
+  },
+  "albany, ga||united states": {
+    "lat": 31.5782062,
+    "long": -84.1556809
+  },
+  "mankato||united states": {
+    "lat": 44.1658533,
+    "long": -94.0028013
+  },
+  "quincy-hannibal-keokuk||united states": {
+    "lat": null,
+    "long": null
+  },
+  "bowling green||united states": {
+    "lat": 36.9929203,
+    "long": -86.4428677
+  },
+  "marquette||united states": {
+    "lat": 46.4481521,
+    "long": -87.6305899
+  },
+  "jackson, tn||united states": {
+    "lat": 35.6144446,
+    "long": -88.8177418
+  },
+  "montgomery-selma||united states": {
+    "lat": 32.2705394,
+    "long": -86.7280802
+  },
+  "erie||united states": {
+    "lat": 42.1294712,
+    "long": -80.0852695
+  },
+  "cheyenne-scottsbluff||united states": {
+    "lat": 41.8763122,
+    "long": -103.6379329
+  },
+  "san angelo||united states": {
+    "lat": 31.4649685,
+    "long": -100.4405094
+  },
+  "sherman-ada||united states": {
+    "lat": 43.5777755,
+    "long": -116.3004364
+  },
+  "helena||united states": {
+    "lat": 46.5927425,
+    "long": -112.036277
+  },
+  "lubbock||united states": {
+    "lat": 33.5855677,
+    "long": -101.8470215
+  },
+  "grand junction-montrose||united states": {
+    "lat": null,
+    "long": null
+  },
+  "lima||united states": {
+    "lat": 40.7399785,
+    "long": -84.105006
+  },
+  "victoria||united states": {
+    "lat": 28.8026443,
+    "long": -96.9766308
+  },
+  "hattiesburg-laurel||united states": {
+    "lat": 31.4672,
+    "long": -89.3363366
+  },
+  "greenwood-greenville||united states": {
+    "lat": 34.8632735,
+    "long": -82.2755358
+  },
+  "zanesville||united states": {
+    "lat": 39.9401426,
+    "long": -82.005019
+  },
+  "utica||united states": {
+    "lat": 43.1009031,
+    "long": -75.2326641
+  },
+  "casper-riverton||united states": {
+    "lat": null,
+    "long": null
+  },
+  "presque isle||united states": {
+    "lat": 45.3375258,
+    "long": -83.9567881
+  },
+  "panama city||united states": {
+    "lat": 30.1586518,
+    "long": -85.6602936
+  },
+  "st. joseph||united states": {
+    "lat": 40.1117007,
+    "long": -88.0417048
+  },
+  "juneau||united states": {
+    "lat": 58.3019613,
+    "long": -134.4196751
+  },
+  "meridian||united states": {
+    "lat": 32.3643098,
+    "long": -88.703656
+  },
+  "north platte||united states": {
+    "lat": 41.1368333,
+    "long": -100.7612819
+  },
+  "nz-auk-auckland||new zealand": {
+    "lat": -36.8415315,
+    "long": 174.7633964
+  },
+  "us-tn-maryville||united states": {
+    "lat": 35.7398238,
+    "long": -83.9950314
+  },
+  "us-tn-madison||united states": {
+    "lat": 35.6130794,
+    "long": -88.8199095
+  },
+  "us-in-boonville||united states": {
+    "lat": 38.0449158,
+    "long": -87.2625903
+  },
+  "us-ky-owensboro||united states": {
+    "lat": 37.7759935,
+    "long": -87.1142685
+  },
+  "us-az-phoenix||united states": {
+    "lat": 33.4477432,
+    "long": -112.0804769
+  },
+  "us-mi-threerivers||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-nm-lascruces||united states": {
+    "lat": null,
+    "long": null
+  },
+  "gb-eng-bartononsea||united kingdom": {
+    "lat": null,
+    "long": null
+  },
+  "us-id-pocatello||united states": {
+    "lat": 42.8686534,
+    "long": -112.4431281
+  },
+  "us-mo-kansascity||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-tx-laredo||united states": {
+    "lat": 27.5067767,
+    "long": -99.508938
+  },
+  "||paraguay": {
+    "lat": -23.3165935,
+    "long": -58.1693445
+  },
+  "us-tx-montgomery||united states": {
+    "lat": 30.1320425,
+    "long": -95.454059
+  },
+  "us-wi-mcfarland||united states": {
+    "lat": 43.0136522,
+    "long": -89.3026252
+  },
+  "us-fl-fortwaltonbeach||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-il-highlandpark||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-ok-edmond||united states": {
+    "lat": 35.657971,
+    "long": -97.4801373
+  },
+  "||hungary": {
+    "lat": 47.1817585,
+    "long": 19.5060937
+  },
+  "us-fl-jacksonville||united states": {
+    "lat": 30.3296041,
+    "long": -81.6606327
+  },
+  "us-ga-lagrange||united states": {
+    "lat": 33.037968,
+    "long": -85.0118909
+  },
+  "us-id-twinfalls||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-sc-clinton||united states": {
+    "lat": 34.4759265,
+    "long": -81.8822616
+  },
+  "us-vt-northfield||united states": {
+    "lat": 44.1471013,
+    "long": -72.6560638
+  },
+  "us-fl-miami||united states": {
+    "lat": 25.779269,
+    "long": -80.1987314
+  },
+  "gb-nir-craigavon||united kingdom": {
+    "lat": null,
+    "long": null
+  },
+  "us-wa-redmond||united states": {
+    "lat": 47.6484722,
+    "long": -122.142297
+  },
+  "us-ny-holbrook||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-ky-williamsburg||united states": {
+    "lat": 36.7564003,
+    "long": -84.1560312
+  },
+  "us-va-williamsburg||united states": {
+    "lat": 37.2759819,
+    "long": -76.7457412
+  },
+  "us-ca-northridge||united states": {
+    "lat": 34.244267,
+    "long": -118.5307487
+  },
+  "us-wi-oshkosh||united states": {
+    "lat": 43.9894087,
+    "long": -88.5827739
+  },
+  "us-fl-holiday||united states": {
+    "lat": 28.1821319,
+    "long": -82.7403859
+  },
+  "us-tx-austin||united states": {
+    "lat": 30.268082,
+    "long": -97.7483738
+  },
+  "us-al-tuscaloosa||united states": {
+    "lat": 33.2027319,
+    "long": -87.5619417
+  },
+  "us-mo-saintcharles||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-ny-astoria||united states": {
+    "lat": 40.7698916,
+    "long": -73.9276127
+  },
+  "us-il-oakpark||united states": {
+    "lat": null,
+    "long": null
+  },
+  "us-wa-bremerton||united states": {
+    "lat": 47.5613587,
+    "long": -122.6671734
+  },
+  "it-pv-casorateprimo||italy": {
+    "lat": null,
+    "long": null
+  },
+  "us-wi-madison||united states": {
+    "lat": 43.07319,
+    "long": -89.3813315
+  },
+  "us-ct-norwalk||united states": {
+    "lat": 41.126347,
+    "long": -73.4207226
+  },
+  "us-de-newark||united states": {
+    "lat": 39.6844638,
+    "long": -75.7292848
+  },
+  "council bluffs|iowa|united states": {
+    "lat": 41.258841,
+    "long": -95.8519484
+  },
+  "||singapore": {
+    "lat": 1.357107,
+    "long": 103.8194992
+  },
+  "falkenstein|saxony|germany": {
+    "lat": 50.4773298,
+    "long": 12.3691588
+  },
+  "clonee|leinster|ireland": {
+    "lat": 53.4104228,
+    "long": -6.4403825
+  },
+  "ashburn|virginia|united states": {
+    "lat": 39.0437192,
+    "long": -77.4874899
+  },
+  "boardman|oregon|united states": {
+    "lat": 45.839855,
+    "long": -119.700583
+  },
+  "forest city|north carolina|united states": {
+    "lat": 35.3337279,
+    "long": -81.8649245
+  },
+  "lule\u00e5|norrbotten county|sweden": {
+    "lat": 65.5831187,
+    "long": 22.1459535
+  },
+  "prineville|oregon|united states": {
+    "lat": 44.3034887,
+    "long": -120.8463875
+  },
+  "new york|new york|united states": {
+    "lat": 40.7127281,
+    "long": -74.0060152
+  },
+  "helsinki|uusimaa|finland": {
+    "lat": 60.1666204,
+    "long": 24.9435408
+  },
+  "columbus|ohio|united states": {
+    "lat": 39.9622601,
+    "long": -83.0007065
+  },
+  "altoona|iowa|united states": {
+    "lat": 41.6437308,
+    "long": -93.4696031
+  },
+  "los angeles|california|united states": {
+    "lat": 34.0536909,
+    "long": -118.242766
+  },
+  "st. george|utah|united states": {
+    "lat": 37.1098772,
+    "long": -113.5832063
+  },
+  "fort worth|texas|united states": {
+    "lat": 32.753177,
+    "long": -97.3327459
+  },
+  "colorado springs|colorado|united states": {
+    "lat": 38.8339578,
+    "long": -104.825348
+  },
+  "manchester|connecticut|united states": {
+    "lat": 41.7834017,
+    "long": -72.5231973
+  },
+  "saladillo|buenos aires|argentina": {
+    "lat": -35.6388525,
+    "long": -59.7794241
+  },
+  "montreal|quebec|canada": {
+    "lat": 45.5031824,
+    "long": -73.5698065
+  },
+  "warsaw|mazovia|poland": {
+    "lat": 52.2333742,
+    "long": 21.0711489
+  },
+  "milan|lombardy|italy": {
+    "lat": 45.4641943,
+    "long": 9.1896346
+  },
+  "chicago|illinois|united states": {
+    "lat": 41.8755616,
+    "long": -87.6244212
+  },
+  "s\u00e3o paulo|s\u00e3o paulo|brazil": {
+    "lat": -23.5506507,
+    "long": -46.6333824
+  },
+  "newport|new hampshire|united states": {
+    "lat": 43.3650138,
+    "long": -72.1735025
+  },
+  "charlotte|north carolina|united states": {
+    "lat": 35.2272086,
+    "long": -80.8430827
+  },
+  "boston|massachusetts|united states": {
+    "lat": 42.3588336,
+    "long": -71.0578303
+  },
+  "prague|prague|czechia": {
+    "lat": 50.0874654,
+    "long": 14.4212535
+  },
+  "northampton|massachusetts|united states": {
+    "lat": 42.3178989,
+    "long": -72.6311006
+  },
+  "vienna|vienna|austria": {
+    "lat": 48.1857192,
+    "long": 16.4221587
+  },
+  "salt lake city|utah|united states": {
+    "lat": 40.7596198,
+    "long": -111.886797
+  },
+  "dublin|leinster|ireland": {
+    "lat": 53.3493795,
+    "long": -6.2605593
+  },
+  "santa clara|california|united states": {
+    "lat": 37.3541132,
+    "long": -121.955174
+  },
+  "hamburg|hamburg|germany": {
+    "lat": 53.5909051,
+    "long": 9.9753758
+  },
+  "bucharest|bucure\u0219ti|romania": {
+    "lat": 44.4356445,
+    "long": 26.1009263
+  },
+  "kyiv|kyiv city|ukraine": {
+    "lat": 50.4592515,
+    "long": 30.4906119
+  },
+  "washington|utah|united states": {
+    "lat": 37.2393471,
+    "long": -113.525776
+  },
+  "santiago|santiago metropolitan|chile": {
+    "lat": -33.4377752,
+    "long": -70.6505796
+  },
+  "athens|attica|greece": {
+    "lat": 37.9755648,
+    "long": 23.7348324
+  },
+  "brussels|brussels capital|belgium": {
+    "lat": 50.8467372,
+    "long": 4.352493
+  },
+  "denver|colorado|united states": {
+    "lat": 39.7392364,
+    "long": -104.984862
+  },
+  "budapest|budapest|hungary": {
+    "lat": 47.4978789,
+    "long": 19.0402383
+  },
+  "philadelphia|pennsylvania|united states": {
+    "lat": 39.9527237,
+    "long": -75.1635262
+  },
+  "||iraq": {
+    "lat": 33.0955793,
+    "long": 44.1749775
+  },
+  "lagos|lagos|nigeria": {
+    "lat": 6.4550575,
+    "long": 3.3941795
+  },
+  "niter\u00f3i|rio de janeiro|brazil": {
+    "lat": -22.8884,
+    "long": -43.1147
+  },
+  "glyfada|attica|greece": {
+    "lat": 37.8615966,
+    "long": 23.7545902
+  },
+  "amsterdam|north holland|the netherlands": {
+    "lat": 52.3730796,
+    "long": 4.8924534
+  },
+  "brooklyn|new york|united states": {
+    "lat": 40.6526006,
+    "long": -73.9497211
+  },
+  "dallas|texas|united states": {
+    "lat": 32.7762719,
+    "long": -96.7968559
+  },
+  "phoenix|arizona|united states": {
+    "lat": 33.4484367,
+    "long": -112.074141
+  },
+  "||china": {
+    "lat": 35.000074,
+    "long": 104.999927
+  },
+  "frankfurt am main|hesse|germany": {
+    "lat": 50.1106444,
+    "long": 8.6820917
+  },
+  "bucaramanga|santander department|colombia": {
+    "lat": null,
+    "long": null
+  },
+  "|colorado|united states": {
+    "lat": 38.7251776,
+    "long": -105.607716
+  },
+  "city of saint peters|missouri|united states": {
+    "lat": 38.7928308,
+    "long": -90.6134295
+  },
+  "|washington|united states": {
+    "lat": 38.8950368,
+    "long": -77.0365427
+  },
+  "ossining|new york|united states": {
+    "lat": 41.1613168,
+    "long": -73.8620367
+  },
+  "springfield|massachusetts|united states": {
+    "lat": 42.1018764,
+    "long": -72.5886727
+  },
+  "houston|texas|united states": {
+    "lat": 29.7589382,
+    "long": -95.3676974
+  },
+  "||bangladesh": {
+    "lat": 24.4769288,
+    "long": 90.2934413
+  },
+  "madison|wisconsin|united states": {
+    "lat": 43.07469,
+    "long": -89.3841663
+  },
+  "hendersonville|north carolina|united states": {
+    "lat": 35.3187279,
+    "long": -82.4609528
+  },
+  "seattle|washington|united states": {
+    "lat": 47.6038321,
+    "long": -122.330062
+  },
+  "rome|lazio|italy": {
+    "lat": 41.8933203,
+    "long": 12.4829321
+  },
+  "moody|alabama|united states": {
+    "lat": 33.5909365,
+    "long": -86.4908168
+  },
+  "luxembourg|luxembourg|luxembourg": {
+    "lat": 49.5999681,
+    "long": 6.1342493
+  },
+  "columbia|south carolina|united states": {
+    "lat": 34.000754,
+    "long": -81.0352313
+  },
+  "windsor|connecticut|united states": {
+    "lat": 41.8525984,
+    "long": -72.6437022
+  },
+  "atlanta|georgia|united states": {
+    "lat": 33.7544657,
+    "long": -84.3898151
+  },
+  "asunci\u00f3n|asunci\u00f3n|paraguay": {
+    "lat": -25.3172629,
+    "long": -57.6190998
+  },
+  "pakse|champasak province|laos": {
+    "lat": 15.1201461,
+    "long": 105.8043971
+  },
+  "||india": {
+    "lat": 22.3511148,
+    "long": 78.6677428
+  },
+  "craigavon|northern ireland|united kingdom": {
+    "lat": 54.4507201,
+    "long": -6.3921622
+  },
+  "fort lauderdale|florida|united states": {
+    "lat": 26.1223084,
+    "long": -80.1433786
+  },
+  "paris|\u00eele-de-france|france": {
+    "lat": 48.8534951,
+    "long": 2.3483915
+  },
+  "toronto|ontario|canada": {
+    "lat": 43.6534817,
+    "long": -79.3839347
+  },
+  "|city of zagreb|croatia": {
+    "lat": 45.8130967,
+    "long": 15.9772795
+  },
+  "san jose|california|united states": {
+    "lat": 37.3361663,
+    "long": -121.890591
+  },
+  "miami|florida|united states": {
+    "lat": 25.7741566,
+    "long": -80.1935973
+  },
+  "interlachen|florida|united states": {
+    "lat": 29.6238574,
+    "long": -81.8903684
+  },
+  "hyderabad|telangana|india": {
+    "lat": 17.360589,
+    "long": 78.4740613
+  },
+  "lisbon|lisbon|portugal": {
+    "lat": 38.7077507,
+    "long": -9.1365919
+  },
+  "phnom penh|phnom penh|cambodia": {
+    "lat": 11.568271,
+    "long": 104.9224426
+  },
+  "tallinn|harjumaa|estonia": {
+    "lat": 59.437242,
+    "long": 24.7572693
+  },
+  "||ukraine": {
+    "lat": 49.4871968,
+    "long": 31.2718321
+  },
+  "wroclaw|lower silesia|poland": {
+    "lat": 51.1263106,
+    "long": 16.9781963
+  },
+  "san antonio|texas|united states": {
+    "lat": 29.4246002,
+    "long": -98.4951405
+  },
+  "madrid|madrid|spain": {
+    "lat": 40.4237276,
+    "long": -3.6899043
+  },
+  "lowell|massachusetts|united states": {
+    "lat": 42.6414437,
+    "long": -71.3085329
+  },
+  "lac-beauport|quebec|canada": {
+    "lat": 46.944403,
+    "long": -71.296806
+  },
+  "san miguel de tucum\u00e1n|tucuman|argentina": {
+    "lat": -26.8303703,
+    "long": -65.2038133
+  },
+  "istanbul|istanbul|t\u00fcrkiye": {
+    "lat": 41.006381,
+    "long": 28.9758715
+  },
+  "christchurch|canterbury|new zealand": {
+    "lat": -43.530955,
+    "long": 172.6364343
+  },
+  "sydney|new south wales|australia": {
+    "lat": -33.8698439,
+    "long": 151.2082848
+  },
+  "barquisimeto|lara|venezuela": {
+    "lat": 10.0774374,
+    "long": -69.3222293
+  },
+  "zagreb|city of zagreb|croatia": {
+    "lat": 45.8426414,
+    "long": 15.9622315
+  },
+  "new port richey|florida|united states": {
+    "lat": 28.2441768,
+    "long": -82.7192671
+  },
+  "ecatepec|m\u00e9xico|mexico": {
+    "lat": 19.5994083,
+    "long": -99.0487281
+  },
+  "springfield|nebraska|united states": {
+    "lat": 41.0818396,
+    "long": -96.1310942
+  },
+  "ljubljana|ljubljana|slovenia": {
+    "lat": 46.0582538,
+    "long": 14.5105343
+  },
+  "dnipro|dnipropetrovsk oblast|ukraine": {
+    "lat": 48.4680221,
+    "long": 35.0417711
+  },
+  "manchester|new hampshire|united states": {
+    "lat": 42.9956397,
+    "long": -71.4547891
+  },
+  "tower hamlets|england|united kingdom": {
+    "lat": 51.1288633,
+    "long": 1.2986686
+  },
+  "kaunas|kaunas|lithuania": {
+    "lat": 54.886228,
+    "long": 23.9317431
+  },
+  "adelaide|south australia|australia": {
+    "lat": -34.9281805,
+    "long": 138.5999312
+  },
+  "piedecuesta|santander department|colombia": {
+    "lat": null,
+    "long": null
+  },
+  "stamford|connecticut|united states": {
+    "lat": 41.0534302,
+    "long": -73.5387341
+  },
+  "oslo|oslo county|norway": {
+    "lat": null,
+    "long": null
+  },
+  "moncton|new brunswick|canada": {
+    "lat": 46.0985679,
+    "long": -64.8004265
+  },
+  "washington|district of columbia|united states": {
+    "lat": 38.8950368,
+    "long": -77.0365427
+  },
+  "maia|porto|portugal": {
+    "lat": 41.2373456,
+    "long": -8.6299982
+  },
+  "tokyo|tokyo|japan": {
+    "lat": 35.6812546,
+    "long": 139.766706
+  },
+  "fort walton beach|florida|united states": {
+    "lat": 30.4057552,
+    "long": -86.618842
+  },
+  "kuwait city|al asimah|kuwait": {
+    "lat": 29.3796532,
+    "long": 47.9734174
+  },
+  "|utah|united states": {
+    "lat": 39.4225192,
+    "long": -111.714358
+  },
+  "des moines|iowa|united states": {
+    "lat": 41.5868654,
+    "long": -93.6249494
+  },
+  "hartford|connecticut|united states": {
+    "lat": 41.764582,
+    "long": -72.6908547
+  },
+  "louisville|kentucky|united states": {
+    "lat": 38.2542376,
+    "long": -85.759407
+  },
+  "cumberland|maryland|united states": {
+    "lat": 39.6526498,
+    "long": -78.762383
+  },
+  "copenhagen|capital region|denmark": {
+    "lat": 55.6867243,
+    "long": 12.5700724
+  },
+  "independence|missouri|united states": {
+    "lat": 39.0924792,
+    "long": -94.4137923
+  },
+  "haarlem|north holland|the netherlands": {
+    "lat": 52.3885317,
+    "long": 4.6388048
+  },
+  "lima|lima province|peru": {
+    "lat": -12.0459808,
+    "long": -77.0305912
+  },
+  "santiago de los caballeros|santiago province|dominican republic": {
+    "lat": null,
+    "long": null
+  },
+  "baltimore|maryland|united states": {
+    "lat": 39.2908816,
+    "long": -76.610759
+  },
+  "middletown|connecticut|united states": {
+    "lat": 41.5623178,
+    "long": -72.6509061
+  },
+  "genoa city|wisconsin|united states": {
+    "lat": 42.4983517,
+    "long": -88.3281487
+  },
+  "las vegas|nevada|united states": {
+    "lat": 36.1674263,
+    "long": -115.1484131
+  },
+  "|bansk\u00e1 bystrica region|slovakia": {
+    "lat": 48.7435083,
+    "long": 19.1403951
+  },
+  "florence|tuscany|italy": {
+    "lat": 43.7697955,
+    "long": 11.2556404
+  },
+  "worcester|massachusetts|united states": {
+    "lat": 42.2625621,
+    "long": -71.8018877
+  },
+  "auckland|auckland|new zealand": {
+    "lat": -36.852095,
+    "long": 174.7631803
+  },
+  "porto|porto|portugal": {
+    "lat": 41.1502195,
+    "long": -8.6103497
+  },
+  "||hong kong": {
+    "lat": 22.2792968,
+    "long": 114.1628907
+  },
+  "thiais|\u00eele-de-france|france": {
+    "lat": 48.7643664,
+    "long": 2.391024
+  },
+  "owensboro|kentucky|united states": {
+    "lat": 37.7742152,
+    "long": -87.1133304
+  },
+  "milwaukee|wisconsin|united states": {
+    "lat": 43.0386475,
+    "long": -87.9090751
+  },
+  "oklahoma city|oklahoma|united states": {
+    "lat": 35.4729886,
+    "long": -97.5170536
+  },
+  "zurich|zurich|switzerland": {
+    "lat": 47.3744489,
+    "long": 8.5410422
+  },
+  "the bronx|new york|united states": {
+    "lat": 40.8466508,
+    "long": -73.8785937
+  },
+  "syracuse|new york|united states": {
+    "lat": 43.0481221,
+    "long": -76.1474244
+  },
+  "bellevue|washington|united states": {
+    "lat": 47.6144219,
+    "long": -122.192337
+  },
+  "rio de janeiro|rio de janeiro|brazil": {
+    "lat": -22.9110137,
+    "long": -43.2093727
+  },
+  "kilmarnock|scotland|united kingdom": {
+    "lat": 55.6100589,
+    "long": -4.4964652
+  },
+  "del norte|colorado|united states": {
+    "lat": 37.6788919,
+    "long": -106.353368
+  },
+  "belo horizonte|minas gerais|brazil": {
+    "lat": -19.9227318,
+    "long": -43.9450948
+  },
+  "madison|tennessee|united states": {
+    "lat": 35.6055887,
+    "long": -88.852119
+  },
+  "manchester|england|united kingdom": {
+    "lat": 53.4794892,
+    "long": -2.2451148
+  },
+  "valley park|missouri|united states": {
+    "lat": 38.5493603,
+    "long": -90.4912719
+  },
+  "|asunci\u00f3n|paraguay": {
+    "lat": -25.2800459,
+    "long": -57.6343814
+  },
+  "metz|grand est|france": {
+    "lat": 49.1196964,
+    "long": 6.1763552
+  },
+  "thessaloniki|central macedonia|greece": {
+    "lat": 40.6403167,
+    "long": 22.9352716
+  },
+  "bogot\u00e1|bogota d.c.|colombia": {
+    "lat": 4.6533817,
+    "long": -74.0836331
+  },
+  "san francisco|california|united states": {
+    "lat": 37.7879363,
+    "long": -122.4075201
+  },
+  "edinburgh|scotland|united kingdom": {
+    "lat": 55.9533456,
+    "long": -3.1883749
+  },
+  "doylestown|pennsylvania|united states": {
+    "lat": 40.3100446,
+    "long": -75.1304588
+  },
+  "lviv|lviv|ukraine": {
+    "lat": 49.841952,
+    "long": 24.0315921
+  },
+  "rockmart|georgia|united states": {
+    "lat": 34.0026005,
+    "long": -85.0416133
+  },
+  "azcapotzalco|mexico city|mexico": {
+    "lat": 19.4838908,
+    "long": -99.1843937
+  },
+  "caracas|distrito federal|venezuela": {
+    "lat": 10.5060934,
+    "long": -66.9146008
+  },
+  "naaldwijk|south holland|the netherlands": {
+    "lat": 51.9930016,
+    "long": 4.2074197
+  },
+  "blagoevgrad|blagoevgrad|bulgaria": {
+    "lat": 42.0111077,
+    "long": 23.0906457
+  },
+  "grand forks|north dakota|united states": {
+    "lat": 47.9252104,
+    "long": -97.0306325
+  },
+  "makati city|metro manila|philippines": {
+    "lat": 14.5567949,
+    "long": 121.0211226
+  },
+  "meriden|connecticut|united states": {
+    "lat": 41.5381535,
+    "long": -72.8070435
+  },
+  "ho chi minh city|ho chi minh|vietnam": {
+    "lat": 10.7793648,
+    "long": 106.6922806
+  },
+  "albuquerque|new mexico|united states": {
+    "lat": 35.0841034,
+    "long": -106.650985
+  },
+  "hackney|england|united kingdom": {
+    "lat": 51.5432402,
+    "long": -0.0493621
+  },
+  "mazatl\u00e1n|sinaloa|mexico": {
+    "lat": 23.2035785,
+    "long": -106.4208391
+  },
+  "riga|r\u012bga|latvia": {
+    "lat": 56.9410379,
+    "long": 24.0967724
+  },
+  "stockholm|stockholm county|sweden": {
+    "lat": 59.3251172,
+    "long": 18.0710935
+  },
+  "nuremberg|bavaria|germany": {
+    "lat": 49.453872,
+    "long": 11.077298
+  },
+  "queens|new york|united states": {
+    "lat": 40.7135078,
+    "long": -73.8283132
+  },
+  "boydton|virginia|united states": {
+    "lat": 36.6673066,
+    "long": -78.3882002
+  },
+  "|alabama|united states": {
+    "lat": 33.2588817,
+    "long": -86.8295337
+  },
+  "london|england|united kingdom": {
+    "lat": 51.5074456,
+    "long": -0.1277653
+  },
+  "new britain|connecticut|united states": {
+    "lat": 41.6612104,
+    "long": -72.7795419
+  },
+  "as s\u0101lim\u012byah|hawalli|kuwait": {
+    "lat": null,
+    "long": null
+  },
+  "ayr|scotland|united kingdom": {
+    "lat": 55.4628044,
+    "long": -4.6302502
+  },
+  "vilanova i la geltr\u00fa|catalonia|spain": {
+    "lat": 41.2241992,
+    "long": 1.7256327
+  },
+  "leicester|england|united kingdom": {
+    "lat": 52.6362,
+    "long": -1.1331969
+  },
+  "ia\u0219i|ia\u0219i county|romania": {
+    "lat": null,
+    "long": null
+  },
+  "|wellington region|new zealand": {
+    "lat": -41.2235474,
+    "long": 175.4157576
+  },
+  "evansville|indiana|united states": {
+    "lat": 37.970495,
+    "long": -87.5715641
+  },
+  "singapore||singapore": {
+    "lat": 1.357107,
+    "long": 103.8194992
+  },
+  "bristol|rhode island|united states": {
+    "lat": 41.6770463,
+    "long": -71.2661597
+  },
+  "riyadh|riyadh region|saudi arabia": {
+    "lat": 24.638916,
+    "long": 46.7160104
+  },
+  "stuttgart|baden-wurttemberg|germany": {
+    "lat": 48.7784485,
+    "long": 9.1800132
+  },
+  "minneapolis|minnesota|united states": {
+    "lat": 44.9772995,
+    "long": -93.2654692
+  },
+  "huntsville|alabama|united states": {
+    "lat": 34.729847,
+    "long": -86.5859011
+  },
+  "lexington|kentucky|united states": {
+    "lat": 38.0464066,
+    "long": -84.4970393
+  },
+  "tehachapi|california|united states": {
+    "lat": 35.1321878,
+    "long": -118.4489739
+  },
+  "high point|north carolina|united states": {
+    "lat": 35.9556924,
+    "long": -80.0053176
+  },
+  "palmdale|california|united states": {
+    "lat": 34.5793131,
+    "long": -118.11711
+  },
+  "glasgow|scotland|united kingdom": {
+    "lat": 55.861155,
+    "long": -4.2501687
+  },
+  "||british virgin islands": {
+    "lat": 18.4024395,
+    "long": -64.5661642
+  },
+  "waverly|tennessee|united states": {
+    "lat": 36.0830353,
+    "long": -87.7945789
+  },
+  "islington|england|united kingdom": {
+    "lat": 51.5384287,
+    "long": -0.0999051
+  },
+  "puerto real|andalusia|spain": {
+    "lat": 36.5286856,
+    "long": -6.1902161
+  },
+  "||austria": {
+    "lat": 47.59397,
+    "long": 14.12456
+  },
+  "chesapeake|virginia|united states": {
+    "lat": 36.7168315,
+    "long": -76.2494453
+  },
+  "hamden|connecticut|united states": {
+    "lat": 41.3836233,
+    "long": -72.9020069
+  },
+  "buenos aires|buenos aires f.d.|argentina": {
+    "lat": 19.4044764,
+    "long": -99.1487685
+  },
+  "woburn|massachusetts|united states": {
+    "lat": 42.4792618,
+    "long": -71.1522766
+  },
+  "padua|veneto|italy": {
+    "lat": 45.4077172,
+    "long": 11.8734455
+  },
+  "przemy\u015bl|subcarpathia|poland": {
+    "lat": null,
+    "long": null
+  },
+  "scottsdale|arizona|united states": {
+    "lat": 33.4942189,
+    "long": -111.926018
+  },
+  "perth|western australia|australia": {
+    "lat": -31.9558967,
+    "long": 115.8605784
+  },
+  "|florida|united states": {
+    "lat": 27.7567667,
+    "long": -81.4639835
+  },
+  "bozeman|montana|united states": {
+    "lat": 45.6794293,
+    "long": -111.044047
+  },
+  "newport news|virginia|united states": {
+    "lat": 36.9775016,
+    "long": -76.42977
+  },
+  "joinville|santa catarina|brazil": {
+    "lat": -26.3044898,
+    "long": -48.8486726
+  },
+  "yuma|arizona|united states": {
+    "lat": 32.7254216,
+    "long": -114.6198088
+  },
+  "zamo\u015b\u0107|lublin|poland": {
+    "lat": 50.7170854,
+    "long": 23.2525711
+  },
+  "findlay|ohio|united states": {
+    "lat": 41.0413873,
+    "long": -83.6503982
+  },
+  "m\u00e1laga|andalusia|spain": {
+    "lat": 36.7213028,
+    "long": -4.4216366
+  },
+  "s\u00e3o borja|rio grande do sul|brazil": {
+    "lat": -28.6592237,
+    "long": -56.0044295
+  },
+  "saarlouis|saarland|germany": {
+    "lat": 49.3164661,
+    "long": 6.749846
+  },
+  "southampton|england|united kingdom": {
+    "lat": 50.9025349,
+    "long": -1.404189
+  },
+  "greenwood|indiana|united states": {
+    "lat": 39.6136987,
+    "long": -86.1095429
+  },
+  "southwark|england|united kingdom": {
+    "lat": 51.5061349,
+    "long": -0.1011379
+  },
+  "brisbane|queensland|australia": {
+    "lat": -27.365991,
+    "long": 152.948963
+  },
+  "milford|connecticut|united states": {
+    "lat": 41.2222218,
+    "long": -73.0570603
+  },
+  "leipzig|saxony|germany": {
+    "lat": 51.3406321,
+    "long": 12.3747329
+  },
+  "quito|pichincha|ecuador": {
+    "lat": -0.2201641,
+    "long": -78.5123274
+  },
+  "antwerp|flanders|belgium": {
+    "lat": 51.2211097,
+    "long": 4.3997081
+  },
+  "monterrey|nuevo le\u00f3n|mexico": {
+    "lat": 25.6802019,
+    "long": -100.315258
+  },
+  "city of london|england|united kingdom": {
+    "lat": 51.5156177,
+    "long": -0.0919983
+  },
+  "cardiff|wales|united kingdom": {
+    "lat": 51.4816546,
+    "long": -3.1791934
+  },
+  "nashville|tennessee|united states": {
+    "lat": 36.1622767,
+    "long": -86.7742984
+  },
+  "fuzhou|fujian|china": {
+    "lat": 26.0774954,
+    "long": 119.2918215
+  },
+  "elkhart|indiana|united states": {
+    "lat": 41.6012796,
+    "long": -85.8590603
+  },
+  "nicosia|nicosia|cyprus": {
+    "lat": 35.1746503,
+    "long": 33.3638783
+  },
+  "montecchio maggiore|veneto|italy": {
+    "lat": 45.5050793,
+    "long": 11.4084448
+  },
+  "burnaby|british columbia|canada": {
+    "lat": 49.2433804,
+    "long": -122.972545
+  },
+  "basel|basel-city|switzerland": {
+    "lat": 47.5581077,
+    "long": 7.5878261
+  },
+  "romford|england|united kingdom": {
+    "lat": 51.5792826,
+    "long": 0.1819922
+  },
+  "new delhi|national capital territory of delhi|india": {
+    "lat": 28.6138954,
+    "long": 77.2090057
+  },
+  "aurora|colorado|united states": {
+    "lat": 39.7405111,
+    "long": -104.830994
+  },
+  "nairobi|nairobi county|kenya": {
+    "lat": -1.2890006,
+    "long": 36.8172812
+  },
+  "lake stevens|washington|united states": {
+    "lat": 48.0197794,
+    "long": -122.0660914
+  },
+  "buffalo|new york|united states": {
+    "lat": 42.8864163,
+    "long": -78.8781493
+  },
+  "rastatt|baden-wurttemberg|germany": {
+    "lat": 48.8584568,
+    "long": 8.2040452
+  },
+  "ellington|connecticut|united states": {
+    "lat": 41.9039863,
+    "long": -72.4698071
+  },
+  "newark|new york|united states": {
+    "lat": 43.0467301,
+    "long": -77.0952516
+  },
+  "lansing|michigan|united states": {
+    "lat": 42.7338254,
+    "long": -84.5546295
+  },
+  "guatemala city|guatemala|guatemala": {
+    "lat": 14.6416142,
+    "long": -90.5132836
+  },
+  "woodbridge|virginia|united states": {
+    "lat": 38.636447,
+    "long": -77.2676335
+  },
+  "gallatin|tennessee|united states": {
+    "lat": 36.3883031,
+    "long": -86.4475898
+  },
+  "wilton|connecticut|united states": {
+    "lat": 41.1953739,
+    "long": -73.4378988
+  },
+  "alto hospicio|tarapac\u00e1|chile": {
+    "lat": -20.2700478,
+    "long": -70.1009162
+  },
+  "medell\u00edn|antioquia|colombia": {
+    "lat": 6.2697325,
+    "long": -75.6025597
+  },
+  "ibadan|oyo state|nigeria": {
+    "lat": 7.3786064,
+    "long": 3.8969928
+  },
+  "cork|munster|ireland": {
+    "lat": 51.8985136,
+    "long": -8.4726423
+  },
+  "||the netherlands": {
+    "lat": 52.2434979,
+    "long": 5.6343227
+  },
+  "pueblo|colorado|united states": {
+    "lat": 38.263995,
+    "long": -104.6141867
+  },
+  "carazinho|rio grande do sul|brazil": {
+    "lat": -28.2981634,
+    "long": -52.7942363
+  },
+  "plasencia|extremadura|spain": {
+    "lat": 40.029921,
+    "long": -6.090168
+  },
+  "gillingham|england|united kingdom": {
+    "lat": 51.3871701,
+    "long": 0.5461611
+  },
+  "washington|virginia|united states": {
+    "lat": 36.740236,
+    "long": -81.9421666
+  },
+  "|friesland|the netherlands": {
+    "lat": 53.0923689,
+    "long": 5.777043
+  },
+  "mendoza|mendoza|argentina": {
+    "lat": -32.8894155,
+    "long": -68.8446177
+  },
+  "the hague|south holland|the netherlands": {
+    "lat": 52.0799838,
+    "long": 4.3113461
+  },
+  "vineland|new jersey|united states": {
+    "lat": 39.4862777,
+    "long": -75.0254256
+  },
+  "indio|california|united states": {
+    "lat": 33.7192808,
+    "long": -116.2188054
+  },
+  "general roca|rio negro|argentina": {
+    "lat": -39.0268342,
+    "long": -67.5754674
+  },
+  "las cruces|new mexico|united states": {
+    "lat": 32.3140354,
+    "long": -106.779807
+  },
+  "|georgia|united states": {
+    "lat": 32.3293809,
+    "long": -83.1137366
+  },
+  "sheffield|england|united kingdom": {
+    "lat": 53.3806626,
+    "long": -1.4702278
+  },
+  "clifton|new jersey|united states": {
+    "lat": 40.8584328,
+    "long": -74.1637553
+  },
+  "farmington|new mexico|united states": {
+    "lat": 36.7291152,
+    "long": -108.205445
+  },
+  "deer park|new york|united states": {
+    "lat": 40.7622495,
+    "long": -73.3228592
+  },
+  "tunis|tunis governorate|tunisia": {
+    "lat": 36.8002068,
+    "long": 10.1857757
+  },
+  "campinas|s\u00e3o paulo|brazil": {
+    "lat": -22.9056391,
+    "long": -47.059564
+  },
+  "brandenburg|brandenburg|germany": {
+    "lat": 52.4108261,
+    "long": 12.5497933
+  },
+  "long beach|california|united states": {
+    "lat": 33.7690164,
+    "long": -118.191604
+  },
+  "moscow|moscow|russia": {
+    "lat": 55.7505412,
+    "long": 37.6174782
+  },
+  "bruges|flanders|belgium": {
+    "lat": 51.2085526,
+    "long": 3.226772
+  },
+  "st louis|missouri|united states": {
+    "lat": 38.6254063,
+    "long": -90.190009
+  },
+  "omro|wisconsin|united states": {
+    "lat": 44.0394988,
+    "long": -88.7442754
+  },
+  "bhubaneswar|odisha|india": {
+    "lat": 20.2602964,
+    "long": 85.8394521
+  },
+  "bratislava|bratislava region|slovakia": {
+    "lat": 48.1559178,
+    "long": 17.1313541
+  },
+  "boonville|indiana|united states": {
+    "lat": 38.0493288,
+    "long": -87.2746568
+  },
+  "bagenalstown|leinster|ireland": {
+    "lat": 52.7018267,
+    "long": -6.9566623
+  },
+  "new haven|connecticut|united states": {
+    "lat": 41.3082138,
+    "long": -72.9250518
+  },
+  "brockton|massachusetts|united states": {
+    "lat": 42.0834335,
+    "long": -71.0183787
+  },
+  "holyoke|massachusetts|united states": {
+    "lat": 42.2071184,
+    "long": -72.6075851
+  },
+  "fenton|michigan|united states": {
+    "lat": 42.7978061,
+    "long": -83.7049498
+  },
+  "shanghai|shanghai|china": {
+    "lat": 31.2312707,
+    "long": 121.4700152
+  },
+  "san juan||puerto rico": {
+    "lat": 18.465299,
+    "long": -66.116666
+  },
+  "cincinnati|ohio|united states": {
+    "lat": 39.1014537,
+    "long": -84.5124602
+  },
+  "carrollton|virginia|united states": {
+    "lat": 36.9355795,
+    "long": -76.5179385
+  },
+  "hengelo|overijssel|the netherlands": {
+    "lat": 52.2658726,
+    "long": 6.7924049
+  },
+  "portland|oregon|united states": {
+    "lat": 45.5202471,
+    "long": -122.674194
+  },
+  "stone mountain|georgia|united states": {
+    "lat": 33.8062166,
+    "long": -84.1457505
+  },
+  "c\u00f3rdoba|andalusia|spain": {
+    "lat": 37.8845813,
+    "long": -4.7760138
+  },
+  "hanover park|illinois|united states": {
+    "lat": 41.9994722,
+    "long": -88.1450735
+  },
+  "feilding|manawatu-wanganui|new zealand": {
+    "lat": -40.2262765,
+    "long": 175.5644409
+  },
+  "north attleboro|massachusetts|united states": {
+    "lat": 41.9841334,
+    "long": -71.3322798
+  },
+  "abu dhabi|abu dhabi|united arab emirates": {
+    "lat": 24.4538352,
+    "long": 54.3774014
+  },
+  "etobicoke|ontario|canada": {
+    "lat": 43.6435559,
+    "long": -79.5656326
+  },
+  "bad k\u00f6nig|hesse|germany": {
+    "lat": 49.7435067,
+    "long": 9.0262376
+  },
+  "||denmark": {
+    "lat": 55.670249,
+    "long": 10.3333283
+  },
+  "|basque country|spain": {
+    "lat": 42.9911816,
+    "long": -2.5543023
+  },
+  "zwolle|overijssel|the netherlands": {
+    "lat": 52.5089759,
+    "long": 6.0943765
+  },
+  "allentown|pennsylvania|united states": {
+    "lat": 40.6022552,
+    "long": -75.4716115
+  },
+  "rio claro|rio de janeiro|brazil": {
+    "lat": -22.7857402,
+    "long": -44.0742668
+  },
+  "parla|madrid|spain": {
+    "lat": 40.2373952,
+    "long": -3.7718902
+  },
+  "lynchburg|virginia|united states": {
+    "lat": 37.4137536,
+    "long": -79.1422464
+  },
+  "north brunswick|new jersey|united states": {
+    "lat": 40.4539249,
+    "long": -74.476545
+  },
+  "hillsborough|new jersey|united states": {
+    "lat": 40.5052296,
+    "long": -74.6732941
+  },
+  "waukesha|wisconsin|united states": {
+    "lat": 43.0622536,
+    "long": -88.3123889
+  },
+  "sorocaba|s\u00e3o paulo|brazil": {
+    "lat": -23.5003451,
+    "long": -47.4582864
+  },
+  "bern|bern|switzerland": {
+    "lat": 46.9484742,
+    "long": 7.4521749
+  },
+  "hollister|california|united states": {
+    "lat": 36.8524545,
+    "long": -121.4016021
+  },
+  "oak park|illinois|united states": {
+    "lat": 41.8878145,
+    "long": -87.7887615
+  },
+  "berazategui|buenos aires|argentina": {
+    "lat": -34.7632677,
+    "long": -58.2116604
+  },
+  "ogden|utah|united states": {
+    "lat": 41.2230048,
+    "long": -111.9738429
+  },
+  "trussville|alabama|united states": {
+    "lat": 33.6196266,
+    "long": -86.6084342
+  },
+  "workington|england|united kingdom": {
+    "lat": 54.64338,
+    "long": -3.5453529
+  },
+  "sparks|nevada|united states": {
+    "lat": 39.5404679,
+    "long": -119.7487235
+  },
+  "trujillo|la libertad|peru": {
+    "lat": -8.1116778,
+    "long": -79.0287742
+  },
+  "merlo|buenos aires|argentina": {
+    "lat": -34.6604988,
+    "long": -58.7321695
+  },
+  "mount pleasant|michigan|united states": {
+    "lat": 43.597646,
+    "long": -84.7668495
+  },
+  "barre|vermont|united states": {
+    "lat": 44.1969042,
+    "long": -72.5007458
+  },
+  "needham|massachusetts|united states": {
+    "lat": 42.2802645,
+    "long": -71.2360624
+  },
+  "batangas|calabarzon|philippines": {
+    "lat": 13.9146826,
+    "long": 121.0867566
+  },
+  "vinnytsia|vinnytsia|ukraine": {
+    "lat": 49.2320162,
+    "long": 28.467975
+  },
+  "austin|texas|united states": {
+    "lat": 30.2711286,
+    "long": -97.7436995
+  },
+  "|ohio|united states": {
+    "lat": 40.2253569,
+    "long": -82.6881395
+  },
+  "spring grove|illinois|united states": {
+    "lat": 42.4436308,
+    "long": -88.2364775
+  },
+  "arecibo||puerto rico": {
+    "lat": 18.4047499,
+    "long": -66.6810353
+  },
+  "forest park|georgia|united states": {
+    "lat": 33.6220542,
+    "long": -84.3690918
+  },
+  "pratteln|basel-landschaft|switzerland": {
+    "lat": 47.5192013,
+    "long": 7.6944741
+  },
+  "kharkiv|kharkivs\u2019ka oblast\u2019|ukraine": {
+    "lat": null,
+    "long": null
+  },
+  "charleston|south carolina|united states": {
+    "lat": 32.7884363,
+    "long": -79.9399309
+  },
+  "resana|veneto|italy": {
+    "lat": 45.6345748,
+    "long": 11.9554316
+  },
+  "roachdale|indiana|united states": {
+    "lat": 39.8489339,
+    "long": -86.8022295
+  },
+  "seoul|seoul|south korea": {
+    "lat": 37.5560719,
+    "long": 126.9723599
+  },
+  "los \u00e1ngeles|regi\u00f3n del biob\u00edo|chile": {
+    "lat": -37.4707455,
+    "long": -72.351686
+  },
+  "sheboygan|wisconsin|united states": {
+    "lat": 43.7128967,
+    "long": -87.9370433
+  },
+  "pellston|michigan|united states": {
+    "lat": 45.552789,
+    "long": -84.783936
+  },
+  "la porte|texas|united states": {
+    "lat": 29.6657838,
+    "long": -95.0193729
+  },
+  "mao|valverde province|dominican republic": {
+    "lat": null,
+    "long": null
+  },
+  "liverpool|england|united kingdom": {
+    "lat": 53.4071991,
+    "long": -2.99168
+  },
+  "darby|pennsylvania|united states": {
+    "lat": 39.9184461,
+    "long": -75.2590721
+  },
+  "revere|massachusetts|united states": {
+    "lat": 42.4084302,
+    "long": -71.0119948
+  },
+  "mar del plata|buenos aires|argentina": {
+    "lat": -37.9976168,
+    "long": -57.5482079
+  },
+  "izmir|i\u0307zmir province|t\u00fcrkiye": {
+    "lat": 38.3278306,
+    "long": 27.6962204
+  },
+  "auburn|washington|united states": {
+    "lat": 47.3075369,
+    "long": -122.2301808
+  },
+  "livingston|scotland|united kingdom": {
+    "lat": 55.8829582,
+    "long": -3.5175773
+  },
+  "hilliard|ohio|united states": {
+    "lat": 40.033814,
+    "long": -83.1596108
+  },
+  "north bergen|new jersey|united states": {
+    "lat": 40.8042674,
+    "long": -74.012084
+  },
+  "ajka|veszpr\u00e9m megye|hungary": {
+    "lat": 47.1056579,
+    "long": 17.5587276
+  },
+  "tempe|arizona|united states": {
+    "lat": 33.4255117,
+    "long": -111.940016
+  },
+  "canberra|australian capital territory|australia": {
+    "lat": -35.2975906,
+    "long": 149.1012676
+  },
+  "\u00fcsk\u00fcdar|istanbul|t\u00fcrkiye": {
+    "lat": 41.0265498,
+    "long": 29.0151321
+  },
+  "la conner|washington|united states": {
+    "lat": 48.3918865,
+    "long": -122.494248
+  },
+  "elizabethtown|kentucky|united states": {
+    "lat": 37.693952,
+    "long": -85.8591285
+  },
+  "west hartford|connecticut|united states": {
+    "lat": 41.7620447,
+    "long": -72.7420399
+  },
+  "urbana|illinois|united states": {
+    "lat": 40.1117174,
+    "long": -88.207301
+  },
+  "zapopan|jalisco|mexico": {
+    "lat": 20.7211203,
+    "long": -103.3913671
+  },
+  "tillsonburg|ontario|canada": {
+    "lat": 42.859494,
+    "long": -80.7265015
+  },
+  "luquillo||puerto rico": {
+    "lat": 18.3388,
+    "long": -65.7172171
+  },
+  "salisbury|maryland|united states": {
+    "lat": 38.366027,
+    "long": -75.6009964
+  },
+  "izium|kharkivs\u2019ka oblast\u2019|ukraine": {
+    "lat": null,
+    "long": null
+  },
+  "villejuif|\u00eele-de-france|france": {
+    "lat": 48.7921098,
+    "long": 2.3633048
+  },
+  "santa maria|rio grande do sul|brazil": {
+    "lat": -29.6860512,
+    "long": -53.8069214
+  },
+  "elizabethtown|north carolina|united states": {
+    "lat": 34.6293372,
+    "long": -78.6052899
+  },
+  "ankara|ankara|t\u00fcrkiye": {
+    "lat": 39.9207759,
+    "long": 32.8540497
+  },
+  "luton|england|united kingdom": {
+    "lat": 51.891073,
+    "long": -0.4230304
+  },
+  "artesia|new mexico|united states": {
+    "lat": 32.8423345,
+    "long": -104.4032963
+  },
+  "deland|florida|united states": {
+    "lat": 29.0281051,
+    "long": -81.3034183
+  },
+  "kalamata|peloponnese|greece": {
+    "lat": 37.0372714,
+    "long": 22.110707
+  },
+  "ilion|new york|united states": {
+    "lat": 43.0150703,
+    "long": -75.0354347
+  },
+  "||israel": {
+    "lat": 30.8124247,
+    "long": 34.8594762
+  },
+  "corry|pennsylvania|united states": {
+    "lat": 41.920334,
+    "long": -79.640329
+  },
+  "benin city|edo state|nigeria": {
+    "lat": 6.3330586,
+    "long": 5.6221058
+  },
+  "new castle|indiana|united states": {
+    "lat": 39.9289351,
+    "long": -85.3702477
+  },
+  "porto alegre|rio grande do sul|brazil": {
+    "lat": -30.0324999,
+    "long": -51.2303767
+  },
+  "ridgewood|new jersey|united states": {
+    "lat": 40.9796683,
+    "long": -74.1194403
+  },
+  "edinboro|pennsylvania|united states": {
+    "lat": 41.8742225,
+    "long": -80.1317236
+  },
+  "scottsburg|indiana|united states": {
+    "lat": 38.685614,
+    "long": -85.7702451
+  },
+  "algiers|algiers|algeria": {
+    "lat": 36.7729333,
+    "long": 3.0588445
+  },
+  "wolfratshausen|bavaria|germany": {
+    "lat": 47.9104632,
+    "long": 11.4266377
+  },
+  "caruaru|pernambuco|brazil": {
+    "lat": -8.2829702,
+    "long": -35.9722852
+  },
+  "waldorf|maryland|united states": {
+    "lat": 38.6263882,
+    "long": -76.9106581
+  },
+  "vernon|connecticut|united states": {
+    "lat": 41.8382921,
+    "long": -72.4663331
+  },
+  "troy|michigan|united states": {
+    "lat": 42.6055893,
+    "long": -83.1499304
+  },
+  "baton rouge|louisiana|united states": {
+    "lat": 30.4494155,
+    "long": -91.1869659
+  },
+  "almere stad|flevoland|the netherlands": {
+    "lat": 52.3722582,
+    "long": 5.2176582
+  },
+  "cruz alta|rio grande do sul|brazil": {
+    "lat": -28.645056,
+    "long": -53.6058047
+  },
+  "v\u00e9lizy-villacoublay|\u00eele-de-france|france": {
+    "lat": 48.7809496,
+    "long": 2.1900052
+  },
+  "la rochelle|nouvelle-aquitaine|france": {
+    "lat": 46.159732,
+    "long": -1.1515951
+  },
+  "costa mesa|california|united states": {
+    "lat": 33.6633386,
+    "long": -117.903317
+  },
+  "oregon city|oregon|united states": {
+    "lat": 45.3573429,
+    "long": -122.606758
+  },
+  "ambato|tungurahua province|ecuador": {
+    "lat": null,
+    "long": null
+  },
+  "andover|minnesota|united states": {
+    "lat": 45.2332985,
+    "long": -93.2913405
+  },
+  "malmo|sk\u00e5ne county|sweden": {
+    "lat": 55.6052931,
+    "long": 13.0001566
+  },
+  "plattsburgh|new york|united states": {
+    "lat": 44.6960855,
+    "long": -73.4542915
+  },
+  "maple grove|minnesota|united states": {
+    "lat": 45.0984983,
+    "long": -93.4419222
+  },
+  "ribeir\u00e3o preto|s\u00e3o paulo|brazil": {
+    "lat": -21.1776315,
+    "long": -47.8100983
+  },
+  "brandon|florida|united states": {
+    "lat": 27.937801,
+    "long": -82.2859247
+  },
+  "antioch|tennessee|united states": {
+    "lat": 36.0600602,
+    "long": -86.6722192
+  },
+  "indore|madhya pradesh|india": {
+    "lat": 22.7203616,
+    "long": 75.8681996
+  },
+  "|lower saxony|germany": {
+    "lat": 52.8398531,
+    "long": 9.075962
+  },
+  "rio rancho|new mexico|united states": {
+    "lat": 35.3108227,
+    "long": -106.6847453
+  },
+  "wellington|wellington region|new zealand": {
+    "lat": -41.2887953,
+    "long": 174.7772114
+  },
+  "abuja|fct|nigeria": {
+    "lat": 9.0643305,
+    "long": 7.4892974
+  },
+  "ypsilanti|michigan|united states": {
+    "lat": 42.241051,
+    "long": -83.6117646
+  },
+  "rocky hill|connecticut|united states": {
+    "lat": 41.6648216,
+    "long": -72.6392587
+  },
+  "estepona|andalusia|spain": {
+    "lat": 36.4268068,
+    "long": -5.1468484
+  },
+  "salta|salta|argentina": {
+    "lat": -24.7892946,
+    "long": -65.4103194
+  },
+  "glastonbury|connecticut|united states": {
+    "lat": 41.7123218,
+    "long": -72.608146
+  },
+  "neuqu\u00e9n|neuquen|argentina": {
+    "lat": -38.9519679,
+    "long": -68.0591741
+  },
+  "|anzo\u00e1tegui|venezuela": {
+    "lat": 9.0197925,
+    "long": -64.2168001
+  },
+  "karlsruhe|baden-wurttemberg|germany": {
+    "lat": 49.0068705,
+    "long": 8.4034195
+  },
+  "lindenhurst|new york|united states": {
+    "lat": 40.6867667,
+    "long": -73.3734547
+  },
+  "eau claire|wisconsin|united states": {
+    "lat": 44.811349,
+    "long": -91.4984941
+  },
+  "edmonton|alberta|canada": {
+    "lat": 53.5462055,
+    "long": -113.491241
+  },
+  "bedford|england|united kingdom": {
+    "lat": 52.1363806,
+    "long": -0.4675041
+  },
+  "moraira|valencia|spain": {
+    "lat": 38.6880943,
+    "long": 0.1344619
+  },
+  "saarbr\u00fccken|saarland|germany": {
+    "lat": 49.234362,
+    "long": 6.996379
+  },
+  "sollentuna|stockholm county|sweden": {
+    "lat": 59.4293164,
+    "long": 17.9500556
+  },
+  "fernand\u00f3polis|s\u00e3o paulo|brazil": {
+    "lat": -20.2825647,
+    "long": -50.2500762
+  },
+  "simi valley|california|united states": {
+    "lat": 34.2677404,
+    "long": -118.7538071
+  },
+  "ternopil|ternopil oblast|ukraine": {
+    "lat": 49.5557908,
+    "long": 25.5923753
+  },
+  "chascom\u00fas|buenos aires|argentina": {
+    "lat": -35.5786869,
+    "long": -58.0138252
+  },
+  "guarapari|esp\u00edrito santo|brazil": {
+    "lat": -20.6469745,
+    "long": -40.4917864
+  },
+  "san jos\u00e9|provincia de san jos\u00e9|costa rica": {
+    "lat": 9.9327707,
+    "long": -84.0796144
+  },
+  "jardin\u00f3polis|s\u00e3o paulo|brazil": {
+    "lat": -21.0255126,
+    "long": -47.7706807
+  },
+  "|tuscany|italy": {
+    "lat": 43.4586541,
+    "long": 11.1389204
+  },
+  "cleveleys|england|united kingdom": {
+    "lat": 53.8781587,
+    "long": -3.0428798
+  },
+  "str\u00e4ngn\u00e4s|s\u00f6dermanland county|sweden": {
+    "lat": 59.3763155,
+    "long": 17.0268194
+  },
+  "munich|bavaria|germany": {
+    "lat": 48.1371079,
+    "long": 11.5753822
+  },
+  "||philippines": {
+    "lat": 12.7503486,
+    "long": 122.7312101
+  },
+  "fuquay-varina|north carolina|united states": {
+    "lat": 35.5843849,
+    "long": -78.7998691
+  },
+  "maryville|tennessee|united states": {
+    "lat": 35.7564719,
+    "long": -83.9704593
+  },
+  "reno|nevada|united states": {
+    "lat": 39.5261788,
+    "long": -119.812658
+  },
+  "liskeard|england|united kingdom": {
+    "lat": 50.4546303,
+    "long": -4.4644227
+  },
+  "fairbanks|alaska|united states": {
+    "lat": 64.837845,
+    "long": -147.716675
+  },
+  "charleston|west virginia|united states": {
+    "lat": 38.3505995,
+    "long": -81.6332812
+  },
+  "ronkonkoma|new york|united states": {
+    "lat": 40.8075225,
+    "long": -73.1359924
+  },
+  "roseville|michigan|united states": {
+    "lat": 42.4972583,
+    "long": -82.9371409
+  },
+  "r\u00e9ts\u00e1g|n\u00f3gr\u00e1d megye|hungary": {
+    "lat": 47.9303241,
+    "long": 19.1375901
+  },
+  "olympia|washington|united states": {
+    "lat": 47.0451022,
+    "long": -122.8950075
+  },
+  "woodland|washington|united states": {
+    "lat": 45.9018496,
+    "long": -122.7459664
+  },
+  "morgantown|west virginia|united states": {
+    "lat": 39.6296809,
+    "long": -79.9559437
+  },
+  "macei\u00f3|alagoas|brazil": {
+    "lat": -9.6476843,
+    "long": -35.7339264
+  },
+  "winston-salem|north carolina|united states": {
+    "lat": 36.0998131,
+    "long": -80.2440518
+  },
+  "|lombardy|italy": {
+    "lat": 45.5703694,
+    "long": 9.7732524
+  },
+  "chandler|arizona|united states": {
+    "lat": 33.3062031,
+    "long": -111.841185
+  },
+  "matthews|north carolina|united states": {
+    "lat": 35.1159532,
+    "long": -80.7224386
+  },
+  "knoxville|tennessee|united states": {
+    "lat": 35.9603948,
+    "long": -83.9210261
+  },
+  "|indiana|united states": {
+    "lat": 40.3270127,
+    "long": -86.1746933
+  },
+  "rosario|santa fe|argentina": {
+    "lat": -32.9593609,
+    "long": -60.6617024
+  },
+  "tucson|arizona|united states": {
+    "lat": 32.2228765,
+    "long": -110.974847
+  },
+  "parauapebas|par\u00e1|brazil": {
+    "lat": -6.0696846,
+    "long": -49.8903283
+  },
+  "gustavo adolfo madero|mexico city|mexico": {
+    "lat": 19.4933046,
+    "long": -99.1332716
+  },
+  "tychy|silesia|poland": {
+    "lat": 50.1264981,
+    "long": 19.0067846
+  },
+  "motril|andalusia|spain": {
+    "lat": 36.7450888,
+    "long": -3.5207655
+  },
+  "hicksville|new york|united states": {
+    "lat": 40.7695303,
+    "long": -73.5293246
+  },
+  "maasmechelen|flanders|belgium": {
+    "lat": 50.9634179,
+    "long": 5.6960212
+  },
+  "buenos aires|buenos aires|argentina": {
+    "lat": -34.5121516,
+    "long": -58.5248182
+  },
+  "cocoa|florida|united states": {
+    "lat": 28.3556635,
+    "long": -80.7325345
+  },
+  "dagenham|england|united kingdom": {
+    "lat": 51.5413271,
+    "long": 0.1481142
+  },
+  "langerwehe|north rhine-westphalia|germany": {
+    "lat": 50.801983,
+    "long": 6.3681233
+  },
+  "leigh|england|united kingdom": {
+    "lat": 53.4960455,
+    "long": -2.5171495
+  },
+  "meerut|uttar pradesh|india": {
+    "lat": 29.0018557,
+    "long": 77.7679671
+  },
+  "la plata|buenos aires|argentina": {
+    "lat": -34.9206797,
+    "long": -57.9537638
+  },
+  "vernon|british columbia|canada": {
+    "lat": 50.2668671,
+    "long": -119.2718157
+  },
+  "kent|washington|united states": {
+    "lat": 47.3826903,
+    "long": -122.2270272
+  },
+  "yuba city|california|united states": {
+    "lat": 39.1404477,
+    "long": -121.6169108
+  },
+  "clinton|connecticut|united states": {
+    "lat": 41.2787104,
+    "long": -72.5275904
+  },
+  "wokingham|england|united kingdom": {
+    "lat": 51.4570846,
+    "long": -0.886537
+  },
+  "west orange|new jersey|united states": {
+    "lat": 40.7987113,
+    "long": -74.2390353
+  },
+  "madison|indiana|united states": {
+    "lat": 40.1624531,
+    "long": -85.7260804
+  },
+  "camden|england|united kingdom": {
+    "lat": 51.5427966,
+    "long": -0.1624803
+  },
+  "dijon|bourgogne|france": {
+    "lat": 47.3215806,
+    "long": 5.0414701
+  },
+  "split|split-dalmatia county|croatia": {
+    "lat": 43.5116383,
+    "long": 16.4399659
+  },
+  "valladolid|castille and le\u00f3n|spain": {
+    "lat": 41.6521807,
+    "long": -4.728605
+  },
+  "curitiba|paran\u00e1|brazil": {
+    "lat": -25.4295963,
+    "long": -49.2712724
+  },
+  "brandon|mississippi|united states": {
+    "lat": 32.2731475,
+    "long": -89.9868058
+  },
+  "jandu singha|punjab|india": {
+    "lat": 31.3767868,
+    "long": 75.6509435
+  },
+  "mau\u00e1|s\u00e3o paulo|brazil": {
+    "lat": -23.6669527,
+    "long": -46.4616922
+  },
+  "carmel|indiana|united states": {
+    "lat": 39.9784186,
+    "long": -86.1283681
+  },
+  "puerto cabello|carabobo|venezuela": {
+    "lat": 10.4677932,
+    "long": -68.0436682
+  },
+  "spring|texas|united states": {
+    "lat": 30.070979,
+    "long": -95.401342
+  },
+  "salida|colorado|united states": {
+    "lat": 38.5371195,
+    "long": -105.990968
+  },
+  "berlin|state of berlin|germany": {
+    "lat": 49.4759268,
+    "long": 10.9712801
+  },
+  "ryki|lublin|poland": {
+    "lat": 51.6266968,
+    "long": 21.935696
+  },
+  "pflugerville|texas|united states": {
+    "lat": 30.4393696,
+    "long": -97.6200043
+  },
+  "everett|massachusetts|united states": {
+    "lat": 42.4085897,
+    "long": -71.0542002
+  },
+  "weedsport|new york|united states": {
+    "lat": 43.048677,
+    "long": -76.5627197
+  },
+  "buzzards bay|massachusetts|united states": {
+    "lat": 41.7452589,
+    "long": -70.6154965
+  },
+  "oradea|bihor county|romania": {
+    "lat": null,
+    "long": null
+  },
+  "bristol|england|united kingdom": {
+    "lat": 51.4538022,
+    "long": -2.5972985
+  },
+  "bradford|england|united kingdom": {
+    "lat": 53.7944229,
+    "long": -1.7519186
+  },
+  "odesa|odessa|ukraine": {
+    "lat": 46.4843023,
+    "long": 30.7322878
+  },
+  "choisy-le-roi|\u00eele-de-france|france": {
+    "lat": 48.7630238,
+    "long": 2.4093664
+  },
+  "hajd\u00fan\u00e1n\u00e1s|hajd\u00fa-bihar|hungary": {
+    "lat": 47.8452241,
+    "long": 21.4279002
+  },
+  "saginaw|michigan|united states": {
+    "lat": 43.4200387,
+    "long": -83.9490365
+  },
+  "lumezzane|lombardy|italy": {
+    "lat": 45.6482576,
+    "long": 10.2645464
+  },
+  "st. petersburg|florida|united states": {
+    "lat": 27.7712264,
+    "long": -82.6340259
+  },
+  "noblesville|indiana|united states": {
+    "lat": 40.0460881,
+    "long": -86.0139854
+  },
+  "s\u00e3o leopoldo|rio grande do sul|brazil": {
+    "lat": -29.7544405,
+    "long": -51.1516497
+  },
+  "|mecklenburg-vorpommern|germany": {
+    "lat": 53.7735064,
+    "long": 12.5755471
+  },
+  "goioer\u00ea|paran\u00e1|brazil": {
+    "lat": -24.1851885,
+    "long": -53.0250623
+  },
+  "estoril|lisbon|portugal": {
+    "lat": 38.7095707,
+    "long": -9.3901368
+  },
+  "spencer|massachusetts|united states": {
+    "lat": 42.2436316,
+    "long": -71.9934879
+  },
+  "bastia|corsica|france": {
+    "lat": 42.6993979,
+    "long": 9.4509187
+  },
+  "birmingham|alabama|united states": {
+    "lat": 33.5206824,
+    "long": -86.8024326
+  },
+  "guayaquil|guayas|ecuador": {
+    "lat": -2.1900572,
+    "long": -79.8868669
+  },
+  "arrington|virginia|united states": {
+    "lat": 37.6764805,
+    "long": -78.9028067
+  },
+  "||cambodia": {
+    "lat": 12.5433216,
+    "long": 104.8144914
+  },
+  "bohum\u00edn|moravskoslezsk\u00fd kraj|czechia": {
+    "lat": 49.9041537,
+    "long": 18.3574288
+  },
+  "reston|virginia|united states": {
+    "lat": 38.953282,
+    "long": -77.3464516
+  },
+  "grand prairie|texas|united states": {
+    "lat": 32.7459645,
+    "long": -96.9977846
+  },
+  "west haven|connecticut|united states": {
+    "lat": 41.2706527,
+    "long": -72.9470471
+  },
+  "kirkland|washington|united states": {
+    "lat": 47.6765382,
+    "long": -122.2070775
+  },
+  "belvedere|england|united kingdom": {
+    "lat": 51.4922273,
+    "long": 0.1533667
+  },
+  "croydon|england|united kingdom": {
+    "lat": 51.3713049,
+    "long": -0.101957
+  },
+  "dallas|georgia|united states": {
+    "lat": 33.9237141,
+    "long": -84.8407732
+  },
+  "nelson|nelson region|new zealand": {
+    "lat": -41.2549894,
+    "long": 174.9513308
+  },
+  "west bromwich|england|united kingdom": {
+    "lat": 52.5186579,
+    "long": -1.9923114
+  },
+  "indian trail|north carolina|united states": {
+    "lat": 35.0768141,
+    "long": -80.6692352
+  },
+  "pleasant hill|california|united states": {
+    "lat": 37.9479786,
+    "long": -122.0607963
+  },
+  "cagnes-sur-mer|provence-alpes-c\u00f4te d'azur|france": {
+    "lat": 43.6612012,
+    "long": 7.1513834
+  },
+  "bel\u00e9m|par\u00e1|brazil": {
+    "lat": -1.45056,
+    "long": -48.4682453
+  },
+  "warren|michigan|united states": {
+    "lat": 42.4932575,
+    "long": -83.0062746
+  },
+  "dubai|dubai|united arab emirates": {
+    "lat": 25.0742823,
+    "long": 55.1885387
+  },
+  "bayville|new jersey|united states": {
+    "lat": 39.9092852,
+    "long": -74.1548614
+  },
+  "sosnowiec|silesia|poland": {
+    "lat": 50.2712401,
+    "long": 19.2155628
+  },
+  "alajuela|alajuela province|costa rica": {
+    "lat": 10.0165053,
+    "long": -84.2138674
+  },
+  "bacau|bac\u0103u county|romania": {
+    "lat": null,
+    "long": null
+  },
+  "moorestown|new jersey|united states": {
+    "lat": 39.9670569,
+    "long": -74.9426677
+  },
+  "la paz|la paz department|bolivia": {
+    "lat": -17.7956473,
+    "long": -63.1967342
+  },
+  "ansan-si|gyeonggi-do|south korea": {
+    "lat": 37.3217152,
+    "long": 126.8308604
+  },
+  "northfield|vermont|united states": {
+    "lat": 44.1486362,
+    "long": -72.6569682
+  },
+  "valencia|valencia|spain": {
+    "lat": 39.4697065,
+    "long": -0.3763353
+  },
+  "lille|hauts-de-france|france": {
+    "lat": 50.6365654,
+    "long": 3.0635282
+  },
+  "hamburg|pennsylvania|united states": {
+    "lat": 40.5553081,
+    "long": -75.9824083
+  },
+  "cheney|washington|united states": {
+    "lat": 47.4892246,
+    "long": -117.579304
+  },
+  "charlottesville|virginia|united states": {
+    "lat": 38.029306,
+    "long": -78.4766781
+  },
+  "fairfield|texas|united states": {
+    "lat": 31.7244035,
+    "long": -96.1648789
+  },
+  "brookfield|connecticut|united states": {
+    "lat": 41.4825947,
+    "long": -73.4095652
+  },
+  "sikeston|missouri|united states": {
+    "lat": 36.876719,
+    "long": -89.5878579
+  },
+  "j\u00f3zef\u00f3w|mazovia|poland": {
+    "lat": 52.1361065,
+    "long": 21.234551
+  },
+  "federal way|washington|united states": {
+    "lat": 47.313494,
+    "long": -122.33931
+  },
+  "san leandro|california|united states": {
+    "lat": 37.7249296,
+    "long": -122.1560768
+  },
+  "york|pennsylvania|united states": {
+    "lat": 39.962493,
+    "long": -76.7276989
+  },
+  "|kansas|united states": {
+    "lat": 38.27312,
+    "long": -98.5821872
+  },
+  "north york|ontario|canada": {
+    "lat": 43.7543217,
+    "long": -79.4491057
+  },
+  "florence|south carolina|united states": {
+    "lat": 34.1984435,
+    "long": -79.7671658
+  },
+  "omaha|nebraska|united states": {
+    "lat": 41.2587459,
+    "long": -95.9383758
+  },
+  "providence|rhode island|united states": {
+    "lat": 41.8239891,
+    "long": -71.4128343
+  },
+  "bedford|new hampshire|united states": {
+    "lat": 42.9464737,
+    "long": -71.5159015
+  },
+  "ibirama|santa catarina|brazil": {
+    "lat": -27.0537021,
+    "long": -49.5190771
+  },
+  "maracaibo|zulia|venezuela": {
+    "lat": 10.6498095,
+    "long": -71.6443596
+  },
+  "mooresville|north carolina|united states": {
+    "lat": 35.5848596,
+    "long": -80.8100724
+  },
+  "szigetszentmikl\u00f3s|pest county|hungary": {
+    "lat": null,
+    "long": null
+  },
+  "west palm beach|florida|united states": {
+    "lat": 26.715364,
+    "long": -80.0532942
+  },
+  "coventry|england|united kingdom": {
+    "lat": 52.4081812,
+    "long": -1.510477
+  },
+  "sofia|sofia-capital|bulgaria": {
+    "lat": null,
+    "long": null
+  },
+  "cottondale|alabama|united states": {
+    "lat": 33.1998045,
+    "long": -87.4530148
+  },
+  "newark|delaware|united states": {
+    "lat": 39.6828358,
+    "long": -75.7515682
+  },
+  "concord|new hampshire|united states": {
+    "lat": 43.207178,
+    "long": -71.537476
+  },
+  "||switzerland": {
+    "lat": 46.7985624,
+    "long": 8.2319736
+  },
+  "rochester|minnesota|united states": {
+    "lat": 44.0234387,
+    "long": -92.4630182
+  },
+  "douglasville|georgia|united states": {
+    "lat": 33.7514966,
+    "long": -84.7477136
+  },
+  "kingsley|michigan|united states": {
+    "lat": 44.584658,
+    "long": -85.536115
+  },
+  "rochester|new york|united states": {
+    "lat": 43.157285,
+    "long": -77.615214
+  },
+  "magnolia|texas|united states": {
+    "lat": 30.2095594,
+    "long": -95.7507897
+  },
+  "caucaia|cear\u00e1|brazil": {
+    "lat": -3.7300563,
+    "long": -38.6593082
+  },
+  "holly ridge|north carolina|united states": {
+    "lat": 34.4954448,
+    "long": -77.5549696
+  },
+  "windsor|california|united states": {
+    "lat": 38.5471327,
+    "long": -122.8163802
+  },
+  "cinisello balsamo|lombardy|italy": {
+    "lat": 45.5586454,
+    "long": 9.2141955
+  },
+  "blumenau|santa catarina|brazil": {
+    "lat": -26.9195567,
+    "long": -49.0658025
+  },
+  "durango|colorado|united states": {
+    "lat": 37.2769484,
+    "long": -107.8766
+  },
+  "naguanagua|carabobo|venezuela": {
+    "lat": 10.258136,
+    "long": -68.0120991
+  },
+  "swadlincote|england|united kingdom": {
+    "lat": 52.7736624,
+    "long": -1.5575555
+  },
+  "lavallette|new jersey|united states": {
+    "lat": 39.9703958,
+    "long": -74.0687475
+  },
+  "tulsa|oklahoma|united states": {
+    "lat": 36.1563122,
+    "long": -95.9927516
+  },
+  "roswell|georgia|united states": {
+    "lat": 34.02332,
+    "long": -84.360022
+  },
+  "cuautitl\u00e1n|m\u00e9xico|mexico": {
+    "lat": 19.7055182,
+    "long": -99.1666257
+  },
+  "nantes|pays de la loire|france": {
+    "lat": 47.2186371,
+    "long": -1.5541362
+  },
+  "santo andr\u00e9|s\u00e3o paulo|brazil": {
+    "lat": -23.6533509,
+    "long": -46.5279039
+  },
+  "waukegan|illinois|united states": {
+    "lat": 42.3602273,
+    "long": -87.8318164
+  },
+  "silvares|braga|portugal": {
+    "lat": 41.4443329,
+    "long": -8.3363725
+  },
+  "medford|new york|united states": {
+    "lat": 40.8228192,
+    "long": -72.9887443
+  },
+  "sananduva|rio grande do sul|brazil": {
+    "lat": -27.9499376,
+    "long": -51.8074435
+  },
+  "sanford|florida|united states": {
+    "lat": 28.8117345,
+    "long": -81.2680223
+  },
+  "broken arrow|oklahoma|united states": {
+    "lat": 36.0525993,
+    "long": -95.7908195
+  },
+  "montevideo|montevideo department|uruguay": {
+    "lat": null,
+    "long": null
+  },
+  "smyrna|tennessee|united states": {
+    "lat": 35.9824598,
+    "long": -86.5199492
+  },
+  "mercer island|washington|united states": {
+    "lat": 47.5766324,
+    "long": -122.2276378
+  },
+  "west covina|california|united states": {
+    "lat": 34.0686208,
+    "long": -117.9389526
+  },
+  "d\u00f6rentrup|north rhine-westphalia|germany": {
+    "lat": 52.0408142,
+    "long": 9.0033681
+  },
+  "||taiwan": {
+    "lat": 23.9739374,
+    "long": 120.9820179
+  },
+  "daleville|virginia|united states": {
+    "lat": 37.4093425,
+    "long": -79.9204774
+  },
+  "|odessa|ukraine": {
+    "lat": 46.4843023,
+    "long": 30.7322878
+  },
+  "santo domingo|nacional|dominican republic": {
+    "lat": 18.4713858,
+    "long": -69.8918436
+  },
+  "minocqua|wisconsin|united states": {
+    "lat": 45.871342,
+    "long": -89.710981
+  },
+  "perugia|umbria|italy": {
+    "lat": 43.1070321,
+    "long": 12.4029962
+  },
+  "laredo|texas|united states": {
+    "lat": 27.5079211,
+    "long": -99.5069834
+  },
+  "kyiv||ukraine": {
+    "lat": 50.4500336,
+    "long": 30.5241361
+  },
+  "lviv|lviv oblast|ukraine": {
+    "lat": 49.841952,
+    "long": 24.0315921
+  },
+  "buenos aires||argentina": {
+    "lat": -34.6095579,
+    "long": -58.3887904
+  },
+  "santiago|santiago metropolitan region|chile": {
+    "lat": -33.4376995,
+    "long": -70.6510671
+  },
+  "s\u00e3o paulo|state of s\u00e3o paulo|brazil": {
+    "lat": null,
+    "long": null
+  },
+  "istanbul|i\u0307stanbul|t\u00fcrkiye": {
+    "lat": 41.006381,
+    "long": 28.9758715
+  },
+  "mexico city|cdmx|mexico": {
+    "lat": 19.4326296,
+    "long": -99.1331785
+  },
+  "paris||france": {
+    "lat": 48.8588897,
+    "long": 2.320041
+  },
+  "warsaw||poland": {
+    "lat": 52.2333742,
+    "long": 21.0711489
+  },
+  "odesa|odesa oblast|ukraine": {
+    "lat": 46.4843023,
+    "long": 30.7322878
+  },
+  "c\u00f3rdoba|c\u00f3rdoba province|argentina": {
+    "lat": -33.0971012,
+    "long": -64.329742
+  },
+  "sydney nsw||australia": {
+    "lat": -33.8471082,
+    "long": 151.0633848
+  },
+  "london||uk": {
+    "lat": 51.5074456,
+    "long": -0.1277653
+  },
+  "seoul||south korea": {
+    "lat": 37.5666791,
+    "long": 126.9782914
+  },
+  "bangkok||thailand": {
+    "lat": 13.7524938,
+    "long": 100.4935089
+  },
+  "san miguel de tucum\u00e1n|tucum\u00e1n province|argentina": {
+    "lat": -31.8718387,
+    "long": -60.0085691
+  },
+  "brisbane qld||australia": {
+    "lat": -27.4809084,
+    "long": 153.0337429
+  },
+  "lima||peru": {
+    "lat": -12.0459808,
+    "long": -77.0305912
+  },
+  "los angeles|ca|usa": {
+    "lat": 34.0536909,
+    "long": -118.242766
+  },
+  "ankara||t\u00fcrkiye": {
+    "lat": 39.9207759,
+    "long": 32.8540497
+  },
+  "melbourne vic||australia": {
+    "lat": -37.7545198,
+    "long": 144.9807272
+  },
+  "new york|ny|usa": {
+    "lat": 40.7127281,
+    "long": -74.0060152
+  },
+  "prague||czechia": {
+    "lat": 50.0874654,
+    "long": 14.4212535
+  },
+  "houston|tx|usa": {
+    "lat": 29.7589382,
+    "long": -95.3676974
+  },
+  "rosario|santa fe province|argentina": {
+    "lat": -34.7640997,
+    "long": -59.6817004
+  },
+  "mar del plata|buenos aires province|argentina": {
+    "lat": -37.9976168,
+    "long": -57.5482079
+  },
+  "chicago|il|usa": {
+    "lat": 41.8755616,
+    "long": -87.6244212
+  },
+  "rio de janeiro|state of rio de janeiro|brazil": {
+    "lat": null,
+    "long": null
+  },
+  "kharkiv|kharkiv oblast|ukraine": {
+    "lat": 49.9923181,
+    "long": 36.2310146
+  },
+  "resistencia|chaco province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "salta|salta province|argentina": {
+    "lat": -31.7281737,
+    "long": -60.5230802
+  },
+  "budapest||hungary": {
+    "lat": 47.4978789,
+    "long": 19.0402383
+  },
+  "bucharest||romania": {
+    "lat": 44.4361414,
+    "long": 26.102684
+  },
+  "i\u0307zmir||t\u00fcrkiye": {
+    "lat": 38.4192537,
+    "long": 27.128469
+  },
+  "belo horizonte|state of minas gerais|brazil": {
+    "lat": null,
+    "long": null
+  },
+  "san salvador de jujuy|jujuy province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "milan|metropolitan city of milan|italy": {
+    "lat": 45.4641943,
+    "long": 9.1896346
+  },
+  "curitiba|state of paran\u00e1|brazil": {
+    "lat": null,
+    "long": null
+  },
+  "bogot\u00e1|bogota|colombia": {
+    "lat": 4.6533817,
+    "long": -74.0836331
+  },
+  "seattle|wa|usa": {
+    "lat": 47.6038321,
+    "long": -122.330062
+  },
+  "santa fe|santa fe province|argentina": {
+    "lat": -34.4585879,
+    "long": -58.636676
+  },
+  "san luis|san luis province|argentina": {
+    "lat": -34.7195029,
+    "long": -58.7840772
+  },
+  "neuquen|neuqu\u00e9n province|argentina": {
+    "lat": -38.9519679,
+    "long": -68.0591741
+  },
+  "la rioja|la rioja province|argentina": {
+    "lat": -35.4453424,
+    "long": -60.8832368
+  },
+  "posadas|misiones province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "formosa|formosa province|argentina": {
+    "lat": -34.4599649,
+    "long": -58.5390452
+  },
+  "b lan\u00fas|buenos aires province|argentina": {
+    "lat": -34.7446102,
+    "long": -58.3628023
+  },
+  "phoenix|az|usa": {
+    "lat": 33.4484367,
+    "long": -112.074141
+  },
+  "santiago del estero|santiago del estero province|argentina": {
+    "lat": -34.5290146,
+    "long": -58.5484927
+  },
+  "toronto|on|canada": {
+    "lat": 43.6534817,
+    "long": -79.3839347
+  },
+  "bah\u00eda blanca|buenos aires province|argentina": {
+    "lat": -38.7176522,
+    "long": -62.2654871
+  },
+  "la plata|buenos aires province|argentina": {
+    "lat": -34.9206797,
+    "long": -57.9537638
+  },
+  "montreal|qc|canada": {
+    "lat": 45.5031824,
+    "long": -73.5698065
+  },
+  "dallas|tx|usa": {
+    "lat": 32.7762719,
+    "long": -96.7968559
+  },
+  "paran\u00e1|entre r\u00edos province|argentina": {
+    "lat": -31.7330145,
+    "long": -60.5298511
+  },
+  "jos\u00e9 c. paz|buenos aires province|argentina": {
+    "lat": -34.511906,
+    "long": -58.7776777
+  },
+  "corrientes|corrientes province|argentina": {
+    "lat": -34.6921438,
+    "long": -58.4457335
+  },
+  "wroc\u0142aw||poland": {
+    "lat": 51.1263106,
+    "long": 16.9781963
+  },
+  "gregorio de laferr\u00e8re|buenos aires province|argentina": {
+    "lat": -34.7504785,
+    "long": -58.5846362
+  },
+  "perth wa||australia": {
+    "lat": -31.950652,
+    "long": 115.7978755
+  },
+  "ingeniero budge|buenos aires province|argentina": {
+    "lat": -34.7185365,
+    "long": -58.4624341
+  },
+  "merlo|buenos aires province|argentina": {
+    "lat": -34.6604988,
+    "long": -58.7321695
+  },
+  "moreno|buenos aires province|argentina": {
+    "lat": -34.6396556,
+    "long": -58.7898326
+  },
+  "campinas|state of s\u00e3o paulo|brazil": {
+    "lat": null,
+    "long": null
+  },
+  "denver|co|usa": {
+    "lat": 39.7392364,
+    "long": -104.984862
+  },
+  "sofia||bulgaria": {
+    "lat": 42.6977028,
+    "long": 23.3217359
+  },
+  "b florencio varela|buenos aires province|argentina": {
+    "lat": -34.5522374,
+    "long": -58.5088292
+  },
+  "gonz\u00e1lez cat\u00e1n|buenos aires province|argentina": {
+    "lat": -34.769249,
+    "long": -58.6480318
+  },
+  "austin|tx|usa": {
+    "lat": 30.2711286,
+    "long": -97.7436995
+  },
+  "calgary|ab|canada": {
+    "lat": 51.0456064,
+    "long": -114.057541
+  },
+  "bras\u00edlia - brasilia|bras\u00edlia - federal district|brazil": {
+    "lat": -15.8032581,
+    "long": -47.8854767
+  },
+  "catamarca|catamarca province|argentina": {
+    "lat": -31.3953338,
+    "long": -58.0164041
+  },
+  "comodoro rivadavia|chubut province|argentina": {
+    "lat": -45.9350859,
+    "long": -67.5714194
+  },
+  "b san miguel|buenos aires province|argentina": {
+    "lat": -34.543006,
+    "long": -58.711966
+  },
+  "quilmes oeste|buenos aires province|argentina": {
+    "lat": -34.7461418,
+    "long": -58.287826
+  },
+  "concordia|entre r\u00edos province|argentina": {
+    "lat": -31.3401914,
+    "long": -58.0263642
+  },
+  "villa mercedes|san luis province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "santa rosa|la pampa province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "caseros|buenos aires province|argentina": {
+    "lat": -34.607366,
+    "long": -58.5661311
+  },
+  "san carlos de bariloche|r\u00edo negro province|argentina": {
+    "lat": -41.1334781,
+    "long": -71.3101474
+  },
+  "trelew|chubut province|argentina": {
+    "lat": -45.9290286,
+    "long": -67.5993476
+  },
+  "monte grande|buenos aires province|argentina": {
+    "lat": -34.8192731,
+    "long": -58.4664257
+  },
+  "villa krause|san juan province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "san juan|san juan province|argentina": {
+    "lat": -38.9734659,
+    "long": -67.8420658
+  },
+  "rio gallegos|santa cruz province|argentina": {
+    "lat": -51.6268852,
+    "long": -69.105804
+  },
+  "kryvyi rih|dnipropetrovsk oblast|ukraine": {
+    "lat": 47.9102734,
+    "long": 33.3917703
+  },
+  "r\u00edo cuarto|c\u00f3rdoba province|argentina": {
+    "lat": -33.3400154,
+    "long": -62.8360178
+  },
+  "san rafael|mendoza province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "tandil|buenos aires province|argentina": {
+    "lat": -37.3282887,
+    "long": -59.1356957
+  },
+  "b burzaco|buenos aires province|argentina": {
+    "lat": -34.8258956,
+    "long": -58.3950536
+  },
+  "san francisco|ca|usa": {
+    "lat": 37.7879363,
+    "long": -122.4075201
+  },
+  "poltava|poltava oblast|ukraine": {
+    "lat": 49.5897423,
+    "long": 34.5507948
+  },
+  "r general roca|r\u00edo negro province|argentina": {
+    "lat": -41.1336757,
+    "long": -71.3536587
+  },
+  "las heras|mendoza province|argentina": {
+    "lat": null,
+    "long": null
+  },
+  "quilmes|buenos aires province|argentina": {
+    "lat": -34.7244434,
+    "long": -58.2588168
+  },
+  "puerto madryn|chubut province|argentina": {
+    "lat": -45.8541304,
+    "long": -67.5511077
+  },
+  "porto alegre|rs|brazil": {
+    "lat": -30.0324999,
+    "long": -51.2303767
+  },
+  "atlanta|ga|usa": {
+    "lat": 33.7544657,
+    "long": -84.3898151
+  },
+  "istanbul|i\u0307stanbul|turkey": {
+    "lat": 41.006381,
+    "long": 28.9758715,
+    "country_resolved": "T\u00fcrkiye"
+  },
+  "london||united kingdom": {
+    "lat": 51.5074456,
+    "long": -0.1277653,
+    "country_resolved": "United Kingdom"
+  },
+  "los angeles|ca|united states": {
+    "lat": 34.0536909,
+    "long": -118.242766,
+    "country_resolved": "United States"
+  },
+  "ankara||turkey": {
+    "lat": 39.9207759,
+    "long": 32.8540497,
+    "country_resolved": "T\u00fcrkiye"
+  },
+  "new york|ny|united states": {
+    "lat": 40.7127281,
+    "long": -74.0060152,
+    "country_resolved": "United States"
+  },
+  "prague||czech republic": {
+    "lat": 50.0874654,
+    "long": 14.4212535,
+    "country_resolved": "\u010cesko"
+  },
+  "houston|tx|united states": {
+    "lat": 29.7589382,
+    "long": -95.3676974,
+    "country_resolved": "United States"
+  },
+  "chicago|il|united states": {
+    "lat": 41.8755616,
+    "long": -87.6244212,
+    "country_resolved": "United States"
+  },
+  "i\u0307zmir||turkey": {
+    "lat": 38.4192537,
+    "long": 27.128469,
+    "country_resolved": "T\u00fcrkiye"
+  },
+  "seattle|wa|united states": {
+    "lat": 47.6038321,
+    "long": -122.330062,
+    "country_resolved": "United States"
+  },
+  "phoenix|az|united states": {
+    "lat": 33.4484367,
+    "long": -112.074141,
+    "country_resolved": "United States"
+  },
+  "dallas|tx|united states": {
+    "lat": 32.7762719,
+    "long": -96.7968559,
+    "country_resolved": "United States"
+  },
+  "denver|co|united states": {
+    "lat": 39.7392364,
+    "long": -104.984862,
+    "country_resolved": "United States"
+  },
+  "austin|tx|united states": {
+    "lat": 30.2711286,
+    "long": -97.7436995,
+    "country_resolved": "United States"
+  },
+  "san francisco|ca|united states": {
+    "lat": 37.7879363,
+    "long": -122.4075201,
+    "country_resolved": "United States"
+  },
+  "atlanta|ga|united states": {
+    "lat": 33.7544657,
+    "long": -84.3898151,
+    "country_resolved": "United States"
+  },
+  "prague|prague|czech republic": {
+    "lat": 50.0874654,
+    "long": 14.4212535,
+    "country_resolved": "\u010cesko"
+  },
+  "amsterdam|north holland|netherlands": {
+    "lat": 52.3730796,
+    "long": 4.8924534,
+    "country_resolved": "Nederland"
+  },
+  "istanbul|istanbul|turkey": {
+    "lat": 41.006381,
+    "long": 28.9758715,
+    "country_resolved": "T\u00fcrkiye"
+  }
+}
