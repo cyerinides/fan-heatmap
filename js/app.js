@@ -4,8 +4,8 @@
 
 // ---- HubSpot configuration ----
 // Fill in your HubSpot portal ID and form ID before going live.
-const HUBSPOT_PORTAL_ID = "YOUR_PORTAL_ID";
-const HUBSPOT_FORM_ID   = "YOUR_FORM_ID";
+const HUBSPOT_PORTAL_ID = "244429096";
+const HUBSPOT_FORM_ID   = "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9";
 
 (function () {
 
