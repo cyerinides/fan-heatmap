@@ -53,7 +53,7 @@ a:hover { text-decoration: underline; }
 }
 
 .site-logo {
-  height: 28px;
+  height: 20px;
   width: auto;
   display: block;
 }
@@ -321,6 +321,7 @@ a:hover { text-decoration: underline; }
 /* ---- Dropzone ---- */
 
 .dropzone {
+  margin-top: auto;
   border: 1px dashed var(--gray-4);
   border-radius: var(--radius);
   padding: 20px;

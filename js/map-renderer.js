@@ -180,8 +180,13 @@ const MapRenderer = (function () {
   function buildViewGroup(locations, viewKey) {
     const style = VIEW_STYLES[viewKey] || VIEW_STYLES.blended;
 
-    // Heat layer
-    const heatData = locations.map(l => [l.lat, l.lng, l.score]);
+    // Heat layer — duplicate points at ±360° so heat renders on all world copies
+    const heatData = [];
+    for (const l of locations) {
+      heatData.push([l.lat, l.lng,       l.score]);
+      heatData.push([l.lat, l.lng + 360, l.score]);
+      heatData.push([l.lat, l.lng - 360, l.score]);
+    }
     const heat = L.heatLayer(heatData, {
       radius: 35,
       blur: 25,
