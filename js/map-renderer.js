@@ -39,7 +39,8 @@ const MapRenderer = (function () {
       zoom: defaultZoom,
       zoomControl: true,
       scrollWheelZoom: true,
-      worldCopyJump: true,
+      maxBounds: [[-85.05, -180], [85.05, 180]],
+      maxBoundsViscosity: 1.0,
     });
 
     L.tileLayer(TILE_URL, { attribution: TILE_ATTR, maxZoom: 18 }).addTo(map);
@@ -125,11 +126,15 @@ const MapRenderer = (function () {
   function createRenderer(containerId, viewLocations, options = {}) {
     const defaultZoom = options.zoom || 2;
 
+    // maxBounds + maxBoundsViscosity prevents panning into world copies.
+    // leaflet.heat uses a container-sized canvas — points that project outside it
+    // are never drawn, so restricting to one world is the only reliable fix.
     const map = L.map(containerId, {
       center: options.center || [30, -20],
       zoom: defaultZoom,
       scrollWheelZoom: true,
-      worldCopyJump: true,
+      maxBounds: [[-85.05, -180], [85.05, 180]],
+      maxBoundsViscosity: 1.0,
     });
 
     L.tileLayer(TILE_URL, { attribution: TILE_ATTR, maxZoom: 18 }).addTo(map);
@@ -180,13 +185,8 @@ const MapRenderer = (function () {
   function buildViewGroup(locations, viewKey) {
     const style = VIEW_STYLES[viewKey] || VIEW_STYLES.blended;
 
-    // Heat layer — duplicate points at ±360° so heat renders on all world copies
-    const heatData = [];
-    for (const l of locations) {
-      heatData.push([l.lat, l.lng,       l.score]);
-      heatData.push([l.lat, l.lng + 360, l.score]);
-      heatData.push([l.lat, l.lng - 360, l.score]);
-    }
+    // Heat layer
+    const heatData = locations.map(l => [l.lat, l.lng, l.score]);
     const heat = L.heatLayer(heatData, {
       radius: 35,
       blur: 25,
