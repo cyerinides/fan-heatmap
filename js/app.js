@@ -64,6 +64,9 @@
     uploadUI.classList.remove("hidden");
   }
 
+  // Expose for HubSpot onFormSubmitted callback
+  window.revealUploadUI = revealUploadUI;
+
   // ---- File uploads ----
   function initFileUploads() {
     document.querySelectorAll(".dropzone").forEach(zone => {
