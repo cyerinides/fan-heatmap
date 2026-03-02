@@ -8,8 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-  <link rel="stylesheet" href="styles.css?v=5">
-  <script src="https://js-na2.hsforms.net/forms/embed/244429096.js" defer></script>
+  <link rel="stylesheet" href="styles.css?v=6">
 </head>
 <body>
 
@@ -53,7 +52,7 @@
 
         <!-- EMAIL GATE -->
         <div id="email-gate">
-          <div class="hs-form-frame" data-region="na2" data-form-id="42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9" data-portal-id="244429096"></div>
+          <div id="hs-form-container"></div>
         </div>
 
         <!-- UPLOAD UI -->
@@ -207,6 +206,15 @@
   <script src="js/geocoder.js"></script>
   <script src="js/map-renderer.js"></script>
   <script src="js/app.js"></script>
+  <script charset="utf-8" type="text/javascript" src="//js-na2.hsforms.net/forms/embed/v2.js"></script>
+  <script>
+    hbspt.forms.create({
+      region: "na2",
+      portalId: "244429096",
+      formId: "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9",
+      target: "#hs-form-container"
+    });
+  </script>
 
 </body>
 </html>

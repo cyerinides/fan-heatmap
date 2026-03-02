@@ -438,13 +438,13 @@ a:hover { text-decoration: underline; }
   margin-bottom: 40px;
 }
 
-.hs-form-frame form,
-.hs-form-frame .hs-form {
+#email-gate form,
+#email-gate .hs-form {
   font-family: 'Inter Tight', Arial, sans-serif;
 }
 
-.hs-form-frame .hs-form-field > label,
-.hs-form-frame .hs-field-desc {
+#email-gate .hs-form-field > label,
+#email-gate .hs-field-desc {
   color: var(--text-dim);
   font-size: 13px;
   font-family: 'Inter Tight', Arial, sans-serif;
@@ -452,12 +452,12 @@ a:hover { text-decoration: underline; }
   display: block;
 }
 
-.hs-form-frame input[type="text"],
-.hs-form-frame input[type="email"],
-.hs-form-frame input[type="tel"],
-.hs-form-frame input[type="number"],
-.hs-form-frame textarea,
-.hs-form-frame select {
+#email-gate input[type="text"],
+#email-gate input[type="email"],
+#email-gate input[type="tel"],
+#email-gate input[type="number"],
+#email-gate textarea,
+#email-gate select {
   background: var(--gray-2) !important;
   border: 1px solid var(--gray-4) !important;
   border-radius: var(--radius-btn) !important;
@@ -470,34 +470,34 @@ a:hover { text-decoration: underline; }
   outline: none !important;
 }
 
-.hs-form-frame input[type="text"]:focus,
-.hs-form-frame input[type="email"]:focus,
-.hs-form-frame input[type="tel"]:focus,
-.hs-form-frame textarea:focus {
+#email-gate input[type="text"]:focus,
+#email-gate input[type="email"]:focus,
+#email-gate input[type="tel"]:focus,
+#email-gate textarea:focus {
   border-color: var(--teal) !important;
 }
 
-.hs-form-frame input::placeholder,
-.hs-form-frame textarea::placeholder {
+#email-gate input::placeholder,
+#email-gate textarea::placeholder {
   color: var(--gray-5) !important;
 }
 
 /* Phone field country picker */
-.hs-form-frame .hs-input.hs-fieldtype-intl-phone,
-.hs-form-frame .flag-dropdown,
-.hs-form-frame .selected-flag {
+#email-gate .hs-input.hs-fieldtype-intl-phone,
+#email-gate .flag-dropdown,
+#email-gate .selected-flag {
   background: var(--gray-2) !important;
   border-color: var(--gray-4) !important;
 }
 
-.hs-form-frame .country-list {
+#email-gate .country-list {
   background: var(--gray-2) !important;
   border-color: var(--gray-3) !important;
   color: var(--text) !important;
 }
 
-.hs-form-frame .hs-button,
-.hs-form-frame input[type="submit"] {
+#email-gate .hs-button,
+#email-gate input[type="submit"] {
   background: var(--coral) !important;
   color: var(--white) !important;
   border: none !important;
@@ -509,31 +509,31 @@ a:hover { text-decoration: underline; }
   cursor: pointer !important;
 }
 
-.hs-form-frame .hs-button:hover,
-.hs-form-frame input[type="submit"]:hover {
+#email-gate .hs-button:hover,
+#email-gate input[type="submit"]:hover {
   opacity: 0.88 !important;
 }
 
-.hs-form-frame .hs-error-msgs {
+#email-gate .hs-error-msgs {
   list-style: none !important;
   padding: 0 !important;
   margin-top: 4px !important;
 }
 
-.hs-form-frame .hs-error-msgs li label,
-.hs-form-frame .hs-main-font-element {
+#email-gate .hs-error-msgs li label,
+#email-gate .hs-main-font-element {
   color: var(--coral) !important;
   font-size: 12px !important;
 }
 
-.hs-form-frame .legal-consent-container,
-.hs-form-frame .hs-richtext {
+#email-gate .legal-consent-container,
+#email-gate .hs-richtext {
   color: var(--text-dim) !important;
   font-size: 12px !important;
   font-family: 'Inter Tight', Arial, sans-serif !important;
 }
 
-.hs-form-frame .hs-richtext a {
+#email-gate .hs-richtext a {
   color: var(--teal) !important;
 }
 
