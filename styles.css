@@ -82,7 +82,6 @@ a:hover { text-decoration: underline; }
 .hero-sub {
   font-size: 1.1rem;
   color: var(--text-dim);
-  max-width: 640px;
   line-height: 1.65;
 }
 

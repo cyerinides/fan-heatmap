@@ -2,11 +2,6 @@
 // Main application — initializes demo map, handles email gate,
 // file uploads, processing pipeline, and results map.
 
-// ---- HubSpot configuration ----
-// Fill in your HubSpot portal ID and form ID before going live.
-const HUBSPOT_PORTAL_ID = "244429096";
-const HUBSPOT_FORM_ID   = "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9";
-
 (function () {
 
   // ---- State ----
@@ -16,9 +11,6 @@ const HUBSPOT_FORM_ID   = "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9";
 
   // ---- DOM refs ----
   const emailGate      = document.getElementById("email-gate");
-  const emailInput     = document.getElementById("email-input");
-  const emailSubmit    = document.getElementById("email-submit");
-  const emailError     = document.getElementById("email-error");
   const uploadUI       = document.getElementById("upload-ui");
   const generateBtn    = document.getElementById("generate-btn");
   const generateHint   = document.getElementById("generate-hint");
@@ -59,48 +51,17 @@ const HUBSPOT_FORM_ID   = "42a795ee-f7b8-4c09-b2ed-73f8ec5a78b9";
 
   // ---- Email gate ----
   function initEmailGate() {
-    emailSubmit.addEventListener("click", handleEmailSubmit);
-    emailInput.addEventListener("keydown", e => {
-      if (e.key === "Enter") handleEmailSubmit();
+    window.addEventListener("message", function (event) {
+      if (event.data && event.data.type === "hsFormCallback" &&
+          (event.data.eventName === "onFormSubmit" || event.data.eventName === "onFormSubmitted")) {
+        revealUploadUI();
+      }
     });
-  }
-
-  function handleEmailSubmit() {
-    const email = emailInput.value.trim();
-    if (!isValidEmail(email)) {
-      emailError.classList.remove("hidden");
-      emailInput.focus();
-      return;
-    }
-    emailError.classList.add("hidden");
-    submitToHubSpot(email);
-    revealUploadUI();
-  }
-
-  function isValidEmail(email) {
-    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
   }
 
   function revealUploadUI() {
     emailGate.classList.add("hidden");
     uploadUI.classList.remove("hidden");
-  }
-
-  async function submitToHubSpot(email) {
-    if (HUBSPOT_PORTAL_ID === "YOUR_PORTAL_ID") return; // Not yet configured
-    try {
-      await fetch(`https://api.hsforms.com/submissions/v3/integration/submit/${HUBSPOT_PORTAL_ID}/${HUBSPOT_FORM_ID}`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          fields: [{ name: "email", value: email }],
-          context: { pageUri: window.location.href, pageName: "Fan Heat Map" },
-        }),
-      });
-    } catch (e) {
-      // Non-blocking — don't interrupt the user experience
-      console.warn("HubSpot submission failed:", e);
-    }
   }
 
   // ---- File uploads ----
