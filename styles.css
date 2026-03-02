@@ -176,7 +176,6 @@ a:hover { text-decoration: underline; }
 
 .upload-intro p {
   color: var(--text-dim);
-  max-width: 560px;
 }
 
 /* ---- Email gate ---- */
@@ -431,6 +430,111 @@ a:hover { text-decoration: underline; }
   font-size: 13px;
   color: var(--coral);
   margin-top: 6px;
+}
+
+/* ---- HubSpot form overrides ---- */
+
+#email-gate {
+  margin-bottom: 40px;
+}
+
+.hs-form-frame form,
+.hs-form-frame .hs-form {
+  font-family: 'Inter Tight', Arial, sans-serif;
+}
+
+.hs-form-frame .hs-form-field > label,
+.hs-form-frame .hs-field-desc {
+  color: var(--text-dim);
+  font-size: 13px;
+  font-family: 'Inter Tight', Arial, sans-serif;
+  margin-bottom: 6px;
+  display: block;
+}
+
+.hs-form-frame input[type="text"],
+.hs-form-frame input[type="email"],
+.hs-form-frame input[type="tel"],
+.hs-form-frame input[type="number"],
+.hs-form-frame textarea,
+.hs-form-frame select {
+  background: var(--gray-2) !important;
+  border: 1px solid var(--gray-4) !important;
+  border-radius: var(--radius-btn) !important;
+  color: var(--text) !important;
+  font-family: 'Inter Tight', Arial, sans-serif !important;
+  font-size: 15px !important;
+  padding: 12px 20px !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  outline: none !important;
+}
+
+.hs-form-frame input[type="text"]:focus,
+.hs-form-frame input[type="email"]:focus,
+.hs-form-frame input[type="tel"]:focus,
+.hs-form-frame textarea:focus {
+  border-color: var(--teal) !important;
+}
+
+.hs-form-frame input::placeholder,
+.hs-form-frame textarea::placeholder {
+  color: var(--gray-5) !important;
+}
+
+/* Phone field country picker */
+.hs-form-frame .hs-input.hs-fieldtype-intl-phone,
+.hs-form-frame .flag-dropdown,
+.hs-form-frame .selected-flag {
+  background: var(--gray-2) !important;
+  border-color: var(--gray-4) !important;
+}
+
+.hs-form-frame .country-list {
+  background: var(--gray-2) !important;
+  border-color: var(--gray-3) !important;
+  color: var(--text) !important;
+}
+
+.hs-form-frame .hs-button,
+.hs-form-frame input[type="submit"] {
+  background: var(--coral) !important;
+  color: var(--white) !important;
+  border: none !important;
+  border-radius: var(--radius-btn) !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  font-family: 'Inter Tight', Arial, sans-serif !important;
+  padding: 12px 26px !important;
+  cursor: pointer !important;
+}
+
+.hs-form-frame .hs-button:hover,
+.hs-form-frame input[type="submit"]:hover {
+  opacity: 0.88 !important;
+}
+
+.hs-form-frame .hs-error-msgs {
+  list-style: none !important;
+  padding: 0 !important;
+  margin-top: 4px !important;
+}
+
+.hs-form-frame .hs-error-msgs li label,
+.hs-form-frame .hs-main-font-element {
+  color: var(--coral) !important;
+  font-size: 12px !important;
+}
+
+.hs-form-frame .legal-consent-container,
+.hs-form-frame .hs-richtext {
+  color: var(--text-dim) !important;
+  font-size: 12px !important;
+  font-family: 'Inter Tight', Arial, sans-serif !important;
+}
+
+.hs-form-frame .hs-richtext a {
+  color: var(--teal) !important;
 }
 
 /* ---- Footer ---- */
