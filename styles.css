@@ -155,12 +155,13 @@ a:hover { text-decoration: underline; }
 .upload-section {
   background: var(--gray-1);
   border-top: 1px solid var(--gray-3);
-  padding: 64px 32px;
+  padding: 64px 0;
 }
 
 .upload-inner {
   max-width: var(--max-w);
   margin: 0 auto;
+  padding: 0 32px;
 }
 
 .upload-intro {
@@ -575,8 +576,8 @@ a:hover { text-decoration: underline; }
 .hidden { display: none !important; }
 
 @media (max-width: 600px) {
-  .hero, .map-section { padding-left: 20px; padding-right: 20px; }
-  .upload-section { padding: 40px 20px; }
+  .hero, .map-section, .upload-inner { padding-left: 20px; padding-right: 20px; }
+  .upload-section { padding: 40px 0; }
   .map-container { height: 340px; }
   .email-row input[type="email"] { min-width: 100%; }
 }
